@@ -1,0 +1,6321 @@
+{
+ "grade": "M2",
+ "subjects": [
+  {
+   "code": "MA",
+   "courses": [
+    "ค22102"
+   ],
+   "course_name": "คณิตศาสตร์พื้นฐาน",
+   "name": "คณิตศาสตร์"
+  },
+  {
+   "code": "SC",
+   "courses": [
+    "ว22102"
+   ],
+   "course_name": "วิทยาศาสตร์พื้นฐาน",
+   "name": "วิทยาศาสตร์"
+  },
+  {
+   "code": "EN",
+   "courses": [
+    "อ22102"
+   ],
+   "course_name": "ภาษาอังกฤษพื้นฐาน",
+   "name": "ภาษาอังกฤษ"
+  },
+  {
+   "code": "TH",
+   "courses": [
+    "ท22102"
+   ],
+   "course_name": "ภาษาไทยพื้นฐาน",
+   "name": "ภาษาไทย"
+  },
+  {
+   "code": "SO",
+   "courses": [
+    "ส22103"
+   ],
+   "course_name": "สังคมศึกษา ศาสนาและวัฒนธรรม",
+   "name": "สังคมศึกษา"
+  }
+ ],
+ "topics": [
+  {
+   "subject": "MA",
+   "no": 1,
+   "title": "สถิติ (2)",
+   "subs": "แผนภาพจุด; แผนภาพต้น-ใบ; ฮิสโทแกรม; ค่ากลาง",
+   "flag": null,
+   "course": "ค22102"
+  },
+  {
+   "subject": "MA",
+   "no": 2,
+   "title": "ความเท่ากันทุกประการ",
+   "subs": "รูปสามเหลี่ยมเท่ากันทุกประการ; ด.ม.ด.; ม.ด.ม.; ด.ด.ด.",
+   "flag": null,
+   "course": "ค22102"
+  },
+  {
+   "subject": "MA",
+   "no": 3,
+   "title": "เส้นขนาน",
+   "subs": "มุมภายใน; มุมแย้ง; มุมภายนอกกับมุมภายใน; เส้นขนานกับสามเหลี่ยม",
+   "flag": null,
+   "course": "ค22102"
+  },
+  {
+   "subject": "MA",
+   "no": 4,
+   "title": "การให้เหตุผลทางเรขาคณิต",
+   "subs": "การให้เหตุผล; การสร้าง; สามเหลี่ยมและสี่เหลี่ยม",
+   "flag": null,
+   "course": "ค22102"
+  },
+  {
+   "subject": "MA",
+   "no": 5,
+   "title": "การแยกตัวประกอบของพหุนามดีกรีสอง",
+   "subs": "แจกแจง; ดีกรีสองตัวแปรเดียว; กำลังสองสมบูรณ์; ผลต่างกำลังสอง",
+   "flag": null,
+   "course": "ค22102"
+  },
+  {
+   "subject": "SC",
+   "no": 1,
+   "title": "งาน กำลัง และเครื่องกลอย่างง่าย",
+   "subs": "งานและกำลัง; เครื่องกลอย่างง่าย",
+   "flag": null,
+   "course": "ว22102"
+  },
+  {
+   "subject": "SC",
+   "no": 2,
+   "title": "พลังงานกลและกฎการอนุรักษ์พลังงาน",
+   "subs": "พลังงานศักย์โน้มถ่วง; พลังงานจลน์; การอนุรักษ์พลังงาน",
+   "flag": null,
+   "course": "ว22102"
+  },
+  {
+   "subject": "SC",
+   "no": 3,
+   "title": "การแยกสารและการนำไปใช้",
+   "subs": "ระเหยแห้ง; ตกผลึก; กลั่นอย่างง่าย; โครมาโทกราฟี; สกัดด้วยตัวทำละลาย",
+   "flag": null,
+   "course": "ว22102"
+  },
+  {
+   "subject": "SC",
+   "no": 4,
+   "title": "โครงสร้างภายในโลกและการเปลี่ยนแปลงบนผิวโลก",
+   "subs": "โครงสร้างโลก; การผุพังอยู่กับที่; การกร่อนและการสะสมตัว",
+   "flag": null,
+   "course": "ว22102"
+  },
+  {
+   "subject": "SC",
+   "no": 5,
+   "title": "ดินและน้ำ",
+   "subs": "ชั้นหน้าตัดดิน; เนื้อดินและความชื้น; pH ดิน; น้ำผิวดิน; น้ำใต้ดิน",
+   "flag": null,
+   "course": "ว22102"
+  },
+  {
+   "subject": "SC",
+   "no": 6,
+   "title": "ภัยธรรมชาติบนผิวโลก",
+   "subs": "น้ำท่วม; แผ่นดินถล่ม; กัดเซาะชายฝั่ง; หลุมยุบ; แผ่นดินทรุด",
+   "flag": null,
+   "course": "ว22102"
+  },
+  {
+   "subject": "SC",
+   "no": 7,
+   "title": "แหล่งพลังงาน",
+   "subs": "เชื้อเพลิงซากดึกดำบรรพ์; พลังงานทดแทน",
+   "flag": null,
+   "course": "ว22102"
+  },
+  {
+   "subject": "EN",
+   "no": 1,
+   "title": "Grammar: อนุประโยคและกาลเวลาต่อเนื่อง",
+   "subs": "Past Continuous vs Past Simple; Present Perfect; Passive Voice",
+   "flag": null,
+   "course": "อ22102"
+  },
+  {
+   "subject": "EN",
+   "no": 2,
+   "title": "Grammar: โครงสร้างประโยคและความสัมพันธ์",
+   "subs": "Conjunctions; Gerunds & Infinitives; Comparison",
+   "flag": null,
+   "course": "อ22102"
+  },
+  {
+   "subject": "EN",
+   "no": 3,
+   "title": "Error Identification: ระดับอนุประโยคและคำเชื่อม",
+   "subs": "Subject-Verb Agreement; Passive/V3; Connectors",
+   "flag": null,
+   "course": "อ22102"
+  },
+  {
+   "subject": "EN",
+   "no": 4,
+   "title": "Reading: สารคดีสั้นและข่าว",
+   "subs": "Main idea; Context clues; Fact vs Opinion",
+   "flag": null,
+   "course": "อ22102"
+  },
+  {
+   "subject": "EN",
+   "no": 5,
+   "title": "Conversation: การเข้าสังคมและการแสดงความเห็น",
+   "subs": "Places; Agreeing/Disagreeing; Advice & Suggestions",
+   "flag": null,
+   "course": "อ22102"
+  },
+  {
+   "subject": "TH",
+   "no": 1,
+   "title": "การสร้างคำชั้นสูง (คำสมาสและคำสนธิ)",
+   "subs": "สมาส; สมาสแบบมีสนธิ; สมาสกับคำประสม",
+   "flag": null,
+   "course": "ท22102"
+  },
+  {
+   "subject": "TH",
+   "no": 2,
+   "title": "ราชาศัพท์และระดับภาษา",
+   "subs": "ลำดับชั้น; คำนาม/กริยาราชาศัพท์; คำสำหรับพระสงฆ์; ระดับภาษา",
+   "flag": null,
+   "course": "ท22102"
+  },
+  {
+   "subject": "TH",
+   "no": 3,
+   "title": "การอ่านประเมินคุณค่าและวรรณกรรม",
+   "subs": "สารคดีและบทความ; องค์ประกอบบันเทิงคดี",
+   "flag": null,
+   "course": "ท22102"
+  },
+  {
+   "subject": "TH",
+   "no": 4,
+   "title": "การเขียนสื่อสารเฉพาะกิจ",
+   "subs": "บรรยายและพรรณนา; บันทึกและบทความแสดงทรรศนะ; ประกาศและคำชี้แจง",
+   "flag": null,
+   "course": "ท22102"
+  },
+  {
+   "subject": "TH",
+   "no": 5,
+   "title": "การพูดในโอกาสต่าง ๆ",
+   "subs": "อวยพร ขอบคุณ ต้อนรับ; บุคลิกภาพ น้ำเสียง มารยาท",
+   "flag": null,
+   "course": "ท22102"
+  },
+  {
+   "subject": "TH",
+   "no": 6,
+   "title": "วรรณคดีสะท้อนสังคม (รามเกียรติ์ ตอน นารายณ์ปราบนนทก และ กาพย์ห่อโคลงประพาสธารทองแดง)",
+   "subs": "กาพย์ห่อโคลง; ข้อคิดจากนนทก; วรรณศิลป์",
+   "flag": null,
+   "course": "ท22102"
+  },
+  {
+   "subject": "SO",
+   "no": 1,
+   "title": "เครื่องมือทางภูมิศาสตร์",
+   "subs": "แผนที่ มาตราส่วน; RS GPS GIS; ภาพถ่ายทางอากาศและดาวเทียม",
+   "flag": null,
+   "course": "ส22103"
+  },
+  {
+   "subject": "SO",
+   "no": 2,
+   "title": "ภูมิศาสตร์กายภาพ",
+   "subs": "โลก หิน บรรยากาศ ฤดูกาล ภูมิประเทศ ภูมิอากาศ; การเปลี่ยนแปลงทางกายภาพ",
+   "flag": null,
+   "course": "ส22103"
+  },
+  {
+   "subject": "SO",
+   "no": 3,
+   "title": "วิกฤตการณ์ด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "subs": "เรือนกระจก; เอลนีโญ/ลานีญา; โอโซน; ฝนกรด; ปะการังฟอกขาว",
+   "flag": null,
+   "course": "ส22103"
+  },
+  {
+   "subject": "SO",
+   "no": 4,
+   "title": "ภัยพิบัติทางธรรมชาติ",
+   "subs": "แผ่นดินไหว; ภูเขาไฟ; สึนามิ; อุทกภัย; วาตภัย; ภัยแล้ง",
+   "flag": null,
+   "course": "ส22103"
+  },
+  {
+   "subject": "SO",
+   "no": 5,
+   "title": "การจัดการด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "subs": "CITES Basel Ramsar; องค์กร; มรดกโลก; 7R; การพัฒนาที่ยั่งยืน",
+   "flag": null,
+   "course": "ส22103"
+  }
+ ],
+ "items": [
+  {
+   "id": "M2-MA-T01-01",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "สถิติ (2)",
+   "course_code": "ค22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ข้อมูล 3, 5, 7, 9, 11 มีค่าเฉลี่ยเลขคณิตเท่าใด",
+   "choices": [
+    "7",
+    "35",
+    "9",
+    "5"
+   ],
+   "answer": 0,
+   "explanation": [
+    "(3+5+7+9+11) ÷ 5 = 35 ÷ 5 = 7"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T01-02",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "สถิติ (2)",
+   "course_code": "ค22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ข้อมูล 2, 4, 4, 6, 9 มีฐานนิยมเท่าใด",
+   "choices": [
+    "2",
+    "6",
+    "9",
+    "4"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ฐานนิยมคือค่าที่ซ้ำมากที่สุด คือ 4 (2 ครั้ง)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T01-03",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "สถิติ (2)",
+   "course_code": "ค22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ข้อมูล 8, 3, 10, 5, 7 มีมัธยฐานเท่าใด",
+   "choices": [
+    "10",
+    "8",
+    "7",
+    "5"
+   ],
+   "answer": 2,
+   "explanation": [
+    "เรียง 3, 5, 7, 8, 10 ค่ากลางคือ 7"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T01-04",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "สถิติ (2)",
+   "course_code": "ค22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "แผนภาพต้น-ใบ แถว \"ต้น 4 ใบ 2 5 8\" แทนข้อมูลใด",
+   "choices": [
+    "4.2, 4.5, 4.8",
+    "42, 45, 48",
+    "4, 2, 5, 8",
+    "24, 54, 84"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ต้นคือหลักสิบ ใบคือหลักหน่วย จึงได้ 42 45 48"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T01-05",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "สถิติ (2)",
+   "course_code": "ค22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อมูล 12, 15, 15, 18, 20, 22 มีมัธยฐานเท่าใด",
+   "choices": [
+    "17",
+    "18",
+    "15",
+    "16.5"
+   ],
+   "answer": 3,
+   "explanation": [
+    "มี 6 ตัว มัธยฐาน = (15 + 18) ÷ 2 = 16.5"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T01-06",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "สถิติ (2)",
+   "course_code": "ค22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "คะแนนสอบ 4 ครั้ง เฉลี่ย 70 คะแนน ถ้าครั้งที่ 5 ได้ 90 คะแนน ค่าเฉลี่ยใหม่เป็นเท่าใด",
+   "choices": [
+    "72",
+    "74",
+    "75",
+    "80"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ผลรวมเดิม 280 + 90 = 370 → 370 ÷ 5 = 74"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T01-07",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "สถิติ (2)",
+   "course_code": "ค22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ฮิสโทแกรมมีอันตรภาคชั้น 10–19, 20–29, 30–39 ความถี่ 4, 6, 10 ตามลำดับ อันตรภาคชั้นใดมีมัธยฐาน",
+   "choices": [
+    "30–39",
+    "20–29",
+    "10–19",
+    "ไม่สามารถหาได้"
+   ],
+   "answer": 0,
+   "explanation": [
+    "N = 20 ตำแหน่งมัธยฐานที่ 10–11 ความถี่สะสม 4, 10, 20 ข้อมูลตัวที่ 10 อยู่ชั้น 20–29 ส่วนตัวที่ 11 อยู่ชั้น 30–39"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ตำแหน่งมัธยฐานอยู่รอยต่อชั้น (ตัวที่ 10 และ 11) ครูโปรดพิจารณาเปลี่ยนความถี่ก่อนใช้",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T01-08",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "สถิติ (2)",
+   "course_code": "ค22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ข้อมูลชุดหนึ่งมี 5 ตัว ค่าเฉลี่ยเป็น 12 ถ้าตัดค่า 20 ออก ค่าเฉลี่ยของข้อมูลที่เหลือเป็นเท่าใด",
+   "choices": [
+    "11",
+    "8",
+    "10",
+    "12"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ผลรวม 60 − 20 = 40 → 40 ÷ 4 = 10"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T02-01",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ความเท่ากันทุกประการ",
+   "course_code": "ค22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "รูปสองรูปเท่ากันทุกประการเมื่อใด",
+   "choices": [
+    "ทับกันได้สนิทพอดี",
+    "มีจำนวนด้านเท่ากัน",
+    "มีสีเดียวกัน",
+    "มีพื้นที่เท่ากัน"
+   ],
+   "answer": 0,
+   "explanation": [
+    "รูปเท่ากันทุกประการต้องเคลื่อนที่ไปทับกันได้สนิท"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T02-02",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ความเท่ากันทุกประการ",
+   "course_code": "ค22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ความสัมพันธ์แบบ ด.ม.ด. หมายถึงข้อใด",
+   "choices": [
+    "มุม-มุม-มุม",
+    "ด้าน-ด้าน-ด้าน",
+    "มุม-ด้าน-มุม",
+    "ด้าน-มุม-ด้าน (มุมอยู่ระหว่างด้านทั้งสอง)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ด.ม.ด. คือด้านสองด้านและมุมในระหว่างด้านทั้งสองเท่ากัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T02-03",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ความเท่ากันทุกประการ",
+   "course_code": "ค22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ข้อใดไม่ใช่เงื่อนไขที่รับประกันว่าสามเหลี่ยมสองรูปเท่ากันทุกประการ",
+   "choices": [
+    "ม.ด.ม.",
+    "ด.ม.ด.",
+    "ม.ม.ม.",
+    "ด.ด.ด."
+   ],
+   "answer": 2,
+   "explanation": [
+    "มุมเท่ากันทั้งสามคู่ รูปอาจมีขนาดต่างกันได้ (คล้ายกันแต่ไม่เท่ากัน)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T02-04",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ความเท่ากันทุกประการ",
+   "course_code": "ค22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "△ABC ≅ △DEF ถ้า AB = 5 ซม. แล้ว DE ยาวเท่าใด",
+   "choices": [
+    "10 ซม.",
+    "5 ซม.",
+    "2.5 ซม.",
+    "บอกไม่ได้"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ด้านที่สมนัยกันของรูปที่เท่ากันทุกประการยาวเท่ากัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T02-05",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ความเท่ากันทุกประการ",
+   "course_code": "ค22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "△ABC ≅ △PQR มีมุม A = 50° มุม B = 60° มุม R มีขนาดเท่าใด",
+   "choices": [
+    "80°",
+    "70°",
+    "60°",
+    "50°"
+   ],
+   "answer": 1,
+   "explanation": [
+    "มุม C = 180 − 50 − 60 = 70° และมุม R สมนัยกับมุม C"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T02-06",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ความเท่ากันทุกประการ",
+   "course_code": "ค22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "สามเหลี่ยมสองรูปมีด้านยาว 3, 4, 5 ซม. เท่ากันทุกคู่ เท่ากันทุกประการด้วยเงื่อนไขใด",
+   "choices": [
+    "ด.ด.ด.",
+    "ม.ด.ม.",
+    "ด.ม.ด.",
+    "ม.ม.ด."
+   ],
+   "answer": 0,
+   "explanation": [
+    "ด้านเท่ากันสามคู่ ใช้ ด.ด.ด."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T02-07",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ความเท่ากันทุกประการ",
+   "course_code": "ค22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เส้นทแยงมุม AC แบ่งรูปสี่เหลี่ยมด้านขนาน ABCD เป็นสามเหลี่ยมสองรูป ข้อใดถูก",
+   "choices": [
+    "สามเหลี่ยมทั้งสองไม่เท่ากัน",
+    "△ABC ≅ △CDA ด้วย ม.ม.ม.",
+    "△ABC ≅ △CDA ด้วย ด.ด.ด.",
+    "△ABC ≅ △ACD ด้วย ด.ม.ด. เสมอ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "AB = CD, BC = DA (ด้านตรงข้ามของสี่เหลี่ยมด้านขนาน) และ AC ร่วมกัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T02-08",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ความเท่ากันทุกประการ",
+   "course_code": "ค22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "△ABC เป็นสามเหลี่ยมหน้าจั่ว AB = AC ลากเส้นจาก A ไปจุดกึ่งกลาง M ของ BC ข้อใดถูกต้อง",
+   "choices": [
+    "△ABM ใหญ่กว่า △ACM",
+    "AM ยาวเท่ากับ BC เสมอ",
+    "มุม B ใหญ่กว่ามุม C",
+    "△ABM ≅ △ACM และ AM ตั้งฉากกับ BC"
+   ],
+   "answer": 3,
+   "explanation": [
+    "AB = AC, BM = CM, AM ร่วม → ด.ด.ด. ทำให้มุม AMB = มุม AMC = 90°"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T03-01",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "เส้นขนาน",
+   "course_code": "ค22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "เส้นตรงสองเส้นขนานกัน มีเส้นตัด มุมแย้งมีขนาดอย่างไร",
+   "choices": [
+    "รวมกันได้ 180°",
+    "ไม่สัมพันธ์กัน",
+    "รวมกันได้ 90°",
+    "เท่ากัน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เส้นขนานทำให้มุมแย้งเท่ากัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T03-02",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "เส้นขนาน",
+   "course_code": "ค22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "มุมภายในที่อยู่บนข้างเดียวกันของเส้นตัด เมื่อเส้นขนานกัน รวมกันได้เท่าใด",
+   "choices": [
+    "120°",
+    "90°",
+    "180°",
+    "360°"
+   ],
+   "answer": 2,
+   "explanation": [
+    "มุมภายในบนข้างเดียวกันของเส้นตัดรวมกันได้ 180°"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T03-03",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "เส้นขนาน",
+   "course_code": "ค22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เส้นขนานถูกตัด มุมแย้งมุมหนึ่งเป็น 65° อีกมุมหนึ่งเป็นเท่าใด",
+   "choices": [
+    "25°",
+    "65°",
+    "115°",
+    "130°"
+   ],
+   "answer": 1,
+   "explanation": [
+    "มุมแย้งเท่ากัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T03-04",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "เส้นขนาน",
+   "course_code": "ค22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "มุมภายในบนข้างเดียวกันของเส้นตัดมุมหนึ่งเป็น 110° อีกมุมเป็นเท่าใด",
+   "choices": [
+    "70°",
+    "110°",
+    "20°",
+    "80°"
+   ],
+   "answer": 0,
+   "explanation": [
+    "180 − 110 = 70°"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T03-05",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "เส้นขนาน",
+   "course_code": "ค22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "มุมภายในสองมุมของสามเหลี่ยมเป็น 45° และ 75° มุมภายนอกที่มุมที่สามเป็นเท่าใด",
+   "choices": [
+    "60°",
+    "105°",
+    "135°",
+    "120°"
+   ],
+   "answer": 3,
+   "explanation": [
+    "มุมภายนอก = ผลรวมมุมภายในที่ไม่ใช่มุมประชิด = 45 + 75 = 120°"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T03-06",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "เส้นขนาน",
+   "course_code": "ค22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "เส้นขนานถูกตัด มุมภายในข้างเดียวกันเป็น 2x และ 3x องศา x มีค่าเท่าใด",
+   "choices": [
+    "45",
+    "60",
+    "36",
+    "30"
+   ],
+   "answer": 2,
+   "explanation": [
+    "2x + 3x = 180 → x = 36"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T03-07",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "เส้นขนาน",
+   "course_code": "ค22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "AB ∥ CD จุด E อยู่ระหว่างเส้นทั้งสอง มุม ABE = 40° มุม CDE = 30° (เป็นมุมที่อยู่ด้านเดียวกัน) มุม BED มีขนาดเท่าใด",
+   "choices": [
+    "70°",
+    "110°",
+    "140°",
+    "10°"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ลากเส้นผ่าน E ขนานกับ AB จะได้มุม BED = 40 + 30 = 70°"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "โจทย์นี้ควรมีรูปประกอบ ครูโปรดเพิ่มรูปก่อนใช้จริง",
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T03-08",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "เส้นขนาน",
+   "course_code": "ค22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "รูปสามเหลี่ยม ABC ลาก DE ∥ BC โดย D อยู่บน AB และ E อยู่บน AC ถ้ามุม ABC = 55° มุม ADE มีขนาดเท่าใด",
+   "choices": [
+    "125°",
+    "55°",
+    "35°",
+    "90°"
+   ],
+   "answer": 1,
+   "explanation": [
+    "DE ∥ BC มี AB เป็นเส้นตัด มุม ADE และมุม ABC เป็นมุมภายนอกและมุมภายในที่อยู่ตรงข้ามบนข้างเดียวกัน จึงเท่ากัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T04-01",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 4,
+   "topic": "การให้เหตุผลทางเรขาคณิต",
+   "course_code": "ค22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ผลรวมของมุมภายในรูปสามเหลี่ยมเท่ากับเท่าใด",
+   "choices": [
+    "180°",
+    "360°",
+    "90°",
+    "270°"
+   ],
+   "answer": 0,
+   "explanation": [
+    "มุมภายในสามเหลี่ยมรวมกันได้ 180° เสมอ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T04-02",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 4,
+   "topic": "การให้เหตุผลทางเรขาคณิต",
+   "course_code": "ค22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ผลรวมของมุมภายในรูปสี่เหลี่ยมใด ๆ เท่ากับเท่าใด",
+   "choices": [
+    "270°",
+    "180°",
+    "540°",
+    "360°"
+   ],
+   "answer": 3,
+   "explanation": [
+    "แบ่งเป็นสามเหลี่ยม 2 รูป → 2 × 180 = 360°"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T04-03",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 4,
+   "topic": "การให้เหตุผลทางเรขาคณิต",
+   "course_code": "ค22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ในการให้เหตุผลทางเรขาคณิต \"สิ่งที่กำหนดให้\" คือข้อใด",
+   "choices": [
+    "สิ่งที่ต้องพิสูจน์",
+    "ข้อสรุปสุดท้าย",
+    "ข้อมูลที่ยอมรับว่าเป็นจริงตามโจทย์",
+    "ความเห็นของผู้พิสูจน์"
+   ],
+   "answer": 2,
+   "explanation": [
+    "การพิสูจน์เริ่มจากสิ่งที่กำหนดให้แล้วให้เหตุผลไปสู่สิ่งที่ต้องพิสูจน์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T04-04",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 4,
+   "topic": "การให้เหตุผลทางเรขาคณิต",
+   "course_code": "ค22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "มุมตรงข้ามที่เกิดจากเส้นตรงสองเส้นตัดกันมีขนาดอย่างไร",
+   "choices": [
+    "รวมกันได้ 90°",
+    "เท่ากัน",
+    "รวมกันได้ 180°",
+    "ไม่สัมพันธ์กัน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "มุมตรงข้ามมีขนาดเท่ากัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T04-05",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 4,
+   "topic": "การให้เหตุผลทางเรขาคณิต",
+   "course_code": "ค22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "สี่เหลี่ยมด้านขนานมีมุมหนึ่งเป็น 70° มุมที่อยู่ติดกันมีขนาดเท่าใด",
+   "choices": [
+    "110°",
+    "70°",
+    "20°",
+    "290°"
+   ],
+   "answer": 0,
+   "explanation": [
+    "มุมที่อยู่ติดกันของสี่เหลี่ยมด้านขนานรวมกันได้ 180°"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T04-06",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 4,
+   "topic": "การให้เหตุผลทางเรขาคณิต",
+   "course_code": "ค22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การแบ่งครึ่งส่วนของเส้นตรงด้วยวงเวียน ต้องเขียนส่วนโค้งอย่างไร",
+   "choices": [
+    "เขียนเพียงข้างเดียว",
+    "เขียนจากจุดกึ่งกลางที่เดาไว้",
+    "รัศมีต่างกันจากปลายทั้งสองข้าง",
+    "รัศมีเท่ากันจากปลายทั้งสองข้าง และยาวเกินครึ่งหนึ่งของส่วนของเส้นตรง"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ส่วนโค้งจากปลายทั้งสองที่รัศมีเท่ากันจะตัดกันบนเส้นแบ่งครึ่งตั้งฉาก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T04-07",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 4,
+   "topic": "การให้เหตุผลทางเรขาคณิต",
+   "course_code": "ค22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "สามเหลี่ยมหน้าจั่วมีมุมยอด 40° มุมที่ฐานแต่ละมุมเป็นเท่าใด",
+   "choices": [
+    "140°",
+    "70°",
+    "40°",
+    "50°"
+   ],
+   "answer": 1,
+   "explanation": [
+    "(180 − 40) ÷ 2 = 70°"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T04-08",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 4,
+   "topic": "การให้เหตุผลทางเรขาคณิต",
+   "course_code": "ค22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เหตุผลใดใช้พิสูจน์ว่าเส้นทแยงมุมของรูปสี่เหลี่ยมด้านขนานแบ่งครึ่งซึ่งกันและกันได้",
+   "choices": [
+    "เส้นทแยงมุมยาวเท่ากันเสมอ",
+    "ด้านทั้งสี่ยาวเท่ากัน",
+    "สามเหลี่ยมคู่ที่เกิดขึ้นเท่ากันทุกประการแบบ ม.ด.ม. (มุมแย้งเท่ากันและด้านตรงข้ามยาวเท่ากัน)",
+    "มุมทั้งสี่เป็นมุมฉาก"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ใช้มุมแย้งจากด้านขนานกับด้านตรงข้ามที่ยาวเท่ากัน ได้สามเหลี่ยมเท่ากันทุกประการ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-MA-T05-01",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 5,
+   "topic": "การแยกตัวประกอบของพหุนามดีกรีสอง",
+   "course_code": "ค22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "แยกตัวประกอบ 3x + 6",
+   "choices": [
+    "3(x + 2)",
+    "3(x + 6)",
+    "x(3 + 6)",
+    "6(x + 3)"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ดึงตัวร่วม 3 ออก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T05-02",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 5,
+   "topic": "การแยกตัวประกอบของพหุนามดีกรีสอง",
+   "course_code": "ค22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "x² − 9 แยกตัวประกอบได้ตามข้อใด",
+   "choices": [
+    "(x + 9)(x − 1)",
+    "(x − 9)(x + 1)",
+    "(x − 3)²",
+    "(x − 3)(x + 3)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ผลต่างกำลังสอง a² − b² = (a − b)(a + b)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T05-03",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 5,
+   "topic": "การแยกตัวประกอบของพหุนามดีกรีสอง",
+   "course_code": "ค22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "x² + 5x + 6 แยกตัวประกอบได้ตามข้อใด",
+   "choices": [
+    "(x + 1)(x + 6)",
+    "(x + 2)(x + 3)",
+    "(x + 5)(x + 1)",
+    "(x − 2)(x − 3)"
+   ],
+   "answer": 1,
+   "explanation": [
+    "หาจำนวนคูณได้ 6 บวกได้ 5 คือ 2 และ 3"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T05-04",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 5,
+   "topic": "การแยกตัวประกอบของพหุนามดีกรีสอง",
+   "course_code": "ค22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "x² + 6x + 9 เป็นกำลังสองสมบูรณ์ของข้อใด",
+   "choices": [
+    "(x + 6)²",
+    "(x − 3)²",
+    "(x + 3)²",
+    "(x + 9)²"
+   ],
+   "answer": 2,
+   "explanation": [
+    "(x + 3)² = x² + 6x + 9"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T05-05",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 5,
+   "topic": "การแยกตัวประกอบของพหุนามดีกรีสอง",
+   "course_code": "ค22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "x² − x − 12 แยกตัวประกอบได้ตามข้อใด",
+   "choices": [
+    "(x + 4)(x − 3)",
+    "(x − 12)(x + 1)",
+    "(x − 4)(x + 3)",
+    "(x − 6)(x + 2)"
+   ],
+   "answer": 2,
+   "explanation": [
+    "จำนวนคูณได้ −12 บวกได้ −1 คือ −4 และ 3"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T05-06",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 5,
+   "topic": "การแยกตัวประกอบของพหุนามดีกรีสอง",
+   "course_code": "ค22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "2x² + 7x + 3 แยกตัวประกอบได้ตามข้อใด",
+   "choices": [
+    "(2x + 1)(x + 3)",
+    "(2x + 3)(x + 1)",
+    "(x + 7)(2x − 3)",
+    "(2x − 1)(x − 3)"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ตรวจ (2x + 1)(x + 3) = 2x² + 6x + x + 3 = 2x² + 7x + 3"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T05-07",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 5,
+   "topic": "การแยกตัวประกอบของพหุนามดีกรีสอง",
+   "course_code": "ค22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "4x² − 25 แยกตัวประกอบได้ตามข้อใด",
+   "choices": [
+    "(2x − 5)²",
+    "(2x − 5)(2x + 5)",
+    "(4x − 5)(x + 5)",
+    "(4x − 25)(x + 1)"
+   ],
+   "answer": 1,
+   "explanation": [
+    "(2x)² − 5² = (2x − 5)(2x + 5)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-MA-T05-08",
+   "grade": "M2",
+   "subject": "MA",
+   "topic_no": 5,
+   "topic": "การแยกตัวประกอบของพหุนามดีกรีสอง",
+   "course_code": "ค22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ถ้า x² + kx + 16 เป็นกำลังสองสมบูรณ์และ k > 0 แล้ว k เท่ากับเท่าใด",
+   "choices": [
+    "32",
+    "16",
+    "4",
+    "8"
+   ],
+   "answer": 3,
+   "explanation": [
+    "(x + 4)² = x² + 8x + 16"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T01-01",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "งาน กำลัง และเครื่องกลอย่างง่าย",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "หน่วยของงานคือข้อใด",
+   "choices": [
+    "เมตร (m)",
+    "วัตต์ (W)",
+    "จูล (J)",
+    "นิวตัน (N)"
+   ],
+   "answer": 2,
+   "explanation": [
+    "งาน = แรง × ระยะทาง มีหน่วยเป็นจูล"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T01-02",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "งาน กำลัง และเครื่องกลอย่างง่าย",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ข้อใดเป็นเครื่องกลอย่างง่าย",
+   "choices": [
+    "ตู้เย็น",
+    "คาน",
+    "โทรศัพท์มือถือ",
+    "หลอดไฟ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "คาน รอก พื้นเอียง ลิ่ม สกรู ล้อและเพลา เป็นเครื่องกลอย่างง่าย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T01-03",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "งาน กำลัง และเครื่องกลอย่างง่าย",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ออกแรง 20 N ลากกล่องไปตามแนวแรงได้ 5 m งานที่ทำเป็นเท่าใด",
+   "choices": [
+    "100 J",
+    "4 J",
+    "25 J",
+    "15 J"
+   ],
+   "answer": 0,
+   "explanation": [
+    "W = F × s = 20 × 5 = 100 J"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T01-04",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "งาน กำลัง และเครื่องกลอย่างง่าย",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ทำงาน 600 J ในเวลา 30 s กำลังเป็นเท่าใด",
+   "choices": [
+    "630 W",
+    "570 W",
+    "18000 W",
+    "20 W"
+   ],
+   "answer": 3,
+   "explanation": [
+    "P = W ÷ t = 600 ÷ 30 = 20 W"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T01-05",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "งาน กำลัง และเครื่องกลอย่างง่าย",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ถือกระเป๋าหนัก 50 N แล้วเดินในแนวราบ 10 m งานที่แรงยกกระเป๋าทำเป็นเท่าใด",
+   "choices": [
+    "0 J",
+    "5 J",
+    "500 J",
+    "60 J"
+   ],
+   "answer": 0,
+   "explanation": [
+    "แรงยกมีทิศขึ้น แต่การเคลื่อนที่อยู่ในแนวราบ (ตั้งฉากกัน) จึงไม่มีงาน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T01-06",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "งาน กำลัง และเครื่องกลอย่างง่าย",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "คานยาว จุดหมุนห่างจากน้ำหนัก 200 N เป็นระยะ 0.5 m ต้องออกแรงที่ระยะ 2 m จากจุดหมุนเท่าใดจึงสมดุล",
+   "choices": [
+    "400 N",
+    "800 N",
+    "100 N",
+    "50 N"
+   ],
+   "answer": 3,
+   "explanation": [
+    "โมเมนต์สมดุล: 200 × 0.5 = F × 2 → F = 50 N"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T01-07",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "งาน กำลัง และเครื่องกลอย่างง่าย",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ใช้พื้นเอียงยาว 5 m สูง 1 m ดันกล่องหนัก 400 N ขึ้น (ไม่คิดแรงเสียดทาน) ต้องออกแรงเท่าใด",
+   "choices": [
+    "400 N",
+    "80 N",
+    "2000 N",
+    "100 N"
+   ],
+   "answer": 1,
+   "explanation": [
+    "งานเท่ากัน: F × 5 = 400 × 1 → F = 80 N"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T01-08",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "งาน กำลัง และเครื่องกลอย่างง่าย",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เครื่องยนต์ A ทำงาน 3000 J ใน 10 s เครื่องยนต์ B ทำงาน 4000 J ใน 20 s ข้อใดถูก",
+   "choices": [
+    "B มีกำลังมากกว่า A",
+    "มีกำลังเท่ากัน",
+    "A มีกำลังมากกว่า B",
+    "ข้อมูลไม่พอ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "P(A) = 300 W, P(B) = 200 W"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T02-01",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "พลังงานกลและกฎการอนุรักษ์พลังงาน",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "วัตถุที่อยู่ในที่สูงมีพลังงานชนิดใด",
+   "choices": [
+    "พลังงานจลน์",
+    "พลังงานแสง",
+    "พลังงานศักย์โน้มถ่วง",
+    "พลังงานเสียง"
+   ],
+   "answer": 2,
+   "explanation": [
+    "วัตถุที่อยู่สูงจากพื้นมีพลังงานศักย์โน้มถ่วง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T02-02",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "พลังงานกลและกฎการอนุรักษ์พลังงาน",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "วัตถุที่กำลังเคลื่อนที่มีพลังงานชนิดใดแน่นอน",
+   "choices": [
+    "พลังงานศักย์โน้มถ่วง",
+    "พลังงานจลน์",
+    "พลังงานนิวเคลียร์",
+    "พลังงานเคมี"
+   ],
+   "answer": 1,
+   "explanation": [
+    "วัตถุที่มีความเร็วมีพลังงานจลน์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T02-03",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "พลังงานกลและกฎการอนุรักษ์พลังงาน",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "วัตถุมวล 2 kg อยู่สูง 5 m (g = 10 m/s²) มีพลังงานศักย์โน้มถ่วงเท่าใด",
+   "choices": [
+    "50 J",
+    "10 J",
+    "20 J",
+    "100 J"
+   ],
+   "answer": 3,
+   "explanation": [
+    "Ep = mgh = 2 × 10 × 5 = 100 J"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T02-04",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "พลังงานกลและกฎการอนุรักษ์พลังงาน",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "รถมวล 1000 kg เคลื่อนที่ด้วยความเร็ว 10 m/s มีพลังงานจลน์เท่าใด",
+   "choices": [
+    "50000 J",
+    "100000 J",
+    "10000 J",
+    "5000 J"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Ek = ½mv² = ½ × 1000 × 10² = 50000 J"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T02-05",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "พลังงานกลและกฎการอนุรักษ์พลังงาน",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ปล่อยลูกบอลจากที่สูง ขณะตกลงมา (ไม่คิดแรงต้านอากาศ) ข้อใดถูก",
+   "choices": [
+    "พลังงานทั้งสองเพิ่มขึ้น",
+    "พลังงานกลรวมลดลง",
+    "พลังงานทั้งสองลดลง",
+    "พลังงานศักย์ลดลง พลังงานจลน์เพิ่มขึ้น"
+   ],
+   "answer": 3,
+   "explanation": [
+    "พลังงานศักย์เปลี่ยนเป็นพลังงานจลน์ โดยพลังงานกลรวมคงที่"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T02-06",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "พลังงานกลและกฎการอนุรักษ์พลังงาน",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ถ้าความเร็วของวัตถุเพิ่มเป็น 2 เท่า พลังงานจลน์เปลี่ยนไปอย่างไร",
+   "choices": [
+    "เพิ่มเป็น 4 เท่า",
+    "ลดลงครึ่งหนึ่ง",
+    "เพิ่มเป็น 2 เท่า",
+    "เท่าเดิม"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Ek แปรผันตาม v² → 2² = 4 เท่า"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T02-07",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "พลังงานกลและกฎการอนุรักษ์พลังงาน",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ปล่อยวัตถุจากความสูง 20 m (g = 10 m/s²) ไม่คิดแรงต้าน ความเร็วขณะถึงพื้นเป็นเท่าใด",
+   "choices": [
+    "10 m/s",
+    "200 m/s",
+    "20 m/s",
+    "40 m/s"
+   ],
+   "answer": 2,
+   "explanation": [
+    "mgh = ½mv² → v² = 2gh = 400 → v = 20 m/s"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T02-08",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "พลังงานกลและกฎการอนุรักษ์พลังงาน",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "วัตถุมวล 1 kg ที่ความสูง 10 m มีพลังงานกลรวม 100 J (g = 10 m/s²) เมื่อตกมาถึงความสูง 4 m มีพลังงานจลน์เท่าใด",
+   "choices": [
+    "100 J",
+    "60 J",
+    "0 J",
+    "40 J"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Ep ที่ 4 m = 1 × 10 × 4 = 40 J → Ek = 100 − 40 = 60 J"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T03-01",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "การแยกสารและการนำไปใช้",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "การทำนาเกลือใช้วิธีแยกสารแบบใด",
+   "choices": [
+    "การระเหยแห้ง",
+    "การกลั่น",
+    "การสกัดด้วยไอน้ำ",
+    "โครมาโทกราฟี"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ปล่อยให้น้ำทะเลระเหยจนเหลือเกลือ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T03-02",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "การแยกสารและการนำไปใช้",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "วิธีใดเหมาะกับการแยกสีหลายสีที่ผสมกันในหมึก",
+   "choices": [
+    "การตกตะกอน",
+    "การระเหยแห้ง",
+    "การกรอง",
+    "โครมาโทกราฟี"
+   ],
+   "answer": 3,
+   "explanation": [
+    "สารแต่ละชนิดเคลื่อนที่บนตัวดูดซับได้ระยะทางต่างกัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T03-03",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "การแยกสารและการนำไปใช้",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "การกลั่นอย่างง่ายใช้แยกสารผสมแบบใด",
+   "choices": [
+    "ของแข็งสองชนิดที่ไม่ละลายน้ำ",
+    "แก๊สสองชนิด",
+    "ของเหลวที่มีจุดเดือดต่างกันมาก หรือสารละลายของแข็งในของเหลว",
+    "สารที่มีสีต่างกัน"
+   ],
+   "answer": 2,
+   "explanation": [
+    "อาศัยจุดเดือดที่ต่างกัน ส่วนที่เดือดก่อนจะกลายเป็นไอแล้วควบแน่น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T03-04",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "การแยกสารและการนำไปใช้",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "การตกผลึกเกิดขึ้นเมื่อใด",
+   "choices": [
+    "กรองด้วยกระดาษกรอง",
+    "สารละลายอิ่มตัวเย็นลงหรือตัวทำละลายระเหยไป",
+    "เขย่าแรง ๆ",
+    "เติมน้ำมาก ๆ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "เมื่อสารละลายเกินจุดอิ่มตัว ตัวละลายจะแยกออกมาเป็นผลึก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T03-05",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "การแยกสารและการนำไปใช้",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ในโครมาโทกราฟีแบบกระดาษ สาร A เคลื่อนที่ได้ 3 cm ตัวทำละลายเคลื่อนที่ได้ 6 cm ค่า Rf ของ A เท่าใด",
+   "choices": [
+    "3",
+    "18",
+    "0.5",
+    "2"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Rf = ระยะสาร ÷ ระยะตัวทำละลาย = 3 ÷ 6 = 0.5"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T03-06",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "การแยกสารและการนำไปใช้",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การสกัดน้ำมันจากพืชด้วยเฮกเซนอาศัยหลักการใด",
+   "choices": [
+    "สารที่ต้องการละลายได้ดีในตัวทำละลายที่เลือก",
+    "สารมีขนาดอนุภาคใหญ่",
+    "สารมีจุดเดือดสูง",
+    "สารมีสีต่างกัน"
+   ],
+   "answer": 0,
+   "explanation": [
+    "การสกัดด้วยตัวทำละลายเลือกตัวทำละลายที่ละลายสารเป้าหมายได้ดี"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T03-07",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "การแยกสารและการนำไปใช้",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ต้องการน้ำบริสุทธิ์จากน้ำเกลือ ควรใช้วิธีใด",
+   "choices": [
+    "การกรอง",
+    "การระเหยแห้ง",
+    "การตกผลึก",
+    "การกลั่น"
+   ],
+   "answer": 3,
+   "explanation": [
+    "การระเหยแห้งจะเหลือเกลือแต่ได้น้ำกลับมาไม่ได้ การกลั่นเก็บไอน้ำที่ควบแน่นกลับมาเป็นน้ำบริสุทธิ์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T03-08",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "การแยกสารและการนำไปใช้",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "สาร X และ Y ในโครมาโทกราฟีมีค่า Rf 0.8 และ 0.3 ตามลำดับ ข้อใดถูก",
+   "choices": [
+    "Y เคลื่อนที่ได้ไกลกว่า X",
+    "X ถูกดูดซับน้อยกว่าหรือละลายในตัวทำละลายได้ดีกว่า Y",
+    "Y ละลายในตัวทำละลายได้ดีกว่า X",
+    "X และ Y เป็นสารเดียวกัน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Rf สูงแปลว่าเคลื่อนที่ไปกับตัวทำละลายได้ไกลกว่า"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T04-01",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "โครงสร้างภายในโลกและการเปลี่ยนแปลงบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ชั้นนอกสุดของโลกคือชั้นใด",
+   "choices": [
+    "แก่นโลกชั้นใน",
+    "เนื้อโลก",
+    "แก่นโลกชั้นนอก",
+    "เปลือกโลก"
+   ],
+   "answer": 3,
+   "explanation": [
+    "โลกแบ่งเป็นเปลือกโลก เนื้อโลก และแก่นโลก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T04-02",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "โครงสร้างภายในโลกและการเปลี่ยนแปลงบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "น้ำที่ไหลผ่านหินเป็นเวลานานทำให้หินสึกกร่อน เรียกกระบวนการนี้ว่าอะไร",
+   "choices": [
+    "การระเหิด",
+    "การสะสมตัว",
+    "การกร่อน",
+    "การตกผลึก"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ตัวกลาง เช่น น้ำ ลม ธารน้ำแข็ง พาตะกอนไปทำให้หินสึกกร่อน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T04-03",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "โครงสร้างภายในโลกและการเปลี่ยนแปลงบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "แก่นโลกชั้นนอกมีสถานะใด",
+   "choices": [
+    "ของเหลว",
+    "พลาสมา",
+    "แก๊ส",
+    "ของแข็ง"
+   ],
+   "answer": 0,
+   "explanation": [
+    "หลักฐานจากคลื่นไหวสะเทือน (คลื่น S ผ่านไม่ได้) บ่งว่าแก่นโลกชั้นนอกเป็นของเหลว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T04-04",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "โครงสร้างภายในโลกและการเปลี่ยนแปลงบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "รากไม้ที่ชอนไชทำให้หินแตก เป็นการผุพังอยู่กับที่แบบใด",
+   "choices": [
+    "ไม่ใช่การผุพัง",
+    "ทางกายภาพ",
+    "ทางชีวภาพที่ทำให้หินละลาย",
+    "ทางเคมี"
+   ],
+   "answer": 1,
+   "explanation": [
+    "หินแตกเป็นชิ้นเล็กโดยองค์ประกอบไม่เปลี่ยน จึงเป็นทางกายภาพ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "บางตำราจัดเป็นการผุพังทางชีวภาพ ครูโปรดตรวจ",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T04-05",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "โครงสร้างภายในโลกและการเปลี่ยนแปลงบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ถ้ำหินปูนเกิดจากกระบวนการใดเป็นหลัก",
+   "choices": [
+    "ลมพัดหินปูน",
+    "ธารน้ำแข็งกัดเซาะ",
+    "น้ำฝนที่เป็นกรดอ่อนละลายหินปูน (การผุพังทางเคมี)",
+    "แผ่นดินไหว"
+   ],
+   "answer": 2,
+   "explanation": [
+    "CO₂ ละลายในน้ำฝนเป็นกรดคาร์บอนิกซึ่งละลายหินปูนได้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T04-06",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "โครงสร้างภายในโลกและการเปลี่ยนแปลงบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "สามเหลี่ยมปากแม่น้ำเกิดจากกระบวนการใด",
+   "choices": [
+    "การผุพังทางเคมี",
+    "การสะสมตัวของตะกอน",
+    "การกร่อนโดยลม",
+    "การยกตัวของเปลือกโลก"
+   ],
+   "answer": 1,
+   "explanation": [
+    "น้ำไหลช้าลงเมื่อถึงปากแม่น้ำ ตะกอนจึงตกสะสม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T04-07",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "โครงสร้างภายในโลกและการเปลี่ยนแปลงบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เพราะเหตุใดหินในเขตทะเลทรายจึงแตกง่ายแม้ไม่มีฝน",
+   "choices": [
+    "อุณหภูมิกลางวันและกลางคืนต่างกันมาก ทำให้หินขยายและหดตัวซ้ำ ๆ",
+    "มีรากไม้มาก",
+    "มีกรดในอากาศมาก",
+    "มีน้ำใต้ดินมาก"
+   ],
+   "answer": 0,
+   "explanation": [
+    "การขยายตัวและหดตัวซ้ำ ๆ ทำให้หินแตกล่อนเป็นแผ่น (ทางกายภาพ)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T04-08",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "โครงสร้างภายในโลกและการเปลี่ยนแปลงบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "คลื่นไหวสะเทือนชนิด S ไม่สามารถเคลื่อนที่ผ่านชั้นใด",
+   "choices": [
+    "ธรณีภาค",
+    "เนื้อโลกตอนบน",
+    "เปลือกโลก",
+    "แก่นโลกชั้นนอก"
+   ],
+   "answer": 3,
+   "explanation": [
+    "คลื่น S ผ่านตัวกลางที่เป็นของเหลวไม่ได้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T05-01",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 5,
+   "topic": "ดินและน้ำ",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ดินชั้นบนสุดที่มีอินทรียวัตถุมาก มักมีสีอย่างไร",
+   "choices": [
+    "สีเข้ม",
+    "สีแดงสด",
+    "ใส",
+    "สีขาว"
+   ],
+   "answer": 0,
+   "explanation": [
+    "อินทรียวัตถุทำให้ดินชั้นบนมีสีเข้ม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T05-02",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 5,
+   "topic": "ดินและน้ำ",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "แม่น้ำ ห้วย หนอง บึง จัดเป็นแหล่งน้ำประเภทใด",
+   "choices": [
+    "น้ำในชั้นบรรยากาศ",
+    "น้ำบาดาลชั้นลึก",
+    "แหล่งน้ำผิวดิน",
+    "แหล่งน้ำใต้ดิน"
+   ],
+   "answer": 2,
+   "explanation": [
+    "น้ำที่อยู่บนผิวโลกเรียกว่าน้ำผิวดิน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T05-03",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 5,
+   "topic": "ดินและน้ำ",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ดินที่มีค่า pH เท่ากับ 5 เป็นดินแบบใด",
+   "choices": [
+    "ดินเบส",
+    "ดินกรด",
+    "บอกไม่ได้",
+    "ดินกลาง"
+   ],
+   "answer": 1,
+   "explanation": [
+    "pH น้อยกว่า 7 เป็นกรด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T05-04",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 5,
+   "topic": "ดินและน้ำ",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ดินชนิดใดอุ้มน้ำได้ดีที่สุด",
+   "choices": [
+    "ดินร่วนปนทราย",
+    "กรวด",
+    "ดินทราย",
+    "ดินเหนียว"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ดินเหนียวมีอนุภาคเล็ก ช่องว่างเล็ก จึงอุ้มน้ำได้ดี"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T05-05",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 5,
+   "topic": "ดินและน้ำ",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ดินเป็นกรดมากเกินไป ควรปรับปรุงอย่างไร",
+   "choices": [
+    "ใส่ปุ๋ยแอมโมเนียมมาก ๆ",
+    "ใส่ปูนขาวหรือโดโลไมต์",
+    "ใส่น้ำส้มสายชู",
+    "ใส่กำมะถัน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ปูนขาวเป็นเบส ช่วยลดความเป็นกรด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T05-06",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 5,
+   "topic": "ดินและน้ำ",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "น้ำบาดาลแตกต่างจากน้ำในดินอย่างไร",
+   "choices": [
+    "ไม่ต่างกัน",
+    "น้ำในดินลึกกว่าน้ำบาดาลเสมอ",
+    "น้ำบาดาลอยู่บนผิวดิน",
+    "น้ำบาดาลอยู่ในชั้นหินอุ้มน้ำใต้ระดับน้ำใต้ดิน ส่วนน้ำในดินอยู่ในช่องว่างของดินด้านบน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "น้ำบาดาลอยู่ในช่องว่างของชั้นหินอุ้มน้ำซึ่งอิ่มตัวด้วยน้ำ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T05-07",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 5,
+   "topic": "ดินและน้ำ",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ดินตัวอย่างหนัก 50 g เมื่ออบแห้งเหลือ 40 g ความชื้นในดินคิดเป็นร้อยละเท่าใดของมวลดินชื้น",
+   "choices": [
+    "80%",
+    "10%",
+    "20%",
+    "25%"
+   ],
+   "answer": 2,
+   "explanation": [
+    "น้ำหายไป 10 g → 10/50 × 100 = 20%"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "บางตำราคิดเทียบกับมวลดินแห้ง (ได้ 25%) ครูโปรดยืนยันนิยามที่สอน",
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SC-T05-08",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 5,
+   "topic": "ดินและน้ำ",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การสูบน้ำบาดาลมากเกินไปในเมืองใหญ่ส่งผลอย่างไร",
+   "choices": [
+    "แผ่นดินทรุด",
+    "น้ำทะเลลดลง",
+    "ดินเป็นเบสมากขึ้น",
+    "เกิดภูเขาไฟ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ชั้นดินอัดตัวเมื่อน้ำในช่องว่างลดลง ทำให้ผิวดินทรุด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T06-01",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 6,
+   "topic": "ภัยธรรมชาติบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ภัยธรรมชาติใดมักเกิดหลังฝนตกหนักต่อเนื่องบนภูเขาที่ถูกตัดไม้",
+   "choices": [
+    "ภัยแล้ง",
+    "สึนามิ",
+    "หลุมยุบ",
+    "แผ่นดินถล่ม"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ดินอุ้มน้ำจนหนักและไม่มีรากไม้ยึด จึงไถลลงมา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T06-02",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 6,
+   "topic": "ภัยธรรมชาติบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "หลุมยุบมักเกิดในพื้นที่ที่มีหินชนิดใดอยู่ใต้ดิน",
+   "choices": [
+    "หินบะซอลต์",
+    "หินปูน",
+    "หินทราย",
+    "หินแกรนิต"
+   ],
+   "answer": 1,
+   "explanation": [
+    "น้ำใต้ดินละลายหินปูนจนเกิดโพรง แล้วเพดานโพรงยุบตัว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T06-03",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 6,
+   "topic": "ภัยธรรมชาติบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "สัญญาณเตือนแผ่นดินถล่มคือข้อใด",
+   "choices": [
+    "ลมสงบ",
+    "อากาศเย็นลง",
+    "น้ำในลำห้วยขุ่นข้นผิดปกติและมีเสียงดังอื้ออึงจากภูเขา",
+    "ท้องฟ้าแจ่มใส"
+   ],
+   "answer": 2,
+   "explanation": [
+    "น้ำขุ่นข้นและเสียงดังแสดงว่าดินและหินกำลังเคลื่อนตัว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T06-04",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 6,
+   "topic": "ภัยธรรมชาติบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "การกัดเซาะชายฝั่งเกิดจากสิ่งใดเป็นหลัก",
+   "choices": [
+    "คลื่นและกระแสน้ำ",
+    "ฟ้าผ่า",
+    "ฝนกรด",
+    "แผ่นดินไหวเท่านั้น"
+   ],
+   "answer": 0,
+   "explanation": [
+    "คลื่นและกระแสน้ำพาตะกอนออกจากชายฝั่ง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T06-05",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 6,
+   "topic": "ภัยธรรมชาติบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การปลูกป่าชายเลนช่วยลดภัยใด",
+   "choices": [
+    "ภูเขาไฟระเบิด",
+    "การกัดเซาะชายฝั่ง",
+    "หลุมยุบ",
+    "ภัยหนาว"
+   ],
+   "answer": 1,
+   "explanation": [
+    "รากไม้ชายเลนช่วยลดแรงคลื่นและดักตะกอน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T06-06",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 6,
+   "topic": "ภัยธรรมชาติบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อใดเป็นการเตรียมพร้อมรับมือน้ำท่วมที่เหมาะสม",
+   "choices": [
+    "ลงไปเล่นน้ำในกระแสน้ำเชี่ยว",
+    "ขับรถผ่านถนนที่น้ำท่วมสูง",
+    "ติดตามข่าวพยากรณ์และย้ายสิ่งของขึ้นที่สูง",
+    "ถอดปลั๊กหลังจากน้ำเข้าบ้านแล้ว"
+   ],
+   "answer": 2,
+   "explanation": [
+    "การรับข่าวสารและย้ายของล่วงหน้าลดความเสียหาย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T06-07",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 6,
+   "topic": "ภัยธรรมชาติบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เพราะเหตุใดการตัดไม้บนพื้นที่ลาดชันจึงเพิ่มความเสี่ยงแผ่นดินถล่ม",
+   "choices": [
+    "ทำให้ฝนตกน้อยลง",
+    "ทำให้ดินเป็นกรด",
+    "ทำให้หินแข็งขึ้น",
+    "ไม่มีรากไม้ยึดดินและดินอุ้มน้ำมากขึ้นเมื่อฝนตก"
+   ],
+   "answer": 3,
+   "explanation": [
+    "รากไม้ช่วยยึดดินและดูดน้ำ เมื่อหายไปดินจะอิ่มน้ำและไถลง่าย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T06-08",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 6,
+   "topic": "ภัยธรรมชาติบนผิวโลก",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "พื้นที่ใดในไทยเสี่ยงต่อแผ่นดินทรุดจากการสูบน้ำบาดาลมากที่สุด",
+   "choices": [
+    "กรุงเทพมหานครและปริมณฑล",
+    "ป่าเต็งรังภาคอีสาน",
+    "ยอดดอยสูง",
+    "เกาะกลางทะเล"
+   ],
+   "answer": 0,
+   "explanation": [
+    "เป็นพื้นที่ดินเหนียวอ่อนที่มีการใช้น้ำบาดาลมาก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T07-01",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 7,
+   "topic": "แหล่งพลังงาน",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ข้อใดเป็นเชื้อเพลิงซากดึกดำบรรพ์",
+   "choices": [
+    "ชีวมวลจากแกลบ",
+    "ลม",
+    "แสงอาทิตย์",
+    "ถ่านหิน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ถ่านหิน น้ำมัน แก๊สธรรมชาติ เกิดจากซากสิ่งมีชีวิตทับถมนานหลายล้านปี"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T07-02",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 7,
+   "topic": "แหล่งพลังงาน",
+   "course_code": "ว22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ข้อใดเป็นพลังงานทดแทนที่ใช้แล้วไม่หมด",
+   "choices": [
+    "น้ำมันดิบ",
+    "พลังงานลม",
+    "ถ่านหิน",
+    "แก๊สธรรมชาติ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ลมเกิดขึ้นใหม่ได้ตามธรรมชาติ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T07-03",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 7,
+   "topic": "แหล่งพลังงาน",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "การเผาเชื้อเพลิงซากดึกดำบรรพ์ปล่อยแก๊สใดที่ทำให้โลกร้อนมากที่สุด",
+   "choices": [
+    "ออกซิเจน",
+    "ไนโตรเจน",
+    "คาร์บอนไดออกไซด์",
+    "ฮีเลียม"
+   ],
+   "answer": 2,
+   "explanation": [
+    "CO₂ เป็นแก๊สเรือนกระจกหลักจากการเผาไหม้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T07-04",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 7,
+   "topic": "แหล่งพลังงาน",
+   "course_code": "ว22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เซลล์สุริยะเปลี่ยนพลังงานใดเป็นพลังงานไฟฟ้า",
+   "choices": [
+    "พลังงานแสง",
+    "พลังงานเสียง",
+    "พลังงานเคมี",
+    "พลังงานนิวเคลียร์"
+   ],
+   "answer": 0,
+   "explanation": [
+    "เซลล์สุริยะเปลี่ยนพลังงานแสงเป็นไฟฟ้าโดยตรง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T07-05",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 7,
+   "topic": "แหล่งพลังงาน",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "แก๊สชีวภาพจากมูลสัตว์มีองค์ประกอบหลักคือแก๊สใด",
+   "choices": [
+    "มีเทน",
+    "ออกซิเจน",
+    "ไฮโดรเจนซัลไฟด์เท่านั้น",
+    "ฮีเลียม"
+   ],
+   "answer": 0,
+   "explanation": [
+    "การหมักแบบไม่ใช้ออกซิเจนได้แก๊สมีเทนเป็นหลัก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T07-06",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 7,
+   "topic": "แหล่งพลังงาน",
+   "course_code": "ว22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อจำกัดสำคัญของพลังงานแสงอาทิตย์คือข้อใด",
+   "choices": [
+    "ใช้ได้เฉพาะในทะเล",
+    "ปล่อยมลพิษมาก",
+    "ใช้แล้วหมดไป",
+    "ผลิตไฟฟ้าได้ไม่สม่ำเสมอ ขึ้นกับสภาพอากาศและเวลา"
+   ],
+   "answer": 3,
+   "explanation": [
+    "กลางคืนหรือวันที่มีเมฆมากผลิตได้น้อย จึงต้องมีระบบกักเก็บ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T07-07",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 7,
+   "topic": "แหล่งพลังงาน",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "หมู่บ้านบนภูเขาที่มีลำธารไหลแรงตลอดปี ควรเลือกพลังงานทดแทนใดผลิตไฟฟ้า",
+   "choices": [
+    "พลังงานคลื่นทะเล",
+    "ไฟฟ้าพลังน้ำขนาดเล็ก",
+    "พลังงานความร้อนใต้พิภพทุกพื้นที่",
+    "โรงไฟฟ้าถ่านหิน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ลำธารไหลแรงตลอดปีเหมาะกับไฟฟ้าพลังน้ำขนาดเล็ก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SC-T07-08",
+   "grade": "M2",
+   "subject": "SC",
+   "topic_no": 7,
+   "topic": "แหล่งพลังงาน",
+   "course_code": "ว22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เพราะเหตุใดเชื้อเพลิงซากดึกดำบรรพ์จึงจัดเป็นทรัพยากรที่ใช้แล้วหมดไป",
+   "choices": [
+    "เพราะเกิดจากพืชเท่านั้น",
+    "เพราะเก็บไว้ไม่ได้",
+    "ใช้เวลาเกิดนานหลายล้านปี เร็วกว่าที่มนุษย์ใช้ไม่ได้",
+    "เพราะมีราคาแพง"
+   ],
+   "answer": 2,
+   "explanation": [
+    "อัตราการเกิดช้ามากเมื่อเทียบกับอัตราการใช้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T01-01",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: อนุประโยคและกาลเวลาต่อเนื่อง",
+   "course_code": "อ22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "I ___ TV when the phone rang.",
+   "choices": [
+    "was watching",
+    "watches",
+    "watch",
+    "am watching"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Past Continuous (was + V-ing) for an action in progress when another action happened."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T01-02",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: อนุประโยคและกาลเวลาต่อเนื่อง",
+   "course_code": "อ22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "She has lived here ___ 2020.",
+   "choices": [
+    "for",
+    "at",
+    "ago",
+    "since"
+   ],
+   "answer": 3,
+   "explanation": [
+    "Use \"since\" with a starting point in time."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T01-03",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: อนุประโยคและกาลเวลาต่อเนื่อง",
+   "course_code": "อ22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "They have studied English ___ five years.",
+   "choices": [
+    "in",
+    "ago",
+    "for",
+    "since"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Use \"for\" with a length of time."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T01-04",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: อนุประโยคและกาลเวลาต่อเนื่อง",
+   "course_code": "อ22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "This bridge ___ in 1990.",
+   "choices": [
+    "is building",
+    "was built",
+    "has build",
+    "built"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Passive Voice (past): was/were + V3."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T01-05",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: อนุประโยคและกาลเวลาต่อเนื่อง",
+   "course_code": "อ22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Have you finished your homework ___?",
+   "choices": [
+    "yet",
+    "already",
+    "since",
+    "ago"
+   ],
+   "answer": 0,
+   "explanation": [
+    "\"yet\" is used in questions and negatives with Present Perfect."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T01-06",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: อนุประโยคและกาลเวลาต่อเนื่อง",
+   "course_code": "อ22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "While we ___ dinner, the lights went out.",
+   "choices": [
+    "are having",
+    "have",
+    "were having",
+    "had"
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"While\" + Past Continuous for the longer action; Past Simple for the short interrupting action."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T01-07",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: อนุประโยคและกาลเวลาต่อเนื่อง",
+   "course_code": "อ22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Choose the correct passive sentence: \"People speak Thai in Thailand.\"",
+   "choices": [
+    "Thai spoke in Thailand.",
+    "Thai is spoken in Thailand.",
+    "Thai was speak in Thailand.",
+    "Thailand is spoken Thai."
+   ],
+   "answer": 1,
+   "explanation": [
+    "Present simple passive: is/are + V3."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T01-08",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: อนุประโยคและกาลเวลาต่อเนื่อง",
+   "course_code": "อ22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Which sentence is correct?",
+   "choices": [
+    "I have ate lunch already.",
+    "I have eat lunch yesterday.",
+    "I already have eaten lunch yesterday.",
+    "I have already eaten lunch."
+   ],
+   "answer": 3,
+   "explanation": [
+    "Present Perfect = have + V3 (eaten); do not use a finished time like \"yesterday\" with it."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T02-01",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: โครงสร้างประโยคและความสัมพันธ์",
+   "course_code": "อ22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "I was tired, ___ I went to bed early.",
+   "choices": [
+    "so",
+    "but",
+    "although",
+    "or"
+   ],
+   "answer": 0,
+   "explanation": [
+    "\"so\" shows a result."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T02-02",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: โครงสร้างประโยคและความสัมพันธ์",
+   "course_code": "อ22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "My bag is ___ than yours.",
+   "choices": [
+    "more heavy",
+    "heaviest",
+    "heavy",
+    "heavier"
+   ],
+   "answer": 3,
+   "explanation": [
+    "Comparative of a short adjective ending in -y: heavier."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T02-03",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: โครงสร้างประโยคและความสัมพันธ์",
+   "course_code": "อ22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "She enjoys ___ books.",
+   "choices": [
+    "reads",
+    "reading",
+    "to read",
+    "read"
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"enjoy\" is followed by a gerund (V-ing)."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T02-04",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: โครงสร้างประโยคและความสัมพันธ์",
+   "course_code": "อ22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "___ it was raining, they played football.",
+   "choices": [
+    "And",
+    "Because",
+    "Although",
+    "So"
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"Although\" shows contrast."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T02-05",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: โครงสร้างประโยคและความสัมพันธ์",
+   "course_code": "อ22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "He decided ___ a new bike.",
+   "choices": [
+    "buy",
+    "buying",
+    "to buy",
+    "bought"
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"decide\" is followed by to + infinitive."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T02-06",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: โครงสร้างประโยคและความสัมพันธ์",
+   "course_code": "อ22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "This is the ___ film I have ever seen.",
+   "choices": [
+    "most exciting",
+    "more exciting",
+    "excitingest",
+    "exciting"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Superlative of a long adjective: the most + adjective."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T02-07",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: โครงสร้างประโยคและความสัมพันธ์",
+   "course_code": "อ22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "My brother is as ___ as my father.",
+   "choices": [
+    "taller",
+    "tall",
+    "more tall",
+    "tallest"
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"as ... as\" uses the base form of the adjective."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T02-08",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: โครงสร้างประโยคและความสัมพันธ์",
+   "course_code": "อ22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Let me ___ you with your bag.",
+   "choices": [
+    "helped",
+    "to help",
+    "helping",
+    "help"
+   ],
+   "answer": 3,
+   "explanation": [
+    "\"let + object + bare infinitive\" (no \"to\")."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T03-01",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Error Identification: ระดับอนุประโยคและคำเชื่อม",
+   "course_code": "อ22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Find the error: \"The box of apples (A) are (B) on the table (C) in the kitchen (D).\"",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1,
+   "explanation": [
+    "The subject is \"box\" (singular), so use \"is\", not \"are\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T03-02",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Error Identification: ระดับอนุประโยคและคำเชื่อม",
+   "course_code": "อ22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Find the error: \"She (A) go (B) to school (C) every day (D).\"",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"She\" needs \"goes\" in the Present Simple."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T03-03",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Error Identification: ระดับอนุประโยคและคำเชื่อม",
+   "course_code": "อ22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Find the error: \"The letter (A) was write (B) by my sister (C) last week (D).\"",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Passive needs V3: \"was written\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T03-04",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Error Identification: ระดับอนุประโยคและคำเชื่อม",
+   "course_code": "อ22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Find the error: \"I stayed home (A) because of (B) it was raining (C) heavily (D).\"",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"because of\" is followed by a noun; before a clause use \"because\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T03-05",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Error Identification: ระดับอนุประโยคและคำเชื่อม",
+   "course_code": "อ22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Find the error: \"The students in the library (A) is (B) reading (C) quietly (D).\"",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1,
+   "explanation": [
+    "The subject is \"students\" (plural): use \"are\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T03-06",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Error Identification: ระดับอนุประโยคและคำเชื่อม",
+   "course_code": "อ22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Find the error: \"Although he was tired, (A) but (B) he finished (C) his work (D).\"",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Do not use \"although\" and \"but\" together."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T03-07",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Error Identification: ระดับอนุประโยคและคำเชื่อม",
+   "course_code": "อ22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Find the error: \"Each of the players (A) have (B) a (C) new uniform (D).\"",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"Each of ...\" takes a singular verb: \"has\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T03-08",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Error Identification: ระดับอนุประโยคและคำเชื่อม",
+   "course_code": "อ22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Find the error: \"The cakes (A) were bake (B) by my mother (C) this morning (D).\"",
+   "choices": [
+    "A",
+    "B",
+    "C",
+    "D"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Passive: were + V3 → \"were baked\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T04-01",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Reading: สารคดีสั้นและข่าว",
+   "course_code": "อ22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "\"Elephants are the largest land animals. They can weigh up to 6,000 kg.\" What is the main idea?",
+   "choices": [
+    "Elephants live in Asia only.",
+    "Elephants are dangerous.",
+    "Elephants eat grass.",
+    "Elephants are very big land animals."
+   ],
+   "answer": 3,
+   "explanation": [
+    "The text is about the size of elephants."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T04-02",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Reading: สารคดีสั้นและข่าว",
+   "course_code": "อ22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Which sentence is an opinion?",
+   "choices": [
+    "Phayao Lake is in Phayao province.",
+    "Phayao Lake is the most beautiful place in the north.",
+    "The lake has fish.",
+    "Phayao has a lake."
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"most beautiful\" is a personal judgement."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T04-03",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Reading: สารคดีสั้นและข่าว",
+   "course_code": "อ22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "\"The village was so arid that farmers could not grow rice without water from the dam.\" \"arid\" means ___.",
+   "choices": [
+    "very wet",
+    "very cold",
+    "very dry",
+    "very busy"
+   ],
+   "answer": 2,
+   "explanation": [
+    "The clue \"could not grow rice without water\" shows it is dry."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T04-04",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Reading: สารคดีสั้นและข่าว",
+   "course_code": "อ22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Which is a fact?",
+   "choices": [
+    "The school library opens at 8 a.m.",
+    "The library should be bigger.",
+    "Everyone loves the library.",
+    "The library is the best room in the school."
+   ],
+   "answer": 0,
+   "explanation": [
+    "A fact can be checked; the others are opinions."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T04-05",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Reading: สารคดีสั้นและข่าว",
+   "course_code": "อ22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "\"Plastic bags take hundreds of years to break down. Many towns now ask shoppers to bring cloth bags.\" Why do towns ask for cloth bags?",
+   "choices": [
+    "Cloth bags are cheaper for shops.",
+    "Shoppers like cloth bags more.",
+    "Plastic bags harm the environment for a long time.",
+    "Plastic bags are too heavy."
+   ],
+   "answer": 2,
+   "explanation": [
+    "The first sentence gives the reason: plastic lasts very long."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T04-06",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Reading: สารคดีสั้นและข่าว",
+   "course_code": "อ22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "\"Despite the heavy rain, the festival went ahead as planned.\" What happened?",
+   "choices": [
+    "It did not rain.",
+    "The festival moved indoors.",
+    "The festival was cancelled.",
+    "The festival took place even though it rained."
+   ],
+   "answer": 3,
+   "explanation": [
+    "\"Despite\" means even though; \"went ahead\" means it happened."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T04-07",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Reading: สารคดีสั้นและข่าว",
+   "course_code": "อ22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "News: \"Chiang Kham students won first prize in a national robot contest. Their teacher said the team practised every evening for three months.\" What is the best headline?",
+   "choices": [
+    "Local Students Win National Robot Contest",
+    "Contest Cancelled in Chiang Kham",
+    "Teacher Practises Every Evening",
+    "Robots Replace Teachers"
+   ],
+   "answer": 0,
+   "explanation": [
+    "The headline should give the main news: the students won."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T04-08",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Reading: สารคดีสั้นและข่าว",
+   "course_code": "อ22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "\"The new road is a great idea,\" said the mayor. \"It will cost 20 million baht.\" Which part is a fact?",
+   "choices": [
+    "Both are opinions.",
+    "It will cost 20 million baht.",
+    "The new road is a great idea.",
+    "Neither can be checked."
+   ],
+   "answer": 1,
+   "explanation": [
+    "The cost can be checked; \"a great idea\" is an opinion."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "a planned cost is technically a prediction; teacher please confirm",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T05-01",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การเข้าสังคมและการแสดงความเห็น",
+   "course_code": "อ22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Waiter: \"Are you ready to order?\" Customer: \"___\"",
+   "choices": [
+    "No, I am a waiter.",
+    "Thank you, goodbye.",
+    "Yes, I'm ready to sleep.",
+    "Yes, I'd like fried rice, please."
+   ],
+   "answer": 3,
+   "explanation": [
+    "The customer answers by ordering food."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T05-02",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การเข้าสังคมและการแสดงความเห็น",
+   "course_code": "อ22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "A: \"I have a headache.\" B: \"You ___ take a rest.\"",
+   "choices": [
+    "should",
+    "mustn't",
+    "can't",
+    "shouldn't"
+   ],
+   "answer": 0,
+   "explanation": [
+    "\"should\" gives advice."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T05-03",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การเข้าสังคมและการแสดงความเห็น",
+   "course_code": "อ22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "A: \"This movie is boring.\" B (disagreeing politely): \"___\"",
+   "choices": [
+    "Yes, it is very boring.",
+    "You are wrong!",
+    "I see your point, but I think it's quite exciting.",
+    "Boring, boring, boring."
+   ],
+   "answer": 2,
+   "explanation": [
+    "Show you understand, then give a different opinion politely."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T05-04",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การเข้าสังคมและการแสดงความเห็น",
+   "course_code": "อ22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "At the airport: \"Can I see your passport, please?\" \"___\"",
+   "choices": [
+    "See you later.",
+    "Sure, here you are.",
+    "No problem, I'm hungry.",
+    "I'm fine, thank you."
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"Here you are\" is used when giving something."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T05-05",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การเข้าสังคมและการแสดงความเห็น",
+   "course_code": "อ22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "A: \"I'm always late for school.\" B: \"Why don't you ___?\"",
+   "choices": [
+    "sleep later",
+    "walk slowly",
+    "skip breakfast",
+    "set an alarm clock"
+   ],
+   "answer": 3,
+   "explanation": [
+    "\"Why don't you ...?\" gives a useful suggestion."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T05-06",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การเข้าสังคมและการแสดงความเห็น",
+   "course_code": "อ22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "A: \"I think we should plant more trees.\" B: \"___ Trees give us fresh air.\"",
+   "choices": [
+    "I disagree at all.",
+    "I totally agree.",
+    "That's a bad idea.",
+    "No way!"
+   ],
+   "answer": 1,
+   "explanation": [
+    "B gives a reason that supports A, so B agrees."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T05-07",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การเข้าสังคมและการแสดงความเห็น",
+   "course_code": "อ22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "At a hospital: Nurse: \"What seems to be the problem?\" Patient: \"___\"",
+   "choices": [
+    "I've had a sore throat since yesterday.",
+    "The problem is the hospital.",
+    "I'm a nurse too.",
+    "It seems fine, thank you."
+   ],
+   "answer": 0,
+   "explanation": [
+    "The patient should describe the symptom."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-EN-T05-08",
+   "grade": "M2",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การเข้าสังคมและการแสดงความเห็น",
+   "course_code": "อ22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "A: \"Shall we go to the market this afternoon?\" B: \"I'd love to, ___ I have to finish my project.\"",
+   "choices": [
+    "because",
+    "and",
+    "but",
+    "so"
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"but\" shows contrast: wants to go, but cannot."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T01-01",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "การสร้างคำชั้นสูง (คำสมาสและคำสนธิ)",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "คำใดเป็นคำสมาส",
+   "choices": [
+    "ราชการ",
+    "รถไฟ",
+    "ไม้บรรทัด",
+    "แม่น้ำ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "\"ราช + การ\" เป็นคำบาลีสันสกฤตรวมกัน จึงเป็นคำสมาส"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T01-02",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "การสร้างคำชั้นสูง (คำสมาสและคำสนธิ)",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "\"วิทยา + าลัย\" สนธิเป็นคำใด",
+   "choices": [
+    "วิทยะลัย",
+    "วิทยาลัย",
+    "วิทยาอาลัย",
+    "วิทยลัย"
+   ],
+   "answer": 1,
+   "explanation": [
+    "สระ อา + อา รวมเป็น อา → วิทยาลัย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T01-03",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "การสร้างคำชั้นสูง (คำสมาสและคำสนธิ)",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "คำสมาสมีหลักการแปลอย่างไร",
+   "choices": [
+    "แปลจากคำหน้าไปคำหลัง",
+    "ไม่ต้องแปล",
+    "แปลจากคำหลังไปคำหน้า",
+    "แปลเฉพาะคำหน้า"
+   ],
+   "answer": 2,
+   "explanation": [
+    "คำสมาสมักแปลจากหลังไปหน้า เช่น ราชการ = การของพระราชา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T01-04",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "การสร้างคำชั้นสูง (คำสมาสและคำสนธิ)",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "\"มหา + อรรณพ\" สนธิแล้วได้คำใด",
+   "choices": [
+    "มหาอรรณพ",
+    "มหอรรณพ",
+    "มหาณพ",
+    "มหรรณพ"
+   ],
+   "answer": 3,
+   "explanation": [
+    "อา + อ สนธิเป็น อ (ลบ อา ใช้รูป อ) ได้ มหรรณพ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ครูโปรดตรวจตัวอย่างสนธิสระตามที่สอน",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T01-05",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "การสร้างคำชั้นสูง (คำสมาสและคำสนธิ)",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อใดเป็นคำสมาสทุกคำ",
+   "choices": [
+    "ประวัติศาสตร์ ชลประทาน อุบัติเหตุ",
+    "ประวัติศาสตร์ ผลไม้ อุบัติเหตุ",
+    "ทุนทรัพย์ ชลประทาน ราชการ",
+    "ราชวัง ชลประทาน อุบัติเหตุ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "\"ผลไม้\" มีคำไทย \"ไม้\" \"ราชวัง\" มีคำไทย \"วัง\" \"ทุนทรัพย์\" มีคำไทย \"ทุน\" จึงไม่ใช่สมาส"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ครูโปรดยืนยันว่า \"ทุน\" เป็นคำไทยตามที่สอน",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T01-06",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "การสร้างคำชั้นสูง (คำสมาสและคำสนธิ)",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อใดเป็นคำสมาสแบบมีสนธิ",
+   "choices": [
+    "ชลประทาน",
+    "เทพบุตร",
+    "ราชการ",
+    "ธนาคาร"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ธน + อาคาร → ธนาคาร (อ + อา เป็น อา)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T01-07",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "การสร้างคำชั้นสูง (คำสมาสและคำสนธิ)",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "คำสมาสต่างจากคำประสมอย่างไร",
+   "choices": [
+    "คำประสมต้องแปลจากหลังไปหน้า",
+    "คำสมาสต้องมีคำไทยอย่างน้อยหนึ่งคำ",
+    "คำสมาสเป็นคำบาลีสันสกฤตทั้งหมด ส่วนคำประสมจะมีคำไทยอยู่ด้วยหรือเป็นคำไทยทั้งหมด",
+    "ไม่แตกต่างกัน"
+   ],
+   "answer": 2,
+   "explanation": [
+    "หลักสำคัญ: สมาสใช้เฉพาะคำบาลีสันสกฤต"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T01-08",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "การสร้างคำชั้นสูง (คำสมาสและคำสนธิ)",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "\"นิร + ภัย\" สนธิแบบพยัญชนะแล้วได้คำใด",
+   "choices": [
+    "นิสภัย",
+    "นิรภัย",
+    "นิภัย",
+    "นิรัย"
+   ],
+   "answer": 1,
+   "explanation": [
+    "นิร + ภัย ต่อกันได้ \"นิรภัย\" (ไม่มีภัย)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T02-01",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "ราชาศัพท์และระดับภาษา",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "\"ศีรษะ\" ราชาศัพท์สำหรับพระมหากษัตริย์คือข้อใด",
+   "choices": [
+    "พระเศียร",
+    "พระเนตร",
+    "พระบาท",
+    "พระหัตถ์"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ศีรษะ = พระเศียร มือ = พระหัตถ์ เท้า = พระบาท ตา = พระเนตร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T02-02",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "ราชาศัพท์และระดับภาษา",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "คำว่า \"กิน\" สำหรับพระสงฆ์ใช้คำใด",
+   "choices": [
+    "เสวย",
+    "ฉัน",
+    "ทาน",
+    "รับประทาน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "พระสงฆ์ใช้ \"ฉัน\""
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T02-03",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "ราชาศัพท์และระดับภาษา",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ข้อใดใช้คำว่า \"ทรง\" ถูกต้อง",
+   "choices": [
+    "ทรงตรัส",
+    "ทรงเสวย",
+    "ทรงพระสรวล",
+    "ทรงประทับ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ไม่ใช้ทรงนำหน้าคำกริยาที่เป็นราชาศัพท์อยู่แล้ว เช่น เสวย ตรัส ประทับ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T02-04",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "ราชาศัพท์และระดับภาษา",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ภาษาระดับใดใช้ในการกล่าวสุนทรพจน์ในพิธีการ",
+   "choices": [
+    "ภาษาสแลง",
+    "ภาษาปาก",
+    "ภาษาระดับกันเอง",
+    "ภาษาระดับพิธีการ"
+   ],
+   "answer": 3,
+   "explanation": [
+    "งานพิธีการใช้ภาษาระดับพิธีการ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T02-05",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "ราชาศัพท์และระดับภาษา",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "\"พระราชดำรัส\" หมายถึงอะไร",
+   "choices": [
+    "จดหมายของพระมหากษัตริย์",
+    "ถ้อยคำที่พระมหากษัตริย์ตรัส",
+    "การเดินทางของพระมหากษัตริย์",
+    "ความคิดของพระมหากษัตริย์"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ดำรัส = คำพูด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T02-06",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "ราชาศัพท์และระดับภาษา",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "พูดกับพระสงฆ์ว่า \"ขอนิมนต์พระคุณเจ้าฉันภัตตาหาร\" ใช้ภาษาถูกหรือไม่",
+   "choices": [
+    "ผิด เพราะต้องใช้ \"เสวย\"",
+    "ผิด เพราะต้องใช้ \"รับประทาน\"",
+    "ถูกต้อง",
+    "ผิด เพราะต้องใช้ \"ทาน\""
+   ],
+   "answer": 2,
+   "explanation": [
+    "นิมนต์ ฉัน และภัตตาหาร เป็นคำที่ใช้กับพระสงฆ์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T02-07",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "ราชาศัพท์และระดับภาษา",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ข้อใดใช้ราชาศัพท์ถูกต้อง",
+   "choices": [
+    "พระบาทสมเด็จพระเจ้าอยู่หัวเสด็จไปเปิดอาคาร",
+    "พระบาทสมเด็จพระเจ้าอยู่หัวไปทรงเปิดอาคาร",
+    "พระบาทสมเด็จพระเจ้าอยู่หัวทรงเสด็จไปเปิดอาคาร",
+    "พระบาทสมเด็จพระเจ้าอยู่หัวเสด็จพระราชดำเนินไปทรงเปิดอาคาร"
+   ],
+   "answer": 3,
+   "explanation": [
+    "พระมหากษัตริย์ใช้ \"เสด็จพระราชดำเนิน\" และ \"ทรงเปิด\""
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ครูโปรดตรวจความถูกต้องตามหลักการใช้ราชาศัพท์ล่าสุด",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T02-08",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "ราชาศัพท์และระดับภาษา",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ประโยค \"เดี๋ยวกูไปหามึงนะ\" เป็นภาษาระดับใด และควรใช้เมื่อใด",
+   "choices": [
+    "ระดับกันเองหรือภาษาปาก ใช้เฉพาะกับเพื่อนสนิทในที่ส่วนตัว",
+    "ระดับกึ่งทางการ ใช้กับครู",
+    "ระดับพิธีการ ใช้ในงานทางการ",
+    "ระดับทางการ ใช้เขียนหนังสือราชการ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "คำสรรพนามเหล่านี้ไม่สุภาพ ใช้ได้เฉพาะกับคนสนิทมาก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ตัวอย่างใช้คำไม่สุภาพเพื่อสอนระดับภาษา ครูโปรดพิจารณาความเหมาะสม",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T03-01",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "การอ่านประเมินคุณค่าและวรรณกรรม",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "องค์ประกอบใดของเรื่องสั้นบอกว่า \"เรื่องเกิดที่ไหน เมื่อใด\"",
+   "choices": [
+    "โครงเรื่อง",
+    "ฉาก",
+    "ตัวละคร",
+    "แก่นเรื่อง"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ฉากคือสถานที่และเวลา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T03-02",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "การอ่านประเมินคุณค่าและวรรณกรรม",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "สารคดีต่างจากบันเทิงคดีอย่างไร",
+   "choices": [
+    "สารคดีเป็นเรื่องแต่งทั้งหมด",
+    "สารคดีต้องเป็นร้อยกรอง",
+    "สารคดีมุ่งให้ความรู้จากข้อเท็จจริง",
+    "สารคดีไม่มีชื่อเรื่อง"
+   ],
+   "answer": 2,
+   "explanation": [
+    "สารคดีเน้นข้อเท็จจริงและความรู้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T03-03",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "การอ่านประเมินคุณค่าและวรรณกรรม",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "\"แก่นเรื่อง\" หมายถึงข้อใด",
+   "choices": [
+    "ความคิดสำคัญหรือสารที่ผู้แต่งต้องการสื่อ",
+    "ชื่อของตัวละครเอก",
+    "ลำดับเหตุการณ์ในเรื่อง",
+    "สถานที่ในเรื่อง"
+   ],
+   "answer": 0,
+   "explanation": [
+    "แก่นเรื่องคือแนวคิดหลักของเรื่อง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T03-04",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "การอ่านประเมินคุณค่าและวรรณกรรม",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "จุดสูงสุดของความขัดแย้งในเรื่องเรียกว่าอะไร",
+   "choices": [
+    "ฉาก",
+    "การปิดเรื่อง",
+    "การเปิดเรื่อง",
+    "จุดวิกฤต (ไคลแมกซ์)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ไคลแมกซ์คือจุดที่ความขัดแย้งสูงที่สุด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T03-05",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "การอ่านประเมินคุณค่าและวรรณกรรม",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การประเมินบทความที่ดี ควรพิจารณาสิ่งใดเป็นสำคัญ",
+   "choices": [
+    "ความยาวของบทความ",
+    "ความถูกต้องของข้อมูล ความสมเหตุสมผล และประโยชน์ต่อผู้อ่าน",
+    "ชื่อเสียงของผู้อ่าน",
+    "จำนวนรูปภาพ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "การประเมินพิจารณาทั้งเนื้อหา กลวิธี และคุณค่า"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T03-06",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "การอ่านประเมินคุณค่าและวรรณกรรม",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ตัวละครที่มีการเปลี่ยนแปลงนิสัยระหว่างเรื่องเรียกว่าอะไร",
+   "choices": [
+    "ตัวละครแบน",
+    "ผู้เล่าเรื่อง",
+    "ตัวละครประกอบ",
+    "ตัวละครหลายมิติ (พลวัต)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ตัวละครที่พัฒนาเปลี่ยนแปลงเรียกว่าตัวละครพลวัต/หลายมิติ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T03-07",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "การอ่านประเมินคุณค่าและวรรณกรรม",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เรื่องสั้นเล่าว่าเด็กชายที่เคยขี้เกียจ ได้เห็นแม่ทำงานหนักจนป่วย จึงเปลี่ยนมาช่วยงานบ้าน แก่นเรื่องคืออะไร",
+   "choices": [
+    "ความกตัญญูทำให้คนเปลี่ยนแปลงตนเอง",
+    "การเจ็บป่วยเป็นเรื่องธรรมดา",
+    "เด็กไม่ควรช่วยงานบ้าน",
+    "การทำงานบ้านเป็นเรื่องน่าเบื่อ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "สารของเรื่องคือการเห็นคุณค่าพ่อแม่จนเปลี่ยนพฤติกรรม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T03-08",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "การอ่านประเมินคุณค่าและวรรณกรรม",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ข้อใดเป็นการประเมินคุณค่าด้านวรรณศิลป์",
+   "choices": [
+    "หนังสือพิมพ์ครั้งแรกปี 2560",
+    "ผู้เขียนเกิดที่เชียงใหม่",
+    "ผู้เขียนใช้ภาพพจน์อุปมาทำให้เห็นภาพชัดเจน",
+    "เรื่องนี้มี 12 หน้า"
+   ],
+   "answer": 2,
+   "explanation": [
+    "วรรณศิลป์คือศิลปะการใช้ภาษา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T04-01",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "การเขียนสื่อสารเฉพาะกิจ",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "การเขียนแบบพรรณนาเน้นสิ่งใด",
+   "choices": [
+    "เล่าลำดับเหตุการณ์อย่างเดียว",
+    "ให้ข้อมูลตัวเลข",
+    "โน้มน้าวให้ซื้อสินค้า",
+    "ให้ผู้อ่านเห็นภาพและรู้สึกตาม"
+   ],
+   "answer": 3,
+   "explanation": [
+    "พรรณนาใช้ถ้อยคำให้เห็นภาพ ได้ยินเสียง รู้สึก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T04-02",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "การเขียนสื่อสารเฉพาะกิจ",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ประกาศของโรงเรียนควรมีสิ่งใด",
+   "choices": [
+    "เรื่องตลก",
+    "เฉพาะรูปภาพ",
+    "ชื่อหน่วยงาน เรื่อง รายละเอียด วันที่ และผู้ประกาศ",
+    "ความคิดเห็นส่วนตัว"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ประกาศต้องชัดเจนว่าใครประกาศเรื่องอะไร เมื่อใด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T04-03",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "การเขียนสื่อสารเฉพาะกิจ",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "บทความแสดงทรรศนะต้องมีส่วนใดเสมอ",
+   "choices": [
+    "ข้อสนับสนุนหรือเหตุผลของความคิดเห็น",
+    "บทสนทนาของตัวละคร",
+    "ตารางเวลาเดินรถ",
+    "ฉันทลักษณ์"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ทรรศนะที่ดีต้องมีเหตุผลสนับสนุน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T04-04",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "การเขียนสื่อสารเฉพาะกิจ",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ข้อใดเป็นการเขียนบรรยาย",
+   "choices": [
+    "ท้องฟ้าสีส้มอมชมพูราวกับผ้าไหม",
+    "เช้าวันนั้นฉันตื่นนอน อาบน้ำ แล้วเดินไปโรงเรียน",
+    "ขอเชิญทุกท่านร่วมงาน",
+    "ฉันคิดว่าเราควรปลูกต้นไม้"
+   ],
+   "answer": 1,
+   "explanation": [
+    "การบรรยายเล่าเรื่องตามลำดับเหตุการณ์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T04-05",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "การเขียนสื่อสารเฉพาะกิจ",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "คำชี้แจงการใช้เครื่องดับเพลิงควรเขียนอย่างไร",
+   "choices": [
+    "ใช้ภาษาวรรณศิลป์มาก ๆ",
+    "เล่าประวัติเครื่องดับเพลิง",
+    "เรียงขั้นตอนชัดเจน ใช้ประโยคสั้น เข้าใจง่าย",
+    "เขียนเป็นกลอน"
+   ],
+   "answer": 2,
+   "explanation": [
+    "คำชี้แจงต้องอ่านแล้วทำตามได้ทันที"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T04-06",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "การเขียนสื่อสารเฉพาะกิจ",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การเขียนบันทึกประจำวันมีประโยชน์อย่างไรมากที่สุด",
+   "choices": [
+    "ทบทวนเหตุการณ์และความรู้สึกของตนเอง",
+    "ใช้ส่งครูเพื่อเก็บคะแนนเท่านั้น",
+    "ให้คนอื่นอ่านทุกวัน",
+    "ฝึกเขียนตัวเลข"
+   ],
+   "answer": 0,
+   "explanation": [
+    "บันทึกช่วยสะท้อนตนเองและฝึกเขียนสม่ำเสมอ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T04-07",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "การเขียนสื่อสารเฉพาะกิจ",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ประโยคใดเหมาะเป็นประโยคเปิดของบทความแสดงทรรศนะเรื่อง \"ควรให้นักเรียนใช้โทรศัพท์ในห้องเรียนหรือไม่\"",
+   "choices": [
+    "ผมชอบโทรศัพท์สีดำ",
+    "โทรศัพท์มือถือเป็นได้ทั้งเครื่องมือการเรียนรู้และสิ่งรบกวน คำถามคือเราจะใช้อย่างไรให้เกิดประโยชน์",
+    "เมื่อวานผมทำโทรศัพท์หาย",
+    "โทรศัพท์มีหลายยี่ห้อ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ประโยคเปิดควรนำเข้าสู่ประเด็นที่จะแสดงทรรศนะ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T04-08",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "การเขียนสื่อสารเฉพาะกิจ",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ข้อความ \"ห้ามจอดรถ ฝ่าฝืนจะถูกล็อกล้อ\" ควรปรับให้สุภาพสำหรับป้ายโรงเรียนอย่างไร",
+   "choices": [
+    "ห้ามจอด!!!",
+    "ใครจอดล็อกล้อทันที",
+    "อย่ามาจอดตรงนี้นะ",
+    "กรุณางดจอดรถบริเวณนี้ เพื่อความปลอดภัยของนักเรียน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ใช้ \"กรุณา\" และให้เหตุผล ทำให้ภาษาสุภาพและชวนปฏิบัติตาม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T05-01",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "การพูดในโอกาสต่าง ๆ",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "การกล่าวต้อนรับควรพูดเรื่องใดก่อน",
+   "choices": [
+    "เล่าประวัติส่วนตัวยาว ๆ",
+    "แสดงความยินดีที่ผู้มาเยือนมา",
+    "บอกปัญหาของโรงเรียน",
+    "ขอเงินบริจาค"
+   ],
+   "answer": 1,
+   "explanation": [
+    "เริ่มด้วยการทักทายและแสดงความยินดี"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T05-02",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "การพูดในโอกาสต่าง ๆ",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "การพูดที่ดีควรมีบุคลิกอย่างไร",
+   "choices": [
+    "ก้มหน้าอ่านโพยตลอด",
+    "พูดเร็วมาก",
+    "สบตาผู้ฟัง ยืนตรง น้ำเสียงชัดเจน",
+    "หันหลังให้ผู้ฟัง"
+   ],
+   "answer": 2,
+   "explanation": [
+    "บุคลิกภาพที่ดีช่วยให้ผู้ฟังสนใจและเชื่อถือ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T05-03",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "การพูดในโอกาสต่าง ๆ",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "คำกล่าวขอบคุณวิทยากรควรมีเนื้อหาใด",
+   "choices": [
+    "วิจารณ์ข้อผิดพลาดของวิทยากร",
+    "บอกเวลาเลิกงาน",
+    "เล่าเรื่องตลก",
+    "ขอบคุณและสรุปประโยชน์ที่ได้รับจากการบรรยาย"
+   ],
+   "answer": 3,
+   "explanation": [
+    "การขอบคุณควรสั้น จริงใจ และกล่าวถึงประโยชน์ที่ได้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T05-04",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "การพูดในโอกาสต่าง ๆ",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "การพูดอวยพรวันเกิดผู้ใหญ่ควรใช้ภาษาแบบใด",
+   "choices": [
+    "สุภาพ อ้างสิ่งศักดิ์สิทธิ์อำนวยพร",
+    "ภาษาต่างประเทศเท่านั้น",
+    "ภาษาไม่สุภาพแบบเป็นกันเอง",
+    "ภาษาสแลง"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ผู้น้อยไม่อวยพรผู้ใหญ่โดยตรง แต่อ้างสิ่งศักดิ์สิทธิ์อำนวยพร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ครูโปรดตรวจตามธรรมเนียมที่สอน",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T05-05",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "การพูดในโอกาสต่าง ๆ",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ผู้พูดลืมเนื้อความกลางคัน ควรทำอย่างไร",
+   "choices": [
+    "หยุดเล็กน้อย ตั้งสติ แล้วพูดต่อจากประเด็นหลัก",
+    "พูดเรื่องอื่นจนหมดเวลา",
+    "หัวเราะเสียงดัง",
+    "ขอโทษแล้วเดินลงเวที"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ตั้งสติและพูดต่อจากโครงเรื่องที่เตรียมไว้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T05-06",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "การพูดในโอกาสต่าง ๆ",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อใดเป็นมารยาทของผู้ฟังที่ดี",
+   "choices": [
+    "เล่นโทรศัพท์ระหว่างฟัง",
+    "ตั้งใจฟังและถามเมื่อเปิดโอกาส",
+    "ลุกออกกลางคัน",
+    "คุยกับเพื่อนข้าง ๆ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ผู้ฟังที่ดีให้เกียรติผู้พูด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T05-07",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "การพูดในโอกาสต่าง ๆ",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ประโยคใดเหมาะสำหรับปิดคำกล่าวต้อนรับคณะครูจากโรงเรียนอื่น",
+   "choices": [
+    "หมดเวลาแล้ว ไปได้แล้ว",
+    "ขอบคุณที่มาให้เสียเวลา",
+    "ขอให้ทุกท่านได้รับความรู้และความประทับใจกลับไป ขอบคุณครับ",
+    "รีบกลับก่อนฝนตกนะครับ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ปิดด้วยการอวยพรและขอบคุณอย่างสุภาพ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T05-08",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "การพูดในโอกาสต่าง ๆ",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "นักเรียนต้องพูดหน้าเสาธง 2 นาที ควรเตรียมอย่างไรดีที่สุด",
+   "choices": [
+    "ไม่ต้องเตรียม พูดสด",
+    "เขียนยาว 5 หน้าแล้วอ่าน",
+    "ท่องจำทุกคำจากอินเทอร์เน็ต",
+    "วางโครงเรื่องสั้น ๆ ฝึกพูดจับเวลา และเตรียมตัวอย่างประกอบ"
+   ],
+   "answer": 3,
+   "explanation": [
+    "การวางโครงเรื่องและฝึกจับเวลาช่วยให้พูดได้กระชับ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T06-01",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณคดีสะท้อนสังคม (รามเกียรติ์ ตอน นารายณ์ปราบนนทก และ กาพย์ห่อโคลงประพาสธารทองแดง)",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "นนทกมีนิ้ววิเศษชนิดใด",
+   "choices": [
+    "นิ้วเพชร ชี้ใครคนนั้นตาย",
+    "นิ้วทอง ชี้แล้วได้ทอง",
+    "นิ้วไฟ ชี้แล้วไฟไหม้",
+    "นิ้วน้ำ ชี้แล้วฝนตก"
+   ],
+   "answer": 0,
+   "explanation": [
+    "นนทกได้นิ้วเพชรจากพระอิศวร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T06-02",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณคดีสะท้อนสังคม (รามเกียรติ์ ตอน นารายณ์ปราบนนทก และ กาพย์ห่อโคลงประพาสธารทองแดง)",
+   "course_code": "ท22102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "กาพย์ห่อโคลงประกอบด้วยคำประพันธ์ชนิดใด",
+   "choices": [
+    "ฉันท์และกลอนเพลง",
+    "กาพย์ฉบัง 16 และร่ายยาว",
+    "กลอนสุภาพและโคลงสี่สุภาพ",
+    "กาพย์ยานี 11 และโคลงสี่สุภาพ"
+   ],
+   "answer": 3,
+   "explanation": [
+    "กาพย์ห่อโคลงแต่งกาพย์ยานีคู่กับโคลงสี่สุภาพที่มีเนื้อความเดียวกัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T06-03",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณคดีสะท้อนสังคม (รามเกียรติ์ ตอน นารายณ์ปราบนนทก และ กาพย์ห่อโคลงประพาสธารทองแดง)",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "กาพย์ห่อโคลงประพาสธารทองแดงพรรณนาเรื่องใดเป็นหลัก",
+   "choices": [
+    "การค้าขาย",
+    "ธรรมชาติ สัตว์ และพืชพรรณระหว่างการเสด็จประพาส",
+    "การทำสงคราม",
+    "ความรักของหนุ่มสาว"
+   ],
+   "answer": 1,
+   "explanation": [
+    "เป็นบทพรรณนาธรรมชาติที่ธารทองแดง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T06-04",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณคดีสะท้อนสังคม (รามเกียรติ์ ตอน นารายณ์ปราบนนทก และ กาพย์ห่อโคลงประพาสธารทองแดง)",
+   "course_code": "ท22102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เหตุใดนนทกจึงใช้นิ้วเพชรชี้เทวดา",
+   "choices": [
+    "พระอิศวรสั่งให้ทำ",
+    "อยากเป็นใหญ่ในสวรรค์",
+    "ถูกเทวดากลั่นแกล้งลูบหัวเป็นเวลานานจึงแค้น",
+    "เข้าใจผิดว่าเทวดาขโมยของ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "นนทกถูกเทวดาแกล้งจนหัวล้าน จึงใช้นิ้วเพชรแก้แค้น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T06-05",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณคดีสะท้อนสังคม (รามเกียรติ์ ตอน นารายณ์ปราบนนทก และ กาพย์ห่อโคลงประพาสธารทองแดง)",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อคิดสำคัญจากเรื่องนนทกคือข้อใด",
+   "choices": [
+    "ไม่ควรเชื่อเทวดา",
+    "ไม่ควรกลั่นแกล้งผู้อื่น และผู้มีอำนาจควรใช้อำนาจอย่างมีสติ",
+    "ความงามสำคัญที่สุด",
+    "ควรแก้แค้นเมื่อถูกรังแก"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ทั้งการกลั่นแกล้งและการใช้อำนาจในทางผิดนำไปสู่ผลร้าย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T06-06",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณคดีสะท้อนสังคม (รามเกียรติ์ ตอน นารายณ์ปราบนนทก และ กาพย์ห่อโคลงประพาสธารทองแดง)",
+   "course_code": "ท22102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ผู้ทรงพระราชนิพนธ์กาพย์ห่อโคลงประพาสธารทองแดงคือใคร",
+   "choices": [
+    "ศรีปราชญ์",
+    "รัชกาลที่ 1",
+    "เจ้าฟ้าธรรมธิเบศร (เจ้าฟ้ากุ้ง)",
+    "สุนทรภู่"
+   ],
+   "answer": 2,
+   "explanation": [
+    "เป็นพระนิพนธ์ของเจ้าฟ้าธรรมธิเบศรในสมัยอยุธยา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T06-07",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณคดีสะท้อนสังคม (รามเกียรติ์ ตอน นารายณ์ปราบนนทก และ กาพย์ห่อโคลงประพาสธารทองแดง)",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "พระนารายณ์ปราบนนทกด้วยวิธีใด",
+   "choices": [
+    "แปลงเป็นนางงามล่อให้นนทกรำตามจนชี้นิ้วเพชรใส่ขาตนเอง",
+    "ขอให้พระอิศวรยึดนิ้วเพชรคืน",
+    "ท้าดวลกระบี่",
+    "ใช้ศรยิงจากที่ไกล"
+   ],
+   "answer": 0,
+   "explanation": [
+    "นนทกรำตามนางแปลงจนชี้นิ้วเพชรที่ขาตนเอง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-TH-T06-08",
+   "grade": "M2",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณคดีสะท้อนสังคม (รามเกียรติ์ ตอน นารายณ์ปราบนนทก และ กาพย์ห่อโคลงประพาสธารทองแดง)",
+   "course_code": "ท22102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การที่นนทกเกิดใหม่เป็นทศกัณฐ์และพระนารายณ์อวตารเป็นพระรามสะท้อนความเชื่อใด",
+   "choices": [
+    "ความเชื่อเรื่องโชคลาง",
+    "ความเชื่อเรื่องผีบรรพบุรุษ",
+    "ความเชื่อเรื่องวิทยาศาสตร์",
+    "ความเชื่อเรื่องกรรมและการเวียนว่ายตายเกิด"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เรื่องเล่าว่าความแค้นต่อเนื่องข้ามชาติ สะท้อนความเชื่อเรื่องกรรมและการเกิดใหม่"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T01-01",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "เครื่องมือทางภูมิศาสตร์",
+   "course_code": "ส22103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "GPS ใช้ทำอะไร",
+   "choices": [
+    "ระบุตำแหน่งบนพื้นโลก",
+    "วัดปริมาณน้ำฝน",
+    "วัดความเร็วลม",
+    "พยากรณ์แผ่นดินไหว"
+   ],
+   "answer": 0,
+   "explanation": [
+    "GPS ใช้สัญญาณดาวเทียมบอกพิกัดตำแหน่ง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T01-02",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "เครื่องมือทางภูมิศาสตร์",
+   "course_code": "ส22103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "เครื่องมือใดใช้หาทิศ",
+   "choices": [
+    "บารอมิเตอร์",
+    "เทอร์โมมิเตอร์",
+    "ไฮโกรมิเตอร์",
+    "เข็มทิศ"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เข็มทิศชี้ทิศเหนือแม่เหล็ก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T01-03",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "เครื่องมือทางภูมิศาสตร์",
+   "course_code": "ส22103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "แผนที่มาตราส่วน 1 : 50,000 ระยะบนแผนที่ 2 ซม. เท่ากับระยะจริงกี่กิโลเมตร",
+   "choices": [
+    "100 กิโลเมตร",
+    "1 กิโลเมตร",
+    "10 กิโลเมตร",
+    "0.1 กิโลเมตร"
+   ],
+   "answer": 1,
+   "explanation": [
+    "2 × 50,000 = 100,000 ซม. = 1 กม."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SO-T01-04",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "เครื่องมือทางภูมิศาสตร์",
+   "course_code": "ส22103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "GIS ช่วยในงานใดมากที่สุด",
+   "choices": [
+    "ถ่ายภาพบุคคล",
+    "ส่งจดหมาย",
+    "วิเคราะห์ข้อมูลเชิงพื้นที่หลายชั้นร่วมกัน",
+    "วัดอุณหภูมิร่างกาย"
+   ],
+   "answer": 2,
+   "explanation": [
+    "GIS ซ้อนทับข้อมูลเชิงพื้นที่เพื่อวิเคราะห์และตัดสินใจ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T01-05",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "เครื่องมือทางภูมิศาสตร์",
+   "course_code": "ส22103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ถ้าเวลาที่กรีนิช (0°) เป็น 12.00 น. ที่ลองจิจูด 105° ตะวันออกเป็นเวลาเท่าใด (เวลาตามลองจิจูด)",
+   "choices": [
+    "17.00 น.",
+    "10.00 น.",
+    "5.00 น.",
+    "19.00 น."
+   ],
+   "answer": 3,
+   "explanation": [
+    "ทุก 15° ต่างกัน 1 ชั่วโมง → 105 ÷ 15 = 7 ชม. ทางตะวันออกเร็วกว่า"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SO-T01-06",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "เครื่องมือทางภูมิศาสตร์",
+   "course_code": "ส22103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การรับรู้จากระยะไกล (RS) ใช้ประโยชน์ในเรื่องใด",
+   "choices": [
+    "นับจำนวนนักเรียนในห้อง",
+    "ติดตามพื้นที่น้ำท่วมจากภาพดาวเทียม",
+    "ส่งข้อความโทรศัพท์",
+    "วัดส่วนสูงคน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "RS เก็บข้อมูลพื้นผิวโลกโดยไม่ต้องสัมผัส"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T01-07",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "เครื่องมือทางภูมิศาสตร์",
+   "course_code": "ส22103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "แผนที่ A มาตราส่วน 1 : 10,000 แผนที่ B มาตราส่วน 1 : 250,000 ข้อใดถูก",
+   "choices": [
+    "แผนที่ A ครอบคลุมพื้นที่กว้างกว่า",
+    "ทั้งสองแสดงรายละเอียดเท่ากัน",
+    "แผนที่ A แสดงรายละเอียดได้มากกว่า",
+    "แผนที่ B แสดงรายละเอียดได้มากกว่า"
+   ],
+   "answer": 2,
+   "explanation": [
+    "มาตราส่วนใหญ่ (ตัวส่วนน้อย) แสดงรายละเอียดมากแต่พื้นที่น้อย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T01-08",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "เครื่องมือทางภูมิศาสตร์",
+   "course_code": "ส22103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ระยะทางจริง 15 กม. บนแผนที่มาตราส่วน 1 : 250,000 จะยาวกี่เซนติเมตร",
+   "choices": [
+    "6 ซม.",
+    "3.75 ซม.",
+    "60 ซม.",
+    "0.6 ซม."
+   ],
+   "answer": 0,
+   "explanation": [
+    "15 กม. = 1,500,000 ซม. ÷ 250,000 = 6 ซม."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M2-SO-T02-01",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "ภูมิศาสตร์กายภาพ",
+   "course_code": "ส22103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ฤดูกาลบนโลกเกิดจากสาเหตุใดเป็นหลัก",
+   "choices": [
+    "ระยะห่างจากดวงจันทร์",
+    "แกนโลกเอียงขณะโคจรรอบดวงอาทิตย์",
+    "ดวงจันทร์โคจรรอบโลก",
+    "โลกหมุนรอบตัวเอง"
+   ],
+   "answer": 1,
+   "explanation": [
+    "แกนเอียงทำให้แต่ละซีกโลกได้รับแสงต่างกันตลอดปี"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T02-02",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "ภูมิศาสตร์กายภาพ",
+   "course_code": "ส22103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ชั้นบรรยากาศที่มนุษย์อาศัยและเกิดปรากฏการณ์ลมฟ้าอากาศคือชั้นใด",
+   "choices": [
+    "โทรโพสเฟียร์",
+    "มีโซสเฟียร์",
+    "เทอร์โมสเฟียร์",
+    "สตราโตสเฟียร์"
+   ],
+   "answer": 0,
+   "explanation": [
+    "โทรโพสเฟียร์เป็นชั้นล่างสุดที่มีไอน้ำและเมฆ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T02-03",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "ภูมิศาสตร์กายภาพ",
+   "course_code": "ส22103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ภูเขาไฟเกิดบ่อยบริเวณใด",
+   "choices": [
+    "ขั้วโลก",
+    "กลางทะเลทราย",
+    "แนวรอยต่อแผ่นธรณีภาค",
+    "ที่ราบลุ่มแม่น้ำ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "แมกมาขึ้นมาตามรอยต่อแผ่นธรณี เช่น วงแหวนแห่งไฟ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T02-04",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "ภูมิศาสตร์กายภาพ",
+   "course_code": "ส22103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ที่ราบสูงต่างจากที่ราบอย่างไร",
+   "choices": [
+    "ไม่ต่างกัน",
+    "ที่ราบสูงอยู่ใต้ทะเล",
+    "ที่ราบสูงต้องมีภูเขาไฟ",
+    "ที่ราบสูงยกตัวสูงจากระดับน้ำทะเลมากกว่าและมักมีขอบชัน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ที่ราบสูงเป็นพื้นที่ค่อนข้างราบแต่อยู่สูง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T02-05",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "ภูมิศาสตร์กายภาพ",
+   "course_code": "ส22103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ป่าดิบชื้นพบมากในเขตภูมิอากาศใด",
+   "choices": [
+    "ทุนดรา",
+    "ร้อนชื้นฝนตกชุกเกือบทั้งปี",
+    "ทะเลทราย",
+    "ขั้วโลก"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ป่าดิบชื้นต้องการความร้อนและฝนมาก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T02-06",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "ภูมิศาสตร์กายภาพ",
+   "course_code": "ส22103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "หินชนิดใดเกิดจากแมกมาเย็นตัว",
+   "choices": [
+    "หินแปร",
+    "หินตะกอน",
+    "หินปูน",
+    "หินอัคนี"
+   ],
+   "answer": 3,
+   "explanation": [
+    "แมกมา/ลาวาเย็นตัวกลายเป็นหินอัคนี"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T02-07",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "ภูมิศาสตร์กายภาพ",
+   "course_code": "ส22103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เหตุใดยอดเขาสูงจึงมีอากาศเย็นกว่าเชิงเขาแม้อยู่ใกล้ดวงอาทิตย์มากกว่า",
+   "choices": [
+    "อุณหภูมิในชั้นโทรโพสเฟียร์ลดลงตามความสูง เพราะอากาศเบาบางเก็บความร้อนได้น้อย",
+    "ดวงอาทิตย์ส่องไม่ถึง",
+    "ลมแรงทำให้ความร้อนหาย",
+    "มีหิมะตลอดเวลา"
+   ],
+   "answer": 0,
+   "explanation": [
+    "อุณหภูมิลดลงประมาณ 6.5 °C ต่อ 1 กม."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T02-08",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "ภูมิศาสตร์กายภาพ",
+   "course_code": "ส22103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ประเทศไทยมีฝนตกชุกช่วงกลางปีเพราะอิทธิพลของลมใด",
+   "choices": [
+    "ลมตะวันออก",
+    "ลมประจำถิ่นภูเขา",
+    "มรสุมตะวันตกเฉียงใต้",
+    "มรสุมตะวันออกเฉียงเหนือ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "มรสุมตะวันตกเฉียงใต้พัดพาความชื้นจากมหาสมุทรอินเดีย (พ.ค.–ต.ค.)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T03-01",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "วิกฤตการณ์ด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ปรากฏการณ์เรือนกระจกเกิดจากแก๊สใดมากที่สุด",
+   "choices": [
+    "ออกซิเจน",
+    "คาร์บอนไดออกไซด์",
+    "อาร์กอน",
+    "ไนโตรเจน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "CO₂ กักเก็บความร้อนในบรรยากาศ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T03-02",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "วิกฤตการณ์ด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ชั้นโอโซนช่วยป้องกันสิ่งใด",
+   "choices": [
+    "ลมพายุ",
+    "แผ่นดินไหว",
+    "ฝนกรด",
+    "รังสีอัลตราไวโอเลต"
+   ],
+   "answer": 3,
+   "explanation": [
+    "โอโซนดูดกลืนรังสี UV"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T03-03",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "วิกฤตการณ์ด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "สารใดทำลายชั้นโอโซน",
+   "choices": [
+    "น้ำ",
+    "เกลือ",
+    "CFCs (คลอโรฟลูออโรคาร์บอน)",
+    "ออกซิเจน"
+   ],
+   "answer": 2,
+   "explanation": [
+    "CFCs ปล่อยคลอรีนที่ทำลายโอโซน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T03-04",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "วิกฤตการณ์ด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ฝนกรดเกิดจากแก๊สใด",
+   "choices": [
+    "ซัลเฟอร์ไดออกไซด์และไนโตรเจนออกไซด์",
+    "ไอน้ำบริสุทธิ์",
+    "ออกซิเจน",
+    "ฮีเลียม"
+   ],
+   "answer": 0,
+   "explanation": [
+    "SO₂ และ NOx รวมกับน้ำฝนเป็นกรด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T03-05",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "วิกฤตการณ์ด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ปรากฏการณ์เอลนีโญมักส่งผลต่อไทยอย่างไร",
+   "choices": [
+    "แผ่นดินไหวถี่ขึ้น",
+    "ฝนตกมากผิดปกติ",
+    "ฝนน้อยและแห้งแล้งมากกว่าปกติ",
+    "หิมะตก"
+   ],
+   "answer": 2,
+   "explanation": [
+    "เอลนีโญทำให้ฝนในเอเชียตะวันออกเฉียงใต้น้อยลง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T03-06",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "วิกฤตการณ์ด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ปะการังฟอกขาวเกิดจากสาเหตุใดเป็นหลัก",
+   "choices": [
+    "อุณหภูมิน้ำทะเลสูงขึ้นผิดปกติ",
+    "ฝนตกหนัก",
+    "น้ำทะเลเย็นลง",
+    "ปลามากเกินไป"
+   ],
+   "answer": 0,
+   "explanation": [
+    "น้ำทะเลร้อนทำให้สาหร่ายที่อยู่ร่วมกับปะการังออกไป ปะการังจึงขาวซีด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T03-07",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "วิกฤตการณ์ด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ปรากฏการณ์อุณหภูมิผกผันทำให้ฝุ่น PM2.5 สะสมในภาคเหนือช่วงฤดูหนาวได้อย่างไร",
+   "choices": [
+    "ฝนตกชะฝุ่น",
+    "อุณหภูมิสูงขึ้นทำให้ฝุ่นหาย",
+    "ลมพัดฝุ่นออกไปเร็ว",
+    "อากาศเย็นถูกกักอยู่ใต้ชั้นอากาศอุ่น ฝุ่นจึงลอยขึ้นและกระจายออกได้ยาก"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ชั้นอากาศอุ่นด้านบนเป็นเหมือนฝาปิด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T03-08",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "วิกฤตการณ์ด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การลดการเผาในที่โล่งช่วยแก้ปัญหาใดในภาคเหนือได้โดยตรง",
+   "choices": [
+    "น้ำท่วม",
+    "หมอกควันและฝุ่น PM2.5",
+    "ภูเขาไฟ",
+    "สึนามิ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "การเผาเป็นแหล่งฝุ่นควันสำคัญในฤดูแล้ง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T04-01",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "ภัยพิบัติทางธรรมชาติ",
+   "course_code": "ส22103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "สึนามิมักเกิดจากสาเหตุใด",
+   "choices": [
+    "ฝนตกหนัก",
+    "น้ำขึ้นน้ำลง",
+    "แผ่นดินไหวใต้ทะเล",
+    "ลมมรสุม"
+   ],
+   "answer": 2,
+   "explanation": [
+    "การเคลื่อนตัวของพื้นทะเลทำให้น้ำถูกผลักเป็นคลื่นใหญ่"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T04-02",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "ภัยพิบัติทางธรรมชาติ",
+   "course_code": "ส22103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ขณะเกิดแผ่นดินไหวในอาคาร ควรทำอย่างไร",
+   "choices": [
+    "วิ่งลงลิฟต์",
+    "จุดเทียนดู",
+    "ยืนใกล้หน้าต่าง",
+    "หมอบใต้โต๊ะที่แข็งแรง ป้องกันศีรษะ"
+   ],
+   "answer": 3,
+   "explanation": [
+    "\"หมอบ ป้อง เกาะ\" เพื่อป้องกันสิ่งของตกใส่"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T04-03",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "ภัยพิบัติทางธรรมชาติ",
+   "course_code": "ส22103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "สัญญาณเตือนสึนามิที่ชายหาดคือข้อใด",
+   "choices": [
+    "น้ำทะเลลดลงอย่างรวดเร็วผิดปกติ",
+    "มีนกบินมาก",
+    "แดดจัด",
+    "ฝนตกปรอย ๆ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "น้ำลดลงเร็วผิดปกติก่อนคลื่นใหญ่จะซัดเข้ามา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T04-04",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "ภัยพิบัติทางธรรมชาติ",
+   "course_code": "ส22103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "มาตราที่ใช้บอกขนาดของแผ่นดินไหวคือข้อใด",
+   "choices": [
+    "มาตราเซลเซียส",
+    "มาตราริกเตอร์ (ขนาด)",
+    "มาตราโบฟอร์ต",
+    "มาตราส่วนแผนที่"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ริกเตอร์บอกขนาดพลังงาน ส่วนโบฟอร์ตใช้วัดความเร็วลม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T04-05",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "ภัยพิบัติทางธรรมชาติ",
+   "course_code": "ส22103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ภาคเหนือของไทยเสี่ยงแผ่นดินไหวเพราะเหตุใด",
+   "choices": [
+    "มีภูเขาไฟที่ยังปะทุ",
+    "อยู่ใกล้ทะเล",
+    "มีรอยเลื่อนมีพลังหลายแนว",
+    "มีฝนตกมาก"
+   ],
+   "answer": 2,
+   "explanation": [
+    "เช่น รอยเลื่อนพะเยา รอยเลื่อนแม่จัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ครูโปรดตรวจชื่อรอยเลื่อนในพื้นที่ตามข้อมูลกรมทรัพยากรธรณีล่าสุด",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T04-06",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "ภัยพิบัติทางธรรมชาติ",
+   "course_code": "ส22103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ภัยแล้งในไทยมักรุนแรงในช่วงใด",
+   "choices": [
+    "ฤดูร้อนและช่วงฝนทิ้งช่วง",
+    "ฤดูฝนช่วงกลาง",
+    "ทุกวันเท่ากัน",
+    "ฤดูหนาวที่มีหิมะ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ฤดูร้อนฝนน้อยและฝนทิ้งช่วงช่วงต้นฤดูฝน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T04-07",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "ภัยพิบัติทางธรรมชาติ",
+   "course_code": "ส22103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ชุมชนริมแม่น้ำอิงที่น้ำท่วมทุกปี ควรใช้แนวทางใดลดความเสียหายระยะยาวดีที่สุด",
+   "choices": [
+    "ย้ายทุกคนออกถาวรทันที",
+    "ถมแม่น้ำให้แคบลง",
+    "ไม่ต้องทำอะไร",
+    "ทำแผนที่เสี่ยงภัย ระบบเตือนภัยล่วงหน้า และปรับบ้านใต้ถุนสูง"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ผสมการเตรียมพร้อม เตือนภัย และปรับตัว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T04-08",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "ภัยพิบัติทางธรรมชาติ",
+   "course_code": "ส22103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เหตุใดพายุหมุนเขตร้อนจึงอ่อนกำลังลงเมื่อขึ้นฝั่ง",
+   "choices": [
+    "เพราะฝนหยุดตก",
+    "ขาดไอน้ำและความร้อนจากผิวน้ำทะเลซึ่งเป็นแหล่งพลังงาน",
+    "เพราะเจอเมือง",
+    "เพราะลมเปลี่ยนเป็นทิศเหนือ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "พายุใช้พลังงานจากน้ำทะเลที่อุ่น เมื่อขึ้นฝั่งจึงขาดแหล่งพลังงานและมีแรงเสียดทาน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T05-01",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "การจัดการด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "อนุสัญญา CITES เกี่ยวข้องกับเรื่องใด",
+   "choices": [
+    "การค้าสัตว์ป่าและพืชป่าที่ใกล้สูญพันธุ์",
+    "การจัดการพื้นที่ชุ่มน้ำ",
+    "การลดแก๊สเรือนกระจก",
+    "การเคลื่อนย้ายของเสียอันตราย"
+   ],
+   "answer": 0,
+   "explanation": [
+    "CITES ควบคุมการค้าระหว่างประเทศของชนิดพันธุ์ที่ใกล้สูญพันธุ์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T05-02",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "การจัดการด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ข้อใดเป็นการปฏิบัติตามหลัก Reuse",
+   "choices": [
+    "เผาขวดพลาสติก",
+    "นำขวดน้ำมาใช้ใส่น้ำซ้ำ",
+    "ทิ้งขวดลงถังขยะทั่วไป",
+    "ซื้อขวดใหม่ทุกวัน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Reuse คือการใช้ซ้ำ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T05-03",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "การจัดการด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "อนุสัญญาแรมซาร์ (Ramsar) เกี่ยวกับสิ่งใด",
+   "choices": [
+    "ของเสียอันตราย",
+    "สัตว์ป่าใกล้สูญพันธุ์",
+    "พื้นที่ชุ่มน้ำ",
+    "ชั้นโอโซน"
+   ],
+   "answer": 2,
+   "explanation": [
+    "แรมซาร์คุ้มครองพื้นที่ชุ่มน้ำที่มีความสำคัญระหว่างประเทศ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T05-04",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "การจัดการด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "อนุสัญญาบาเซล (Basel) ควบคุมเรื่องใด",
+   "choices": [
+    "การค้าสัตว์ป่า",
+    "มรดกโลก",
+    "พื้นที่ชุ่มน้ำ",
+    "การเคลื่อนย้ายของเสียอันตรายข้ามพรมแดน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "Basel ควบคุมการขนส่งของเสียอันตรายระหว่างประเทศ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T05-05",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "การจัดการด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "แหล่งใดของไทยได้รับการขึ้นทะเบียนเป็นมรดกโลกทางธรรมชาติ",
+   "choices": [
+    "อุทยานประวัติศาสตร์สุโขทัย",
+    "นครประวัติศาสตร์พระนครศรีอยุธยา",
+    "แหล่งโบราณคดีบ้านเชียง",
+    "ผืนป่าดงพญาเย็น-เขาใหญ่"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ดงพญาเย็น-เขาใหญ่และห้วยขาแข้ง-ทุ่งใหญ่นเรศวรเป็นมรดกโลกทางธรรมชาติ ส่วนตัวเลือกอื่นเป็นมรดกทางวัฒนธรรม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T05-06",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "การจัดการด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การพัฒนาที่ยั่งยืนหมายถึงข้อใด",
+   "choices": [
+    "ตอบสนองความต้องการปัจจุบันโดยไม่ทำลายโอกาสของคนรุ่นหลัง",
+    "ใช้ทรัพยากรให้หมดเร็วที่สุด",
+    "พัฒนาเฉพาะเศรษฐกิจ",
+    "หยุดการพัฒนาทุกอย่าง"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ต้องสมดุลทั้งเศรษฐกิจ สังคม และสิ่งแวดล้อม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T05-07",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "การจัดการด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "โรงงานเปลี่ยนกระบวนการผลิตให้ใช้น้ำและพลังงานน้อยลง และเกิดของเสียน้อยลง เป็นแนวคิดใด",
+   "choices": [
+    "การเผาขยะกลางแจ้ง",
+    "เทคโนโลยีสะอาด",
+    "การขยายโรงงาน",
+    "การฝังกลบทั้งหมด"
+   ],
+   "answer": 1,
+   "explanation": [
+    "เทคโนโลยีสะอาดลดมลพิษที่ต้นทาง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M2-SO-T05-08",
+   "grade": "M2",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "การจัดการด้านทรัพยากรธรรมชาติและสิ่งแวดล้อม",
+   "course_code": "ส22103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "โรงเรียนต้องการลดขยะพลาสติกในโรงอาหารให้ได้ผลระยะยาว ควรเริ่มที่หลักใดก่อน",
+   "choices": [
+    "ซื้อถังขยะเพิ่ม",
+    "เผาขยะทุกวัน",
+    "Reduce ลดการใช้ตั้งแต่ต้น เช่น งดแจกหลอดและถุง",
+    "Recycle ทั้งหมดหลังใช้"
+   ],
+   "answer": 2,
+   "explanation": [
+    "การลดที่ต้นทางได้ผลมากที่สุดในลำดับ 7R/3R"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  }
+ ]
+}

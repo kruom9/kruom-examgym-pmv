@@ -50,7 +50,13 @@ for g in cur["grades"]:
     live = [s for s in g["subjects"] if s["status"] == "live" and counts.get((g["code"], s["code"], "draft"))]
     if g["code"] != "M6":
         for s in live:
-            out.append(f"insert into public.exam_sets (id,grade_code,subject_id,kind,name_th,n_items,minutes,mix,max_attempts,pass_pct,unlock_rule,shuffle_choices,sort) values ({q(g['code']+'-ROOM-'+s['code'])},{q(g['code'])},{q(s['id'])},'subject_room',{q('ห้องสอบวิชา'+s['name'])},20,45,{q([4,6,6,4])},5,70,{q({'mastery_pct':70})},false,{s['sort']});")
+            # room exam: 20 items, mix [4,6,6,4] by level; subjects with fewer drafts get a smaller, honest paper
+            lvc = [0, 0, 0, 0]
+            for it in json.load(open(os.path.join(ROOT, "content", "items", g["code"].lower() + ".json"), encoding="utf-8"))["items"]:
+                if it["subject"] == s["code"]: lvc[it["level"]] += 1
+            mix = [min(m, c) for m, c in zip([4, 6, 6, 4], lvc)]
+            n_room = min(20, sum(lvc)); mix_room = mix
+            out.append(f"insert into public.exam_sets (id,grade_code,subject_id,kind,name_th,n_items,minutes,mix,max_attempts,pass_pct,unlock_rule,shuffle_choices,sort) values ({q(g['code']+'-ROOM-'+s['code'])},{q(g['code'])},{q(s['id'])},'subject_room',{q('ห้องสอบวิชา'+s['name'])},{n_room},{45 if n_room >= 20 else 36},{q(mix_room)},5,70,{q({'mastery_pct':70})},false,{s['sort']});")
         if live:
             out.append(f"insert into public.exam_sets (id,grade_code,subject_id,kind,name_th,n_items,per_subject,minutes,mix,max_attempts,pass_pct,unlock_rule,shuffle_choices,sort) values ({q(g['code']+'-MOCK')},{q(g['code'])},null,'mock','สอบเสมือนจริง',{10*len(live)},10,90,{q([2,3,3,2])},5,70,{q({'per_subject_answered':10})},false,99);")
     else:

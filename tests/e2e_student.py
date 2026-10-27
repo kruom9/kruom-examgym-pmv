@@ -47,7 +47,7 @@ def run(pw, vp, tag):
     check(f"[{tag}] grade remembered on profile", prof["grade_code"] == "M1" and prof["room"] == "ม.1/2", json.dumps(prof, ensure_ascii=False))
     page.reload(); page.wait_for_selector("[data-test=subj-MA]")
     check(f"[{tag}] reload goes straight to ม.1 (picker remembered)", page.locator("[data-test=change-grade]").count() == 1)
-    check(f"[{tag}] subject without items shows ยังต้องเติม", "ยังต้องเติม" in page.inner_text("[data-test=subj-TH]"))
+    check(f"[{tag}] all 5 ม.1 subjects live with Helix drafts", all("ยังต้องเติม" not in page.inner_text(f"[data-test=subj-{c}]") for c in ("MA", "SC", "EN", "TH", "SO")))
     page.click("[data-test=subj-MA]"); page.wait_for_selector("[data-test=practice-weakest]"); shot("07_subject_M1_MA")
     page.click("[data-test=strand-M1-MA-T01]")
     for k in range(5):
@@ -79,10 +79,13 @@ def run(pw, vp, tag):
     page.goto(APP + "#/"); page.click("[data-test=change-grade]"); page.wait_for_selector("[data-test=grade-M2]")
     check(f"[{tag}] change-grade picker reachable", "ตอนนี้" in page.inner_text("main"))
     page.goto(APP + "#/m6"); page.wait_for_selector("[data-test=m6-go]"); shot("15_m6")
+    check(f"[{tag}] ม.6 subject without content (คณิต) shows ยังต้องเติม", "ยังต้องเติม" in page.inner_text("main"))
     # teacher dashboard (same design system) — local test teacher from tests/make_teacher.py
     page.evaluate("localStorage.removeItem('examgym-auth')"); page.goto(APP + "#/teacher"); page.reload(); page.wait_for_selector("#tlogin"); shot("16_teacher_login")
     page.fill("#t_email", "teacher.m1@examgym.local"); page.fill("#t_pw", "local-teacher-pass-1"); page.click("[data-test=tlogin]")
     page.wait_for_selector("text=รายคน"); shot("17_teacher_dashboard")
+    try: page.wait_for_selector(f"main >> text={name}", timeout=8000)
+    except Exception: pass
     check(f"[{tag}] teacher sees this student", name in page.inner_text("main"))
     check(f"[{tag}] 0 console errors", not errors, "; ".join(errors[:3]))
     check(f"[{tag}] no non-localhost requests", not external, "; ".join(external[:3]))

@@ -4,9 +4,9 @@
 Authoring format (one item per line, fields separated by '|'):
   @S <SUBJ> <course codes comma-sep> <subject name>
   @T <chapter no> <chapter title> | <sub-topics from Helix ผังการเรียน> [| flag text]
-  <level 0-3>|<stem>|<CORRECT choice>|<distractor>|<distractor>|<distractor>|<explanation>[|chk=<python expr>][|flag=<note>][|ns]
+  <level 0-3>|<stem>|<CORRECT choice>|<distractor>|<distractor>|<distractor>|<explanation>[|chk=<python expr>][|flag=<note>][|ns][|abcd]
 The correct choice is always written first; the builder moves it to a balanced, seeded position
-(unless 'ns' = keep order). chk= expressions are evaluated (math verification): numeric value must equal the
+(unless 'ns' = keep order; 'abcd' = sort choices, e.g. A/B/C/D error-identification labels). chk= expressions are evaluated (math verification): numeric value must equal the
 number in the correct choice and differ from every distractor; a bool expression must be True.
 """
 import json, re, random, sys, os, hashlib
@@ -53,6 +53,7 @@ def parse(path, grade):
         opt = {"ns": False}
         for x in f[7:]:
             if x == "ns": opt["ns"] = True
+            elif x == "abcd": opt["abcd"] = True
             elif x.startswith("chk="): opt["chk"] = x[4:]
             elif x.startswith("flag="): opt["flag"] = x[5:]
             else: sys.exit(f"{path}:{ln}: unknown option {x}")
@@ -68,6 +69,7 @@ def build(grade):
         t = it["topic"]; key = (it["subject"], t["no"])
         per_topic.setdefault(key, []).append(it)
     for (sc, no), lst in per_topic.items():
+        t = lst[0]["topic"]
         rng = random.Random(f"examgym-M{grade}-{sc}-{no}")
         slots = []
         for it in lst:
@@ -92,6 +94,8 @@ def build(grade):
                                 errors.append(f"line {it['ln']}: distractor '{d}' also equals {float(v)}")
             else: unverifiable += 1
             if it["ns"]: order = [0, 1, 2, 3]; ans = 0
+            elif it.get("abcd"):
+                final = sorted(ch); ans = final.index(ch[0]); slots.append(pos)
             else:
                 rest = ch[1:]; rng.shuffle(rest); order = None
                 final = rest[:pos] + [ch[0]] + rest[pos:]; ans = pos

@@ -1,0 +1,7233 @@
+{
+ "grade": "M4",
+ "subjects": [
+  {
+   "code": "PH",
+   "courses": [
+    "ว30212"
+   ],
+   "course_name": "ฟิสิกส์",
+   "name": "ฟิสิกส์"
+  },
+  {
+   "code": "CH",
+   "courses": [
+    "ว30222"
+   ],
+   "course_name": "เคมี",
+   "name": "เคมี"
+  },
+  {
+   "code": "BI",
+   "courses": [
+    "ว30232"
+   ],
+   "course_name": "ชีววิทยา",
+   "name": "ชีววิทยา"
+  },
+  {
+   "code": "MA",
+   "courses": [
+    "ค31102"
+   ],
+   "course_name": "คณิตศาสตร์",
+   "name": "คณิตศาสตร์"
+  },
+  {
+   "code": "EN",
+   "courses": [
+    "อ31102"
+   ],
+   "course_name": "ภาษาอังกฤษ",
+   "name": "ภาษาอังกฤษ"
+  },
+  {
+   "code": "TH",
+   "courses": [
+    "ท31102"
+   ],
+   "course_name": "ภาษาไทย",
+   "name": "ภาษาไทย"
+  },
+  {
+   "code": "SO",
+   "courses": [
+    "ส31103"
+   ],
+   "course_name": "สังคมศึกษา",
+   "name": "สังคมศึกษา"
+  }
+ ],
+ "topics": [
+  {
+   "subject": "PH",
+   "no": 1,
+   "title": "สมดุลกล",
+   "subs": "สมดุลกล; ศูนย์กลางมวล; สมดุลต่อการเลื่อนที่; โมเมนต์; เสถียรภาพ",
+   "flag": null,
+   "course": "ว30212"
+  },
+  {
+   "subject": "PH",
+   "no": 2,
+   "title": "งานและพลังงาน",
+   "subs": "งาน; กำลัง; พลังงานจลน์และศักย์; อนุรักษ์พลังงาน; ประสิทธิภาพเครื่องกล",
+   "flag": null,
+   "course": "ว30212"
+  },
+  {
+   "subject": "PH",
+   "no": 3,
+   "title": "โมเมนตัมและการชน",
+   "subs": "โมเมนตัม; การดล; อนุรักษ์โมเมนตัม; การชนหนึ่งมิติ; การดีดตัวแยก",
+   "flag": null,
+   "course": "ว30212"
+  },
+  {
+   "subject": "PH",
+   "no": 4,
+   "title": "การเคลื่อนที่แนวโค้ง",
+   "subs": "โพรเจกไทล์; วงกลมสม่ำเสมอ; ดาวเทียม",
+   "flag": null,
+   "course": "ว30212"
+  },
+  {
+   "subject": "CH",
+   "no": 1,
+   "title": "โมลและสูตรเคมี",
+   "subs": "มวลอะตอม; โมล; มวลต่อโมล; ปริมาตรแก๊ส STP; ร้อยละโดยมวล; สูตรอย่างง่าย",
+   "flag": null,
+   "course": "ว30222"
+  },
+  {
+   "subject": "CH",
+   "no": 2,
+   "title": "สารละลาย",
+   "subs": "ความเข้มข้น; การคำนวณ; เตรียมจากสารบริสุทธิ์; การเจือจาง; สมบัติคอลลิเกทีฟ",
+   "flag": null,
+   "course": "ว30222"
+  },
+  {
+   "subject": "CH",
+   "no": 3,
+   "title": "ปริมาณสัมพันธ์",
+   "subs": "สมการเคมี; ดุลสมการ; มวล-โมล-ปริมาตร; สารกำหนดปริมาณ; ผลได้ร้อยละ",
+   "flag": null,
+   "course": "ว30222"
+  },
+  {
+   "subject": "BI",
+   "no": 1,
+   "title": "โครโมโซมและสารพันธุกรรม",
+   "subs": "โครโมโซม; โครงสร้าง DNA; การจำลอง DNA; มิวเทชัน",
+   "flag": null,
+   "course": "ว30232"
+  },
+  {
+   "subject": "BI",
+   "no": 2,
+   "title": "การถ่ายทอดลักษณะทางพันธุกรรม",
+   "subs": "เมนเดล; กฎการแยก; การรวมกลุ่มอย่างอิสระ; เด่นไม่สมบูรณ์ เด่นร่วม; มัลติเพิลแอลลีล; ยีนบนโครโมโซมเพศ",
+   "flag": null,
+   "course": "ว30232"
+  },
+  {
+   "subject": "BI",
+   "no": 3,
+   "title": "เทคโนโลยีทางดีเอ็นเอ",
+   "subs": "โคลนยีนด้วยพลาสมิด; PCR; เจลอิเล็กโทรโฟรีซิส; การประยุกต์และจริยธรรม",
+   "flag": null,
+   "course": "ว30232"
+  },
+  {
+   "subject": "BI",
+   "no": 4,
+   "title": "วิวัฒนาการ",
+   "subs": "หลักฐาน; ลามาร์ก ดาร์วิน; พันธุศาสตร์ประชากร; ปัจจัยการเปลี่ยนความถี่อัลลีล; การเกิดสปีชีส์",
+   "flag": null,
+   "course": "ว30232"
+  },
+  {
+   "subject": "MA",
+   "no": 1,
+   "title": "เรขาคณิตวิเคราะห์",
+   "subs": "ระยะห่าง; จุดกึ่งกลางและจุดแบ่ง; ความชัน; สมการเส้นตรง; ขนานและตั้งฉาก; ระยะจากจุดถึงเส้นตรง",
+   "flag": null,
+   "course": "ค31102"
+  },
+  {
+   "subject": "MA",
+   "no": 2,
+   "title": "ภาคตัดกรวย",
+   "subs": "วงกลม; พาราโบลา; วงรี; ไฮเพอร์โบลา",
+   "flag": null,
+   "course": "ค31102"
+  },
+  {
+   "subject": "MA",
+   "no": 3,
+   "title": "ทฤษฎีจำนวน",
+   "subs": "การหารลงตัว; จำนวนเฉพาะ; ขั้นตอนวิธีการหาร; ห.ร.ม. ค.ร.น.; ยุคลิด",
+   "flag": null,
+   "course": "ค31102"
+  },
+  {
+   "subject": "EN",
+   "no": 1,
+   "title": "Grammar: โครงสร้างคำและกลุ่มนาม",
+   "subs": "Parts of speech; Nouns & articles; Pronouns & determiners",
+   "flag": null,
+   "course": "อ31102"
+  },
+  {
+   "subject": "EN",
+   "no": 2,
+   "title": "Grammar: ระบบกริยาและกาลเวลา",
+   "subs": "Subject-verb agreement; Tenses; Modals",
+   "flag": null,
+   "course": "อ31102"
+  },
+  {
+   "subject": "EN",
+   "no": 3,
+   "title": "Grammar: รูปประโยคและอนุประโยค",
+   "subs": "Passive; Conditionals 0–3; Gerund/infinitive; Relative clauses",
+   "flag": null,
+   "course": "อ31102"
+  },
+  {
+   "subject": "EN",
+   "no": 4,
+   "title": "Grammar: ส่วนขยายและคำเชื่อม",
+   "subs": "Adjectives/adverbs & comparison; Prepositions; Conjunctions; Question tags",
+   "flag": null,
+   "course": "อ31102"
+  },
+  {
+   "subject": "EN",
+   "no": 5,
+   "title": "Error Identification",
+   "subs": "Word form; S-V agreement with prepositional phrases; Tense; Parallelism",
+   "flag": null,
+   "course": "อ31102"
+  },
+  {
+   "subject": "EN",
+   "no": 6,
+   "title": "Reading Comprehension",
+   "subs": "Main idea; Pronoun reference; Scanning; Vocabulary in context",
+   "flag": null,
+   "course": "อ31102"
+  },
+  {
+   "subject": "EN",
+   "no": 7,
+   "title": "Conversation Skills",
+   "subs": "Greetings; Directions & appointments; Situational dialogues",
+   "flag": null,
+   "course": "อ31102"
+  },
+  {
+   "subject": "TH",
+   "no": 1,
+   "title": "ราชาศัพท์และระดับภาษาเพื่อการสื่อสาร",
+   "subs": "ราชาศัพท์; คำสำหรับพระภิกษุ; การใช้ \"ทรง\"; ระดับภาษา",
+   "flag": null,
+   "course": "ท31102"
+  },
+  {
+   "subject": "TH",
+   "no": 2,
+   "title": "วรรณคดีมรดกและบทกวีศักดิ์สิทธิ์ (ม.4)",
+   "subs": "บทนมัสการคุณานุคุณ; มงคลสูตรคำฉันท์; คุณค่า",
+   "flag": null,
+   "course": "ท31102"
+  },
+  {
+   "subject": "TH",
+   "no": 3,
+   "title": "วรรณคดีมหากาพย์และการศึก (ม.4)",
+   "subs": "อิเหนา ตอน ศึกกะหมังกุหนิง; ความขัดแย้ง; รสวรรณคดี",
+   "flag": null,
+   "course": "ท31102"
+  },
+  {
+   "subject": "TH",
+   "no": 4,
+   "title": "วรรณกรรมร้อยแก้วและเรื่องแปล (ม.4)",
+   "subs": "นิทานเวตาล เรื่องที่ 10; โครงเรื่องซ้อน; ปรัชญาและเชาวน์ปัญญา",
+   "flag": null,
+   "course": "ท31102"
+  },
+  {
+   "subject": "TH",
+   "no": 5,
+   "title": "วรรณคดีนิราศและกวีนิพนธ์เอก (ม.4)",
+   "subs": "นิราศนรินทร์คำโคลง; ภาพพจน์และอารมณ์พลัดพราก; บริบทสงครามเก้าทัพ",
+   "flag": null,
+   "course": "ท31102"
+  },
+  {
+   "subject": "TH",
+   "no": 6,
+   "title": "วรรณกรรมสะท้อนสังคมและบทความร่วมสมัย (ม.4)",
+   "subs": "หัวใจชายหนุ่ม; ค่านิยมตะวันตกกับวัฒนธรรมไทย",
+   "flag": null,
+   "course": "ท31102"
+  },
+  {
+   "subject": "SO",
+   "no": 1,
+   "title": "รัฐและการเมืองไทย",
+   "subs": "พลเมืองดี; องค์ประกอบของรัฐ; รูปแบบรัฐ; การจัดระเบียบการปกครอง",
+   "flag": null,
+   "course": "ส31103"
+  },
+  {
+   "subject": "SO",
+   "no": 2,
+   "title": "สังคมวัฒนธรรม",
+   "subs": "วัฒนธรรม; โครงสร้างและสถาบันสังคม; การขัดเกลาทางสังคม; การเปลี่ยนแปลงทางสังคม",
+   "flag": null,
+   "course": "ส31103"
+  },
+  {
+   "subject": "SO",
+   "no": 3,
+   "title": "กฎหมาย",
+   "subs": "กฎหมายแพ่ง; กฎหมายอาญา; กระบวนการยุติธรรม",
+   "flag": null,
+   "course": "ส31103"
+  },
+  {
+   "subject": "SO",
+   "no": 4,
+   "title": "สิทธิมนุษยชน",
+   "subs": "ศักดิ์ศรีความเป็นมนุษย์; UDHR; องค์กรสิทธิมนุษยชน; ปัญหาสิทธิมนุษยชน",
+   "flag": null,
+   "course": "ส31103"
+  },
+  {
+   "subject": "SO",
+   "no": 5,
+   "title": "ความสัมพันธ์ระหว่างประเทศ",
+   "subs": "นโยบายต่างประเทศ; UN 6 องค์กรหลัก; องค์การระดับภูมิภาค; ไทยในเวทีโลก",
+   "flag": null,
+   "course": "ส31103"
+  }
+ ],
+ "items": [
+  {
+   "id": "M4-PH-T01-01",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 1,
+   "topic": "สมดุลกล",
+   "course_code": "ว30212",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "วัตถุอยู่ในสมดุลต่อการเลื่อนที่เมื่อใด",
+   "choices": [
+    "มีแรงกระทำเพียงแรงเดียว",
+    "วัตถุต้องหยุดนิ่งเท่านั้น",
+    "โมเมนต์ลัพธ์ไม่เป็นศูนย์",
+    "แรงลัพธ์ที่กระทำเป็นศูนย์"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ΣF = 0 วัตถุหยุดนิ่งหรือเคลื่อนที่ด้วยความเร็วคงตัว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T01-02",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 1,
+   "topic": "สมดุลกล",
+   "course_code": "ว30212",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "หน่วยของโมเมนต์ของแรงคือข้อใด",
+   "choices": [
+    "นิวตัน (N)",
+    "จูล/วินาที",
+    "นิวตัน·เมตร (N·m)",
+    "กิโลกรัม·เมตร"
+   ],
+   "answer": 2,
+   "explanation": [
+    "โมเมนต์ = แรง × ระยะตั้งฉาก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T01-03",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 1,
+   "topic": "สมดุลกล",
+   "course_code": "ว30212",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ออกแรง 20 N ตั้งฉากกับประแจที่ระยะ 0.25 m จากจุดหมุน โมเมนต์เท่าใด",
+   "choices": [
+    "5 N·m",
+    "0.0125 N·m",
+    "80 N·m",
+    "20.25 N·m"
+   ],
+   "answer": 0,
+   "explanation": [
+    "M = F × d = 20 × 0.25 = 5"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T01-04",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 1,
+   "topic": "สมดุลกล",
+   "course_code": "ว30212",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "วัตถุจะมีเสถียรภาพมากขึ้นเมื่อใด",
+   "choices": [
+    "น้ำหนักเบาที่สุด",
+    "ฐานกว้างและศูนย์ถ่วงต่ำ",
+    "ศูนย์ถ่วงอยู่นอกฐาน",
+    "ฐานแคบและศูนย์ถ่วงสูง"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ฐานกว้างและศูนย์ถ่วงต่ำทำให้ล้มยาก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T01-05",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 1,
+   "topic": "สมดุลกล",
+   "course_code": "ว30212",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "คานยาวสม่ำเสมอ วางจุดหมุนตรงกลาง แขวนมวล 4 kg ที่ระยะ 1.5 m ทางซ้าย ต้องแขวนมวลกี่ kg ที่ระยะ 2 m ทางขวาจึงสมดุล",
+   "choices": [
+    "4",
+    "3",
+    "6",
+    "2"
+   ],
+   "answer": 1,
+   "explanation": [
+    "4 × 1.5 = m × 2 → m = 3"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T01-06",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 1,
+   "topic": "สมดุลกล",
+   "course_code": "ว30212",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "มวล 2 kg และ 6 kg อยู่บนแกน x ที่ x = 0 m และ x = 4 m ศูนย์กลางมวลอยู่ที่ใด",
+   "choices": [
+    "x = 3 m",
+    "x = 1 m",
+    "x = 4 m",
+    "x = 2 m"
+   ],
+   "answer": 0,
+   "explanation": [
+    "(2·0 + 6·4) ÷ 8 = 3"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T01-07",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 1,
+   "topic": "สมดุลกล",
+   "course_code": "ว30212",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "คานสม่ำเสมอยาว 4 m หนัก 100 N วางบนจุดรองรับสองจุดที่ปลายทั้งสอง มีกล่องหนัก 200 N วางห่างปลายซ้าย 1 m แรงที่จุดรองรับขวาเท่าใด",
+   "choices": [
+    "150 N",
+    "200 N",
+    "100 N",
+    "50 N"
+   ],
+   "answer": 2,
+   "explanation": [
+    "โมเมนต์รอบปลายซ้าย: R × 4 = 100 × 2 + 200 × 1 → R = 100 N"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T01-08",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 1,
+   "topic": "สมดุลกล",
+   "course_code": "ว30212",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "บันไดพิงผนังลื่น (ไม่มีแรงเสียดทานที่ผนัง) แรงใดทำให้บันไดไม่ไถลออก",
+   "choices": [
+    "น้ำหนักบันได",
+    "แรงตั้งฉากจากพื้น",
+    "แรงจากผนังในแนวดิ่ง",
+    "แรงเสียดทานที่พื้น"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ผนังลื่นให้แรงแนวราบ ซึ่งต้องสมดุลกับแรงเสียดทานที่พื้น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T02-01",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 2,
+   "topic": "งานและพลังงาน",
+   "course_code": "ว30212",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "งานมีค่าเป็นศูนย์เมื่อใด",
+   "choices": [
+    "วัตถุเคลื่อนที่เร็ว",
+    "แรงมีทิศเดียวกับการกระจัด",
+    "แรงมีขนาดมาก",
+    "แรงตั้งฉากกับการกระจัด"
+   ],
+   "answer": 3,
+   "explanation": [
+    "W = Fs cos θ ถ้า θ = 90° งานเป็นศูนย์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T02-02",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 2,
+   "topic": "งานและพลังงาน",
+   "course_code": "ว30212",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "พลังงานศักย์ยืดหยุ่นของสปริงขึ้นกับสิ่งใด",
+   "choices": [
+    "ความเร็วของสปริง",
+    "สีของสปริง",
+    "ค่านิจของสปริงและระยะยืดหรือหด",
+    "มวลของสปริงเท่านั้น"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Ep = ½kx²"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T02-03",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 2,
+   "topic": "งานและพลังงาน",
+   "course_code": "ว30212",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ลากกล่องด้วยแรง 50 N ทำมุม 60° กับพื้น ระยะ 4 m งานของแรงนี้เท่าใด",
+   "choices": [
+    "100 J",
+    "50 J",
+    "173 J",
+    "200 J"
+   ],
+   "answer": 0,
+   "explanation": [
+    "W = 50 × 4 × cos 60° = 100 J"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T02-04",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 2,
+   "topic": "งานและพลังงาน",
+   "course_code": "ว30212",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "สปริง k = 200 N/m ถูกอัด 0.1 m มีพลังงานศักย์ยืดหยุ่นเท่าใด",
+   "choices": [
+    "10 J",
+    "1 J",
+    "20 J",
+    "2 J"
+   ],
+   "answer": 1,
+   "explanation": [
+    "½ × 200 × 0.1² = 1 J"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T02-05",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 2,
+   "topic": "งานและพลังงาน",
+   "course_code": "ว30212",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ลิฟต์ยกมวล 500 kg ขึ้นสูง 20 m ใน 10 s ด้วยความเร็วคงตัว กำลังเฉลี่ยเท่าใด",
+   "choices": [
+    "10000 W",
+    "100000 W",
+    "5000 W",
+    "1000 W"
+   ],
+   "answer": 0,
+   "explanation": [
+    "mgh/t = 500 × 10 × 20 ÷ 10"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T02-06",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 2,
+   "topic": "งานและพลังงาน",
+   "course_code": "ว30212",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "เครื่องกลได้งานออก 300 J จากงานที่ป้อน 400 J ประสิทธิภาพเท่าใด",
+   "choices": [
+    "133%",
+    "75%",
+    "70%",
+    "25%"
+   ],
+   "answer": 1,
+   "explanation": [
+    "300 ÷ 400 × 100 = 75%"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T02-07",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 2,
+   "topic": "งานและพลังงาน",
+   "course_code": "ว30212",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ลูกบอลมวล 0.5 kg ถูกโยนขึ้นด้วยความเร็ว 20 m/s (ไม่คิดแรงต้าน) ขึ้นไปได้สูงสุดเท่าใด",
+   "choices": [
+    "2 m",
+    "40 m",
+    "10 m",
+    "20 m"
+   ],
+   "answer": 3,
+   "explanation": [
+    "h = v²/2g = 400/20 = 20 m"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T02-08",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 2,
+   "topic": "งานและพลังงาน",
+   "course_code": "ว30212",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "รถมวล 1000 kg เบรกจาก 20 m/s จนหยุดในระยะ 40 m แรงเบรกเฉลี่ยเท่าใด",
+   "choices": [
+    "10000 N",
+    "2500 N",
+    "5000 N",
+    "500 N"
+   ],
+   "answer": 2,
+   "explanation": [
+    "½mv² = F·s → 200000 = F × 40"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T03-01",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 3,
+   "topic": "โมเมนตัมและการชน",
+   "course_code": "ว30212",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "โมเมนตัมคือข้อใด",
+   "choices": [
+    "ครึ่งหนึ่งของมวลคูณความเร็วกำลังสอง",
+    "ผลคูณของแรงกับระยะทาง",
+    "ผลคูณของมวลกับความเร็ว",
+    "ผลคูณของมวลกับความเร่ง"
+   ],
+   "answer": 2,
+   "explanation": [
+    "p = mv เป็นปริมาณเวกเตอร์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T03-02",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 3,
+   "topic": "โมเมนตัมและการชน",
+   "course_code": "ว30212",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "การดลมีค่าเท่ากับข้อใด",
+   "choices": [
+    "พลังงานจลน์",
+    "การเปลี่ยนแปลงโมเมนตัม",
+    "กำลัง",
+    "งาน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "I = FΔt = Δp"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T03-03",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 3,
+   "topic": "โมเมนตัมและการชน",
+   "course_code": "ว30212",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "วัตถุมวล 3 kg เคลื่อนที่ด้วยความเร็ว 4 m/s มีโมเมนตัมเท่าใด",
+   "choices": [
+    "12 kg·m/s",
+    "7 kg·m/s",
+    "0.75 kg·m/s",
+    "24 kg·m/s"
+   ],
+   "answer": 0,
+   "explanation": [
+    "p = 3 × 4"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T03-04",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 3,
+   "topic": "โมเมนตัมและการชน",
+   "course_code": "ว30212",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ถุงลมนิรภัยลดอันตรายได้เพราะเหตุใด",
+   "choices": [
+    "เพิ่มความเร็วรถ",
+    "ลดการเปลี่ยนโมเมนตัมเป็นศูนย์",
+    "ลดมวลของผู้โดยสาร",
+    "เพิ่มเวลาการชน ทำให้แรงเฉลี่ยลดลง"
+   ],
+   "answer": 3,
+   "explanation": [
+    "F = Δp/Δt เมื่อ Δt มากขึ้น แรงลดลง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T03-05",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 3,
+   "topic": "โมเมนตัมและการชน",
+   "course_code": "ว30212",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ลูกบอลมวล 0.2 kg ความเร็ว 10 m/s กระทบผนังแล้วสะท้อนกลับ 10 m/s การเปลี่ยนโมเมนตัมมีขนาดเท่าใด",
+   "choices": [
+    "20 kg·m/s",
+    "2 kg·m/s",
+    "4 kg·m/s",
+    "0 kg·m/s"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Δp = 0.2 × (10 − (−10)) = 4"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T03-06",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 3,
+   "topic": "โมเมนตัมและการชน",
+   "course_code": "ว30212",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "รถ A มวล 2 kg ความเร็ว 3 m/s ชนรถ B มวล 1 kg ที่หยุดนิ่ง แล้วติดไปด้วยกัน ความเร็วหลังชนเท่าใด",
+   "choices": [
+    "1 m/s",
+    "2 m/s",
+    "1.5 m/s",
+    "3 m/s"
+   ],
+   "answer": 1,
+   "explanation": [
+    "2 × 3 = 3v → v = 2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T03-07",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 3,
+   "topic": "โมเมนตัมและการชน",
+   "course_code": "ว30212",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ปืนมวล 4 kg ยิงกระสุนมวล 0.02 kg ด้วยความเร็ว 400 m/s ปืนสะท้อนถอยหลังด้วยความเร็วเท่าใด",
+   "choices": [
+    "20 m/s",
+    "8 m/s",
+    "0.5 m/s",
+    "2 m/s"
+   ],
+   "answer": 3,
+   "explanation": [
+    "0 = 0.02 × 400 − 4v → v = 2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T03-08",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 3,
+   "topic": "โมเมนตัมและการชน",
+   "course_code": "ว30212",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การชนแบบยืดหยุ่นสมบูรณ์มีสมบัติใด",
+   "choices": [
+    "โมเมนตัมและพลังงานจลน์รวมคงตัว",
+    "พลังงานจลน์ลดลงมากที่สุด",
+    "โมเมนตัมไม่คงตัว",
+    "วัตถุติดกันไปเสมอ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ยืดหยุ่นสมบูรณ์: ทั้ง p และ Ek คงตัว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T04-01",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 4,
+   "topic": "การเคลื่อนที่แนวโค้ง",
+   "course_code": "ว30212",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ในการเคลื่อนที่แบบโพรเจกไทล์ (ไม่คิดแรงต้าน) ความเร็วแนวระดับเป็นอย่างไร",
+   "choices": [
+    "เป็นศูนย์",
+    "คงตัว",
+    "ลดลงเรื่อย ๆ",
+    "เพิ่มขึ้นเรื่อย ๆ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ไม่มีแรงในแนวระดับ จึงไม่มีความเร่งแนวระดับ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T04-02",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 4,
+   "topic": "การเคลื่อนที่แนวโค้ง",
+   "course_code": "ว30212",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "แรงสู่ศูนย์กลางในการเคลื่อนที่แบบวงกลมมีทิศอย่างไร",
+   "choices": [
+    "ทิศเดียวกับความเร็ว",
+    "ชี้ออกจากจุดศูนย์กลาง",
+    "ตั้งฉากกับระนาบวงกลม",
+    "ชี้เข้าหาจุดศูนย์กลาง"
+   ],
+   "answer": 3,
+   "explanation": [
+    "แรงสู่ศูนย์กลางชี้เข้าหาศูนย์กลางเสมอ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T04-03",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 4,
+   "topic": "การเคลื่อนที่แนวโค้ง",
+   "course_code": "ว30212",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ขว้างวัตถุในแนวระดับจากที่สูง 5 m ใช้เวลาเท่าใดจึงถึงพื้น",
+   "choices": [
+    "1 s",
+    "5 s",
+    "2 s",
+    "0.5 s"
+   ],
+   "answer": 0,
+   "explanation": [
+    "h = ½gt² → 5 = 5t² → t = 1"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T04-04",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 4,
+   "topic": "การเคลื่อนที่แนวโค้ง",
+   "course_code": "ว30212",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "วัตถุเคลื่อนที่เป็นวงกลมรัศมี 2 m อัตราเร็ว 4 m/s ความเร่งสู่ศูนย์กลางเท่าใด",
+   "choices": [
+    "32 m/s²",
+    "16 m/s²",
+    "8 m/s²",
+    "2 m/s²"
+   ],
+   "answer": 2,
+   "explanation": [
+    "a = v²/r = 16/2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T04-05",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 4,
+   "topic": "การเคลื่อนที่แนวโค้ง",
+   "course_code": "ว30212",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ขว้างลูกบอลแนวระดับด้วยความเร็ว 10 m/s จากหน้าผาสูง 20 m ตกห่างจากฐานเท่าใด",
+   "choices": [
+    "40 m",
+    "200 m",
+    "10 m",
+    "20 m"
+   ],
+   "answer": 3,
+   "explanation": [
+    "t = 2 s → x = 10 × 2 = 20 m"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T04-06",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 4,
+   "topic": "การเคลื่อนที่แนวโค้ง",
+   "course_code": "ว30212",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "มวล 0.5 kg แกว่งเป็นวงกลมรัศมี 1 m ด้วยอัตราเร็ว 6 m/s แรงสู่ศูนย์กลางเท่าใด",
+   "choices": [
+    "18 N",
+    "3 N",
+    "36 N",
+    "9 N"
+   ],
+   "answer": 0,
+   "explanation": [
+    "F = mv²/r = 0.5 × 36 ÷ 1"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-PH-T04-07",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 4,
+   "topic": "การเคลื่อนที่แนวโค้ง",
+   "course_code": "ว30212",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ยิงโพรเจกไทล์ด้วยอัตราเร็วเท่ากัน มุมใดให้ระยะทางแนวระดับไกลที่สุด (พื้นระดับเดียวกัน ไม่คิดแรงต้าน)",
+   "choices": [
+    "60°",
+    "45°",
+    "30°",
+    "90°"
+   ],
+   "answer": 1,
+   "explanation": [
+    "R = u² sin 2θ / g สูงสุดเมื่อ 2θ = 90°"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-PH-T04-08",
+   "grade": "M4",
+   "subject": "PH",
+   "topic_no": 4,
+   "topic": "การเคลื่อนที่แนวโค้ง",
+   "course_code": "ว30212",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ดาวเทียมโคจรรอบโลกเป็นวงกลมได้เพราะเหตุใด",
+   "choices": [
+    "ไม่มีแรงใดกระทำ",
+    "แรงหนีศูนย์กลางมากกว่าแรงโน้มถ่วง",
+    "แรงโน้มถ่วงของโลกทำหน้าที่เป็นแรงสู่ศูนย์กลาง",
+    "เครื่องยนต์ดันตลอดเวลา"
+   ],
+   "answer": 2,
+   "explanation": [
+    "แรงโน้มถ่วงให้ความเร่งสู่ศูนย์กลางพอดีกับอัตราเร็วโคจร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-CH-T01-01",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 1,
+   "topic": "โมลและสูตรเคมี",
+   "course_code": "ว30222",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "1 โมลของสารมีจำนวนอนุภาคเท่าใด",
+   "choices": [
+    "1.66 × 10⁻²⁴",
+    "6.02 × 10²³",
+    "22.4",
+    "6.02 × 10²²"
+   ],
+   "answer": 1,
+   "explanation": [
+    "เลขอาโวกาโดร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T01-02",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 1,
+   "topic": "โมลและสูตรเคมี",
+   "course_code": "ว30222",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "มวลต่อโมลของ H₂O เท่าใด (H = 1, O = 16)",
+   "choices": [
+    "18 g/mol",
+    "17 g/mol",
+    "10 g/mol",
+    "34 g/mol"
+   ],
+   "answer": 0,
+   "explanation": [
+    "2(1) + 16 = 18"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T01-03",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 1,
+   "topic": "โมลและสูตรเคมี",
+   "course_code": "ว30222",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "CO₂ 44 กรัม มีกี่โมล (C = 12, O = 16)",
+   "choices": [
+    "0.5",
+    "2",
+    "1",
+    "44"
+   ],
+   "answer": 2,
+   "explanation": [
+    "มวลต่อโมล CO₂ = 44 → 44 ÷ 44 = 1"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T01-04",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 1,
+   "topic": "โมลและสูตรเคมี",
+   "course_code": "ว30222",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "แก๊ส 2 โมลที่ STP มีปริมาตรเท่าใด",
+   "choices": [
+    "22.4 dm³",
+    "2 dm³",
+    "11.2 dm³",
+    "44.8 dm³"
+   ],
+   "answer": 3,
+   "explanation": [
+    "2 × 22.4"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ใช้ 22.4 dm³/mol ที่ STP ตามหลักสูตรเดิม ครูโปรดยืนยันค่ามาตรฐานที่สอน",
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T01-05",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 1,
+   "topic": "โมลและสูตรเคมี",
+   "course_code": "ว30222",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ร้อยละโดยมวลของ O ใน H₂O เท่าใด (โดยประมาณ)",
+   "choices": [
+    "50%",
+    "11.1%",
+    "66.7%",
+    "88.9%"
+   ],
+   "answer": 3,
+   "explanation": [
+    "16 ÷ 18 × 100 ≈ 88.9"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T01-06",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 1,
+   "topic": "โมลและสูตรเคมี",
+   "course_code": "ว30222",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "NaCl 11.7 g มีกี่โมล (Na = 23, Cl = 35.5)",
+   "choices": [
+    "2",
+    "0.5",
+    "0.2",
+    "0.1"
+   ],
+   "answer": 2,
+   "explanation": [
+    "58.5 g/mol → 11.7 ÷ 58.5 = 0.2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T01-07",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 1,
+   "topic": "โมลและสูตรเคมี",
+   "course_code": "ว30222",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "สารประกอบมี C 40% H 6.7% O 53.3% โดยมวล สูตรอย่างง่ายคือข้อใด",
+   "choices": [
+    "CH₄O",
+    "CH₂O",
+    "CHO",
+    "C₂H₄O"
+   ],
+   "answer": 1,
+   "explanation": [
+    "อัตราส่วนโมล C : H : O ≈ 3.33 : 6.7 : 3.33 = 1 : 2 : 1"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-CH-T01-08",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 1,
+   "topic": "โมลและสูตรเคมี",
+   "course_code": "ว30222",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "สารมีสูตรอย่างง่าย CH₂O และมวลโมเลกุล 180 สูตรโมเลกุลคือข้อใด",
+   "choices": [
+    "C₆H₁₂O₆",
+    "C₃H₆O₃",
+    "C₂H₄O₂",
+    "CH₂O"
+   ],
+   "answer": 0,
+   "explanation": [
+    "CH₂O = 30 → 180 ÷ 30 = 6"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T02-01",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 2,
+   "topic": "สารละลาย",
+   "course_code": "ว30222",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "หน่วย mol/dm³ เรียกว่าอะไร",
+   "choices": [
+    "ร้อยละโดยมวล",
+    "โมลาริตี (โมลาร์)",
+    "โมแลลิตี",
+    "ส่วนในล้านส่วน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "M = โมลตัวละลาย ÷ ปริมาตรสารละลาย (dm³)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-CH-T02-02",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 2,
+   "topic": "สารละลาย",
+   "course_code": "ว30222",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "การเจือจางสารละลายคือข้อใด",
+   "choices": [
+    "เติมตัวทำละลายทำให้ความเข้มข้นลดลง",
+    "ระเหยน้ำออก",
+    "ทำให้ร้อนขึ้น",
+    "เติมตัวละลายเพิ่ม"
+   ],
+   "answer": 0,
+   "explanation": [
+    "จำนวนโมลตัวละลายเท่าเดิม ปริมาตรเพิ่ม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-CH-T02-03",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 2,
+   "topic": "สารละลาย",
+   "course_code": "ว30222",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "NaOH 0.5 mol ละลายในน้ำจนได้สารละลาย 250 cm³ ความเข้มข้นกี่ mol/dm³",
+   "choices": [
+    "0.5",
+    "0.125",
+    "1",
+    "2"
+   ],
+   "answer": 3,
+   "explanation": [
+    "0.5 ÷ 0.25 = 2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T02-04",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 2,
+   "topic": "สารละลาย",
+   "course_code": "ว30222",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "น้ำตาล 10 g ในสารละลาย 200 g มีความเข้มข้นร้อยละโดยมวลเท่าใด",
+   "choices": [
+    "2%",
+    "20%",
+    "5%",
+    "10%"
+   ],
+   "answer": 2,
+   "explanation": [
+    "10 ÷ 200 × 100"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T02-05",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 2,
+   "topic": "สารละลาย",
+   "course_code": "ว30222",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ต้องการ HCl 0.1 M 500 cm³ จาก HCl 2 M ต้องใช้ HCl 2 M กี่ cm³",
+   "choices": [
+    "100",
+    "25",
+    "10",
+    "50"
+   ],
+   "answer": 1,
+   "explanation": [
+    "M₁V₁ = M₂V₂ → 2V₁ = 0.1 × 500"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T02-06",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 2,
+   "topic": "สารละลาย",
+   "course_code": "ว30222",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "เตรียม NaCl 0.2 M ปริมาตร 100 cm³ ต้องใช้ NaCl กี่กรัม (NaCl = 58.5)",
+   "choices": [
+    "11.7",
+    "2.34",
+    "0.117",
+    "1.17"
+   ],
+   "answer": 3,
+   "explanation": [
+    "0.02 mol × 58.5"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T02-07",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 2,
+   "topic": "สารละลาย",
+   "course_code": "ว30222",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การเติมเกลือลงในน้ำทำให้จุดเดือดเปลี่ยนไปอย่างไร",
+   "choices": [
+    "ต่ำลง",
+    "น้ำไม่เดือด",
+    "สูงขึ้น",
+    "เท่าเดิม"
+   ],
+   "answer": 2,
+   "explanation": [
+    "สมบัติคอลลิเกทีฟ: ตัวละลายที่ไม่ระเหยทำให้จุดเดือดสูงขึ้น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-CH-T02-08",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 2,
+   "topic": "สารละลาย",
+   "course_code": "ว30222",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ผสม NaCl 1 M 100 cm³ กับ NaCl 2 M 100 cm³ ความเข้มข้นใหม่เท่าใด",
+   "choices": [
+    "1.5 M",
+    "0.5 M",
+    "1 M",
+    "3 M"
+   ],
+   "answer": 0,
+   "explanation": [
+    "โมลรวม 0.1 + 0.2 = 0.3 ÷ 0.2 dm³"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T03-01",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 3,
+   "topic": "ปริมาณสัมพันธ์",
+   "course_code": "ว30222",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "การดุลสมการเคมีเป็นไปตามกฎใด",
+   "choices": [
+    "กฎของโอห์ม",
+    "กฎของนิวตัน",
+    "กฎของบอยล์",
+    "กฎทรงมวล"
+   ],
+   "answer": 3,
+   "explanation": [
+    "จำนวนอะตอมแต่ละชนิดก่อนและหลังปฏิกิริยาต้องเท่ากัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-CH-T03-02",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 3,
+   "topic": "ปริมาณสัมพันธ์",
+   "course_code": "ว30222",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ในสมการ 2H₂ + O₂ → 2H₂O สัมประสิทธิ์ของ O₂ คือเท่าใด",
+   "choices": [
+    "3",
+    "2",
+    "1",
+    "0"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ไม่เขียน 1 ไว้หน้าสูตร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-CH-T03-03",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 3,
+   "topic": "ปริมาณสัมพันธ์",
+   "course_code": "ว30222",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ดุลสมการ N₂ + __H₂ → 2NH₃ ช่องว่างคือเท่าใด",
+   "choices": [
+    "2",
+    "3",
+    "6",
+    "1"
+   ],
+   "answer": 1,
+   "explanation": [
+    "H ทางขวา 6 อะตอม → 3H₂"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T03-04",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 3,
+   "topic": "ปริมาณสัมพันธ์",
+   "course_code": "ว30222",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "จากสมการ 2H₂ + O₂ → 2H₂O ถ้าใช้ O₂ 3 mol จะได้ H₂O กี่ mol",
+   "choices": [
+    "6",
+    "9",
+    "1.5",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": [
+    "อัตราส่วน O₂ : H₂O = 1 : 2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T03-05",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 3,
+   "topic": "ปริมาณสัมพันธ์",
+   "course_code": "ว30222",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "เผา C 24 g กับ O₂ เกินพอ ได้ CO₂ กี่กรัม (C = 12, O = 16)",
+   "choices": [
+    "44",
+    "24",
+    "88",
+    "56"
+   ],
+   "answer": 2,
+   "explanation": [
+    "C 2 mol → CO₂ 2 mol × 44"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T03-06",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 3,
+   "topic": "ปริมาณสัมพันธ์",
+   "course_code": "ว30222",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "H₂ 4 mol ทำปฏิกิริยากับ O₂ 1 mol ตาม 2H₂ + O₂ → 2H₂O สารใดเป็นสารกำหนดปริมาณ",
+   "choices": [
+    "O₂",
+    "H₂",
+    "H₂O",
+    "ไม่มี"
+   ],
+   "answer": 0,
+   "explanation": [
+    "O₂ 1 mol ใช้ H₂ ได้แค่ 2 mol H₂ จึงเหลือ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-CH-T03-07",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 3,
+   "topic": "ปริมาณสัมพันธ์",
+   "course_code": "ว30222",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "คาดว่าจะได้ผลิตภัณฑ์ 50 g แต่ได้จริง 40 g ผลได้ร้อยละเท่าใด",
+   "choices": [
+    "40%",
+    "20%",
+    "125%",
+    "80%"
+   ],
+   "answer": 3,
+   "explanation": [
+    "40 ÷ 50 × 100"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-CH-T03-08",
+   "grade": "M4",
+   "subject": "CH",
+   "topic_no": 3,
+   "topic": "ปริมาณสัมพันธ์",
+   "course_code": "ว30222",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "CaCO₃ 50 g สลายตัวเป็น CaO + CO₂ ได้ CO₂ กี่ dm³ ที่ STP (CaCO₃ = 100)",
+   "choices": [
+    "22.4",
+    "11.2",
+    "5.6",
+    "44.8"
+   ],
+   "answer": 1,
+   "explanation": [
+    "0.5 mol CO₂ × 22.4"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ใช้ 22.4 dm³/mol ที่ STP ครูโปรดยืนยัน",
+   "verified": "computed"
+  },
+  {
+   "id": "M4-BI-T01-01",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 1,
+   "topic": "โครโมโซมและสารพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "เซลล์ร่างกายของมนุษย์มีโครโมโซมกี่แท่ง",
+   "choices": [
+    "48",
+    "46",
+    "44",
+    "23"
+   ],
+   "answer": 1,
+   "explanation": [
+    "23 คู่ = 46 แท่ง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-BI-T01-02",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 1,
+   "topic": "โครโมโซมและสารพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "เบสใดไม่พบใน DNA",
+   "choices": [
+    "ยูราซิล (U)",
+    "อะดีนีน (A)",
+    "ไทมีน (T)",
+    "ไซโทซีน (C)"
+   ],
+   "answer": 0,
+   "explanation": [
+    "U พบใน RNA แทน T"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T01-03",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 1,
+   "topic": "โครโมโซมและสารพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ใน DNA สายคู่ A จับคู่กับเบสใด",
+   "choices": [
+    "C",
+    "U",
+    "G",
+    "T"
+   ],
+   "answer": 3,
+   "explanation": [
+    "A คู่กับ T, G คู่กับ C"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T01-04",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 1,
+   "topic": "โครโมโซมและสารพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "DNA มีโครงสร้างแบบใด",
+   "choices": [
+    "ทรงกลม",
+    "วงแหวนสามสาย",
+    "เกลียวคู่",
+    "สายเดี่ยวตรง"
+   ],
+   "answer": 2,
+   "explanation": [
+    "วอตสันและคริกเสนอโครงสร้างเกลียวคู่"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T01-05",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 1,
+   "topic": "โครโมโซมและสารพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "DNA ตัวอย่างมี A 30% จะมี G กี่ %",
+   "choices": [
+    "20%",
+    "70%",
+    "30%",
+    "40%"
+   ],
+   "answer": 0,
+   "explanation": [
+    "A = T = 30% → G + C = 40% → G = 20%"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-BI-T01-06",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 1,
+   "topic": "โครโมโซมและสารพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การจำลอง DNA เป็นแบบใด",
+   "choices": [
+    "อนุรักษ์ทั้งหมด",
+    "กระจัดกระจาย",
+    "สร้างใหม่ทั้งหมด",
+    "กึ่งอนุรักษ์ (semiconservative)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "DNA ใหม่แต่ละโมเลกุลมีสายเก่า 1 สายและสายใหม่ 1 สาย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T01-07",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 1,
+   "topic": "โครโมโซมและสารพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "สาย DNA 5′-ATGC-3′ มีสายคู่สม (เขียน 5′→3′) คือข้อใด",
+   "choices": [
+    "5′-TACG-3′",
+    "5′-CGTA-3′",
+    "5′-GCAT-3′",
+    "5′-ATGC-3′"
+   ],
+   "answer": 2,
+   "explanation": [
+    "คู่สม 3′-TACG-5′ เขียนกลับเป็น 5′-GCAT-3′"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T01-08",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 1,
+   "topic": "โครโมโซมและสารพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "มิวเทชันแบบใดมักทำให้ลำดับกรดอะมิโนเปลี่ยนมากที่สุด",
+   "choices": [
+    "ไม่มีมิวเทชัน",
+    "การเพิ่มหรือขาดหายไปของเบส 1 เบส (frameshift)",
+    "การแทนที่เบสที่ได้รหัสเดิม",
+    "การแทนที่เบสในอินทรอน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "frameshift ทำให้การอ่านรหัสเลื่อนทั้งหมดหลังตำแหน่งนั้น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T02-01",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 2,
+   "topic": "การถ่ายทอดลักษณะทางพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "เมนเดลใช้พืชใดในการทดลอง",
+   "choices": [
+    "มะเขือเทศ",
+    "ถั่วลันเตา",
+    "ข้าวโพด",
+    "ข้าว"
+   ],
+   "answer": 1,
+   "explanation": [
+    "เมนเดลศึกษาถั่วลันเตา 7 ลักษณะ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T02-02",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 2,
+   "topic": "การถ่ายทอดลักษณะทางพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "จีโนไทป์ Tt เรียกว่าอะไร",
+   "choices": [
+    "ฟีโนไทป์",
+    "โฮโมไซกัสด้อย",
+    "เฮเทอโรไซกัส",
+    "โฮโมไซกัสเด่น"
+   ],
+   "answer": 2,
+   "explanation": [
+    "มีแอลลีลต่างกัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T02-03",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 2,
+   "topic": "การถ่ายทอดลักษณะทางพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ผสม Tt × Tt อัตราส่วนฟีโนไทป์ลักษณะเด่น : ด้อย เป็นเท่าใด",
+   "choices": [
+    "1 : 1",
+    "9 : 3 : 3 : 1",
+    "1 : 2 : 1",
+    "3 : 1"
+   ],
+   "answer": 3,
+   "explanation": [
+    "TT, Tt, Tt เด่น 3 ส่วน และ tt ด้อย 1 ส่วน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T02-04",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 2,
+   "topic": "การถ่ายทอดลักษณะทางพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "หมู่เลือด ABO เป็นตัวอย่างของข้อใด",
+   "choices": [
+    "มัลติเพิลแอลลีลและเด่นร่วม",
+    "ยีนบนโครโมโซม Y",
+    "ลักษณะด้อยทั้งหมด",
+    "ยีนเดี่ยวสองแอลลีล"
+   ],
+   "answer": 0,
+   "explanation": [
+    "มี 3 แอลลีล (Iᴬ Iᴮ i) และ Iᴬ Iᴮ เด่นร่วมกัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T02-05",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 2,
+   "topic": "การถ่ายทอดลักษณะทางพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ผสม Tt × tt โอกาสได้ลูกลักษณะด้อยเท่าใด",
+   "choices": [
+    "1/2",
+    "0",
+    "3/4",
+    "1/4"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Tt × tt → Tt : tt = 1 : 1"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-BI-T02-06",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 2,
+   "topic": "การถ่ายทอดลักษณะทางพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ดอกลิ้นมังกรสีแดง (RR) ผสมกับสีขาว (rr) ได้ลูกสีชมพูทั้งหมด เป็นลักษณะแบบใด",
+   "choices": [
+    "มัลติเพิลแอลลีล",
+    "เด่นไม่สมบูรณ์",
+    "เด่นร่วม",
+    "เด่นสมบูรณ์"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ฟีโนไทป์ของเฮเทอโรไซกัสอยู่ระหว่างกลาง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T02-07",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 2,
+   "topic": "การถ่ายทอดลักษณะทางพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ผสม AaBb × AaBb (ยีนอยู่คนละโครโมโซม) สัดส่วนลูกที่มีจีโนไทป์ aabb เท่าใด",
+   "choices": [
+    "1/4",
+    "9/16",
+    "1/16",
+    "3/16"
+   ],
+   "answer": 2,
+   "explanation": [
+    "1/4 × 1/4"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-BI-T02-08",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 2,
+   "topic": "การถ่ายทอดลักษณะทางพันธุกรรม",
+   "course_code": "ว30232",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "แม่เป็นพาหะตาบอดสี (XᴮXᵇ) พ่อปกติ (XᴮY) โอกาสที่ลูกชายตาบอดสีเท่าใด",
+   "choices": [
+    "1",
+    "0",
+    "1/4",
+    "1/2"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ลูกชายได้ X จากแม่ โอกาสได้ Xᵇ = 1/2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-BI-T03-01",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 3,
+   "topic": "เทคโนโลยีทางดีเอ็นเอ",
+   "course_code": "ว30232",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "PCR ใช้ทำอะไร",
+   "choices": [
+    "ย้อมสีเซลล์",
+    "นับจำนวนโครโมโซม",
+    "เพิ่มจำนวนชิ้น DNA ที่ต้องการ",
+    "ตัด DNA"
+   ],
+   "answer": 2,
+   "explanation": [
+    "PCR เพิ่มจำนวน DNA เป้าหมายหลายล้านเท่า"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T03-02",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 3,
+   "topic": "เทคโนโลยีทางดีเอ็นเอ",
+   "course_code": "ว30232",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "เอนไซม์ที่ใช้ตัด DNA ที่ลำดับเบสจำเพาะคือข้อใด",
+   "choices": [
+    "เปปซิน",
+    "เอนไซม์ตัดจำเพาะ",
+    "อะไมเลส",
+    "ลิเกส"
+   ],
+   "answer": 1,
+   "explanation": [
+    "restriction enzyme ตัดที่ลำดับจำเพาะ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T03-03",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 3,
+   "topic": "เทคโนโลยีทางดีเอ็นเอ",
+   "course_code": "ว30232",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เอนไซม์ใดเชื่อมชิ้น DNA เข้ากับพลาสมิด",
+   "choices": [
+    "DNA ลิเกส",
+    "DNA พอลิเมอเรส",
+    "เอนไซม์ตัดจำเพาะ",
+    "อะไมเลส"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ลิเกสสร้างพันธะเชื่อมชิ้น DNA"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T03-04",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 3,
+   "topic": "เทคโนโลยีทางดีเอ็นเอ",
+   "course_code": "ว30232",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ในเจลอิเล็กโทรโฟรีซิส ชิ้น DNA เคลื่อนที่ไปทางขั้วใด",
+   "choices": [
+    "ไม่เคลื่อนที่",
+    "ขั้วลบ",
+    "ทั้งสองขั้วเท่ากัน",
+    "ขั้วบวก"
+   ],
+   "answer": 3,
+   "explanation": [
+    "DNA มีประจุลบจากหมู่ฟอสเฟต"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T03-05",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 3,
+   "topic": "เทคโนโลยีทางดีเอ็นเอ",
+   "course_code": "ว30232",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ใน PCR หลังผ่าน 3 รอบ DNA เป้าหมาย 1 โมเลกุลจะเพิ่มเป็นกี่โมเลกุล (ในทางทฤษฎี)",
+   "choices": [
+    "3",
+    "9",
+    "8",
+    "6"
+   ],
+   "answer": 2,
+   "explanation": [
+    "2³ = 8"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-BI-T03-06",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 3,
+   "topic": "เทคโนโลยีทางดีเอ็นเอ",
+   "course_code": "ว30232",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ในเจลอิเล็กโทรโฟรีซิส ชิ้น DNA ใดเคลื่อนที่ไปได้ไกลที่สุด",
+   "choices": [
+    "ทุกชิ้นไปได้เท่ากัน",
+    "ชิ้นที่สั้นที่สุด",
+    "ชิ้นที่มีประจุบวก",
+    "ชิ้นที่ยาวที่สุด"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ชิ้นเล็กผ่านช่องเจลได้ง่ายกว่า"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T03-07",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 3,
+   "topic": "เทคโนโลยีทางดีเอ็นเอ",
+   "course_code": "ว30232",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การตรวจลายพิมพ์ DNA ใช้ประโยชน์ในเรื่องใดได้ดีที่สุด",
+   "choices": [
+    "พิสูจน์ความเป็นพ่อแม่ลูกและระบุตัวบุคคล",
+    "ตรวจหมู่เลือด ABO เท่านั้น",
+    "วัดอุณหภูมิร่างกาย",
+    "วัดความดันโลหิต"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ลำดับ DNA บางตำแหน่งต่างกันมากระหว่างบุคคล"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T03-08",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 3,
+   "topic": "เทคโนโลยีทางดีเอ็นเอ",
+   "course_code": "ว30232",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ข้อกังวลด้านจริยธรรมของพืช GMO คือข้อใด",
+   "choices": [
+    "ไม่มีข้อกังวลใด",
+    "พืชโตช้าลงเสมอ",
+    "ราคาเมล็ดถูกเกินไป",
+    "ผลกระทบระยะยาวต่อระบบนิเวศและการผสมข้ามกับพืชพื้นเมือง"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ต้องประเมินความเสี่ยงต่อสิ่งแวดล้อมและผู้บริโภค"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T04-01",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 4,
+   "topic": "วิวัฒนาการ",
+   "course_code": "ว30232",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ใครเสนอทฤษฎีการคัดเลือกโดยธรรมชาติ",
+   "choices": [
+    "ลามาร์ก",
+    "เมนเดล",
+    "วอตสัน",
+    "ชาลส์ ดาร์วิน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ดาร์วินเสนอใน On the Origin of Species"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T04-02",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 4,
+   "topic": "วิวัฒนาการ",
+   "course_code": "ว30232",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ซากดึกดำบรรพ์เป็นหลักฐานของวิวัฒนาการด้านใด",
+   "choices": [
+    "ภูมิศาสตร์",
+    "บรรพชีวินวิทยา",
+    "การเจริญเติบโตของเอ็มบริโอเท่านั้น",
+    "ชีววิทยาโมเลกุล"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ซากดึกดำบรรพ์บอกรูปร่างสิ่งมีชีวิตในอดีต"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T04-03",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 4,
+   "topic": "วิวัฒนาการ",
+   "course_code": "ว30232",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "แขนคนกับปีกค้างคาวเป็นโครงสร้างแบบใด",
+   "choices": [
+    "โครงสร้างกำเนิดเดียวกัน (homologous)",
+    "ไม่เกี่ยวกัน",
+    "โครงสร้างที่ลดรูป",
+    "โครงสร้างทำหน้าที่เหมือนกัน (analogous)"
+   ],
+   "answer": 0,
+   "explanation": [
+    "กระดูกมีแบบแผนเดียวกันแต่ทำหน้าที่ต่างกัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T04-04",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 4,
+   "topic": "วิวัฒนาการ",
+   "course_code": "ว30232",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "แนวคิดของลามาร์กเรื่องการใช้และไม่ใช้ ถูกโต้แย้งเพราะเหตุใด",
+   "choices": [
+    "ดาร์วินไม่เห็นด้วยเรื่องอาหาร",
+    "ไม่มีซากดึกดำบรรพ์",
+    "ลักษณะที่เกิดขึ้นภายหลังไม่ถ่ายทอดทางพันธุกรรม",
+    "ไม่มีสิ่งมีชีวิตเปลี่ยนแปลง"
+   ],
+   "answer": 2,
+   "explanation": [
+    "การเปลี่ยนแปลงของร่างกายไม่เปลี่ยน DNA ในเซลล์สืบพันธุ์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-BI-T04-05",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 4,
+   "topic": "วิวัฒนาการ",
+   "course_code": "ว30232",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ประชากรสมดุลฮาร์ดี-ไวน์เบิร์ก ถ้า q = 0.3 แล้ว p เท่าใด",
+   "choices": [
+    "0.3",
+    "0.7",
+    "0.49",
+    "0.09"
+   ],
+   "answer": 1,
+   "explanation": [
+    "p + q = 1"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-BI-T04-06",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 4,
+   "topic": "วิวัฒนาการ",
+   "course_code": "ว30232",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ถ้า q = 0.3 ความถี่จีโนไทป์ aa เท่าใด",
+   "choices": [
+    "0.3",
+    "0.49",
+    "0.42",
+    "0.09"
+   ],
+   "answer": 3,
+   "explanation": [
+    "q² = 0.09"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-BI-T04-07",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 4,
+   "topic": "วิวัฒนาการ",
+   "course_code": "ว30232",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ถ้าความถี่ของผู้มีลักษณะด้อย aa เป็น 0.16 ความถี่จีโนไทป์ Aa เท่าใด",
+   "choices": [
+    "0.4",
+    "0.36",
+    "0.48",
+    "0.16"
+   ],
+   "answer": 2,
+   "explanation": [
+    "q = 0.4, p = 0.6 → 2pq = 0.48"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-BI-T04-08",
+   "grade": "M4",
+   "subject": "BI",
+   "topic_no": 4,
+   "topic": "วิวัฒนาการ",
+   "course_code": "ว30232",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ข้อใดไม่ใช่ปัจจัยที่ทำให้ความถี่อัลลีลเปลี่ยนแปลง",
+   "choices": [
+    "การผสมพันธุ์แบบสุ่มในประชากรขนาดใหญ่มาก",
+    "มิวเทชัน",
+    "การเคลื่อนย้ายยีน",
+    "การคัดเลือกโดยธรรมชาติ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "การผสมแบบสุ่มในประชากรใหญ่เป็นเงื่อนไขของสมดุล"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-MA-T01-01",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "เรขาคณิตวิเคราะห์",
+   "course_code": "ค31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ระยะห่างระหว่างจุด (0, 0) กับ (3, 4) เท่าใด",
+   "choices": [
+    "5",
+    "25",
+    "1",
+    "7"
+   ],
+   "answer": 0,
+   "explanation": [
+    "√(9 + 16) = 5"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T01-02",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "เรขาคณิตวิเคราะห์",
+   "course_code": "ค31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ความชันของเส้นตรงผ่าน (1, 2) และ (3, 6) เท่าใด",
+   "choices": [
+    "3",
+    "1/2",
+    "4",
+    "2"
+   ],
+   "answer": 3,
+   "explanation": [
+    "(6 − 2) ÷ (3 − 1) = 2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T01-03",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "เรขาคณิตวิเคราะห์",
+   "course_code": "ค31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "จุดกึ่งกลางของ (2, 5) และ (6, 1) คือข้อใด",
+   "choices": [
+    "(8, 6)",
+    "(3, 4)",
+    "(4, 3)",
+    "(2, −2)"
+   ],
+   "answer": 2,
+   "explanation": [
+    "((2 + 6)/2, (5 + 1)/2)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T01-04",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "เรขาคณิตวิเคราะห์",
+   "course_code": "ค31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เส้นตรง y = 3x − 2 ตัดแกน y ที่จุดใด",
+   "choices": [
+    "(0, 3)",
+    "(0, −2)",
+    "(−2, 0)",
+    "(2/3, 0)"
+   ],
+   "answer": 1,
+   "explanation": [
+    "แทน x = 0 → y = −2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-MA-T01-05",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "เรขาคณิตวิเคราะห์",
+   "course_code": "ค31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "เส้นตรงที่ตั้งฉากกับ y = 2x + 1 มีความชันเท่าใด",
+   "choices": [
+    "1/2",
+    "−2",
+    "−1/2",
+    "2"
+   ],
+   "answer": 2,
+   "explanation": [
+    "m₁m₂ = −1"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T01-06",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "เรขาคณิตวิเคราะห์",
+   "course_code": "ค31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "สมการเส้นตรงผ่านจุด (1, 3) ความชัน 2 คือข้อใด",
+   "choices": [
+    "y = 2x + 1",
+    "y = 3x + 2",
+    "y = 2x + 3",
+    "y = 2x − 1"
+   ],
+   "answer": 0,
+   "explanation": [
+    "y − 3 = 2(x − 1)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T01-07",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "เรขาคณิตวิเคราะห์",
+   "course_code": "ค31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ระยะจากจุด (1, 2) ถึงเส้นตรง 3x + 4y − 1 = 0 เท่าใด",
+   "choices": [
+    "10",
+    "2",
+    "1",
+    "2.2"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ค่าสัมบูรณ์ของ (3 + 8 − 1) ÷ √(3² + 4²) = 10 ÷ 5 = 2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T01-08",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "เรขาคณิตวิเคราะห์",
+   "course_code": "ค31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "จุด P แบ่งส่วนของเส้นตรงจาก A(0, 0) ไป B(6, 9) ในอัตราส่วน 1 : 2 จุด P คือข้อใด",
+   "choices": [
+    "(1, 2)",
+    "(4, 6)",
+    "(3, 4.5)",
+    "(2, 3)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "P = A + ⅓(B − A)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T02-01",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ภาคตัดกรวย",
+   "course_code": "ค31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "สมการวงกลมจุดศูนย์กลาง (0, 0) รัศมี 3 คือข้อใด",
+   "choices": [
+    "x² + y² = 9",
+    "x² − y² = 9",
+    "x + y = 3",
+    "x² + y² = 3"
+   ],
+   "answer": 0,
+   "explanation": [
+    "x² + y² = r²"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-MA-T02-02",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ภาคตัดกรวย",
+   "course_code": "ค31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "พาราโบลา y² = 4px มีแกนสมมาตรคือแกนใด",
+   "choices": [
+    "เส้น y = x",
+    "ไม่มีแกนสมมาตร",
+    "แกน x",
+    "แกน y"
+   ],
+   "answer": 2,
+   "explanation": [
+    "y² = 4px เปิดซ้ายหรือขวา แกนสมมาตรคือแกน x"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-MA-T02-03",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ภาคตัดกรวย",
+   "course_code": "ค31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "วงกลม (x − 2)² + (y + 1)² = 16 มีจุดศูนย์กลางและรัศมีเท่าใด",
+   "choices": [
+    "(−2, 1), 4",
+    "(2, −1), 16",
+    "(2, 1), 4",
+    "(2, −1), 4"
+   ],
+   "answer": 3,
+   "explanation": [
+    "(x − h)² + (y − k)² = r²"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-MA-T02-04",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ภาคตัดกรวย",
+   "course_code": "ค31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "พาราโบลา x² = 8y มีโฟกัสที่จุดใด",
+   "choices": [
+    "(0, 8)",
+    "(0, 2)",
+    "(0, 4)",
+    "(2, 0)"
+   ],
+   "answer": 1,
+   "explanation": [
+    "4p = 8 → p = 2 โฟกัส (0, p)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T02-05",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ภาคตัดกรวย",
+   "course_code": "ค31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "วงกลม x² + y² − 6x + 4y − 3 = 0 มีรัศมีเท่าใด",
+   "choices": [
+    "16",
+    "√3",
+    "4",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": [
+    "(x − 3)² + (y + 2)² = 3 + 9 + 4 = 16"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T02-06",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ภาคตัดกรวย",
+   "course_code": "ค31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "วงรี x²/25 + y²/9 = 1 มีความยาวแกนเอกเท่าใด",
+   "choices": [
+    "10",
+    "6",
+    "5",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": [
+    "a = 5 → แกนเอก 2a = 10"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T02-07",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ภาคตัดกรวย",
+   "course_code": "ค31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "วงรี x²/25 + y²/9 = 1 มีโฟกัสห่างจากจุดศูนย์กลางเท่าใด",
+   "choices": [
+    "3",
+    "5",
+    "√34",
+    "4"
+   ],
+   "answer": 3,
+   "explanation": [
+    "c² = a² − b² = 16"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T02-08",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "ภาคตัดกรวย",
+   "course_code": "ค31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ไฮเพอร์โบลา x²/16 − y²/9 = 1 มีเส้นกำกับข้อใด",
+   "choices": [
+    "y = ±(9/16)x",
+    "y = ±(3/4)x",
+    "y = ±x",
+    "y = ±(4/3)x"
+   ],
+   "answer": 1,
+   "explanation": [
+    "y = ±(b/a)x = ±(3/4)x"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-MA-T03-01",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "ทฤษฎีจำนวน",
+   "course_code": "ค31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ข้อใดเป็นจำนวนเฉพาะ",
+   "choices": [
+    "29",
+    "33",
+    "21",
+    "27"
+   ],
+   "answer": 0,
+   "explanation": [
+    "29 มีตัวหารเพียง 1 กับ 29"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T03-02",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "ทฤษฎีจำนวน",
+   "course_code": "ค31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ห.ร.ม. ของ 12 และ 18 เท่ากับเท่าใด",
+   "choices": [
+    "36",
+    "6",
+    "3",
+    "2"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ตัวหารร่วมมากที่สุดคือ 6"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T03-03",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "ทฤษฎีจำนวน",
+   "course_code": "ค31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ค.ร.น. ของ 8 และ 12 เท่ากับเท่าใด",
+   "choices": [
+    "48",
+    "4",
+    "24",
+    "96"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ค.ร.น. = 8 × 12 ÷ ห.ร.ม. 4"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T03-04",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "ทฤษฎีจำนวน",
+   "course_code": "ค31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "−17 หารด้วย 5 ตามขั้นตอนวิธีการหาร (เศษ 0 ≤ r < 5) ได้เศษเท่าใด",
+   "choices": [
+    "−3",
+    "2",
+    "−2",
+    "3"
+   ],
+   "answer": 3,
+   "explanation": [
+    "−17 = 5(−4) + 3"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T03-05",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "ทฤษฎีจำนวน",
+   "course_code": "ค31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ใช้ขั้นตอนวิธีของยุคลิด ห.ร.ม. ของ 252 และ 105 คือเท่าใด",
+   "choices": [
+    "42",
+    "21",
+    "7",
+    "105"
+   ],
+   "answer": 1,
+   "explanation": [
+    "252 = 2·105 + 42, 105 = 2·42 + 21, 42 = 2·21"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T03-06",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "ทฤษฎีจำนวน",
+   "course_code": "ค31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ถ้า a ∣ b และ a ∣ c ข้อใดถูกเสมอ",
+   "choices": [
+    "a ∣ (b + c)",
+    "a = b",
+    "c ∣ a",
+    "b ∣ c"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ตัวหารร่วมหารผลรวมลงตัว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-MA-T03-07",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "ทฤษฎีจำนวน",
+   "course_code": "ค31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ผลคูณของ ห.ร.ม. และ ค.ร.น. ของ 24 และ 36 เท่ากับเท่าใด",
+   "choices": [
+    "72",
+    "12",
+    "432",
+    "864"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ห.ร.ม. × ค.ร.น. = 24 × 36"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-MA-T03-08",
+   "grade": "M4",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "ทฤษฎีจำนวน",
+   "course_code": "ค31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "จำนวนเต็มบวกที่น้อยที่สุดซึ่งหารด้วย 4, 6, 9 แล้วเหลือเศษ 1 ทุกตัวคือข้อใด",
+   "choices": [
+    "19",
+    "73",
+    "37",
+    "36"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ค.ร.น. = 36 แล้วบวก 1"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-EN-T01-01",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: โครงสร้างคำและกลุ่มนาม",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "She is a ___ singer.",
+   "choices": [
+    "beauty",
+    "beautiful",
+    "beautify",
+    "beautifully"
+   ],
+   "answer": 1,
+   "explanation": [
+    "An adjective comes before a noun."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T01-02",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: โครงสร้างคำและกลุ่มนาม",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "I saw ___ elephant at the zoo.",
+   "choices": [
+    "an",
+    "a",
+    "the a",
+    "some"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Use \"an\" before a vowel sound."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T01-03",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: โครงสร้างคำและกลุ่มนาม",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Could you give me some ___?",
+   "choices": [
+    "an information",
+    "informations",
+    "information",
+    "a informations"
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"information\" is uncountable."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T01-04",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: โครงสร้างคำและกลุ่มนาม",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "___ of the students has a laptop.",
+   "choices": [
+    "All",
+    "Many",
+    "Both",
+    "Each"
+   ],
+   "answer": 3,
+   "explanation": [
+    "\"Each\" takes a singular verb (has)."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T01-05",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: โครงสร้างคำและกลุ่มนาม",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "The ___ of the new bridge took two years.",
+   "choices": [
+    "construction",
+    "constructively",
+    "constructive",
+    "construct"
+   ],
+   "answer": 0,
+   "explanation": [
+    "A noun is needed after \"The\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T01-06",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: โครงสร้างคำและกลุ่มนาม",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "He spoke very ___, so everyone understood.",
+   "choices": [
+    "clear",
+    "clearness",
+    "clarity",
+    "clearly"
+   ],
+   "answer": 3,
+   "explanation": [
+    "An adverb modifies the verb \"spoke\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T01-07",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: โครงสร้างคำและกลุ่มนาม",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "These are ___ books, not mine.",
+   "choices": [
+    "she",
+    "hers",
+    "her",
+    "herself"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Possessive pronoun standing alone: hers."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T01-08",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Grammar: โครงสร้างคำและกลุ่มนาม",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "There isn't ___ milk left in the fridge.",
+   "choices": [
+    "many",
+    "few",
+    "much",
+    "a few"
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"much\" with uncountable nouns in negatives."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T02-01",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: ระบบกริยาและกาลเวลา",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "My brother ___ football every Sunday.",
+   "choices": [
+    "plays",
+    "is play",
+    "play",
+    "playing"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Present simple, third-person singular."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T02-02",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: ระบบกริยาและกาลเวลา",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Look! The children ___ in the garden.",
+   "choices": [
+    "played",
+    "have played",
+    "are playing",
+    "play"
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"Look!\" signals present continuous."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T02-03",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: ระบบกริยาและกาลเวลา",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "You ___ wear a helmet when you ride a motorbike. It's the law.",
+   "choices": [
+    "could",
+    "might",
+    "would",
+    "must"
+   ],
+   "answer": 3,
+   "explanation": [
+    "\"must\" = obligation."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T02-04",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: ระบบกริยาและกาลเวลา",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "By the time we arrived, the movie ___.",
+   "choices": [
+    "is starting",
+    "had started",
+    "has started",
+    "starts"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Past perfect for an earlier past action."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T02-05",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: ระบบกริยาและกาลเวลา",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Mathematics ___ my favourite subject.",
+   "choices": [
+    "is",
+    "are",
+    "were",
+    "have been"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Subjects ending in -s like mathematics are singular."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T02-06",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: ระบบกริยาและกาลเวลา",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "I ___ here since 2019.",
+   "choices": [
+    "am living",
+    "have lived",
+    "lived",
+    "live"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Present perfect with \"since\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T02-07",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: ระบบกริยาและกาลเวลา",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "This time tomorrow, we ___ to Bangkok.",
+   "choices": [
+    "fly",
+    "have flown",
+    "will be flying",
+    "will fly"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Future continuous for an action in progress at a future time."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T02-08",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Grammar: ระบบกริยาและกาลเวลา",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "She ___ have left already; her bag is gone.",
+   "choices": [
+    "shouldn't",
+    "needn't",
+    "can't",
+    "must"
+   ],
+   "answer": 3,
+   "explanation": [
+    "\"must have V3\" = strong deduction about the past."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T03-01",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Grammar: รูปประโยคและอนุประโยค",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "English ___ all over the world.",
+   "choices": [
+    "speaks",
+    "is spoken",
+    "is speaking",
+    "spoke"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Present simple passive."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T03-02",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Grammar: รูปประโยคและอนุประโยค",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "If you heat ice, it ___.",
+   "choices": [
+    "melts",
+    "will melted",
+    "melted",
+    "would melt"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Zero conditional for facts."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T03-03",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Grammar: รูปประโยคและอนุประโยค",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "I'm looking forward to ___ you.",
+   "choices": [
+    "see",
+    "saw",
+    "to see",
+    "seeing"
+   ],
+   "answer": 3,
+   "explanation": [
+    "\"look forward to\" + V-ing."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T03-04",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Grammar: รูปประโยคและอนุประโยค",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "The woman ___ car was stolen called the police.",
+   "choices": [
+    "who",
+    "whom",
+    "whose",
+    "which"
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"whose\" shows possession."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T03-05",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Grammar: รูปประโยคและอนุประโยค",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "If it ___ tomorrow, we will stay home.",
+   "choices": [
+    "rained",
+    "will rain",
+    "would rain",
+    "rains"
+   ],
+   "answer": 3,
+   "explanation": [
+    "First conditional: If + present simple, will + V."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T03-06",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Grammar: รูปประโยคและอนุประโยค",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "The new library ___ next year.",
+   "choices": [
+    "will be opened",
+    "opens by",
+    "is opening by",
+    "will open by"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Future passive: will be + V3."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T03-07",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Grammar: รูปประโยคและอนุประโยค",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "If I had known about the test, I ___ harder.",
+   "choices": [
+    "would study",
+    "will study",
+    "would have studied",
+    "studied"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Third conditional."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T03-08",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Grammar: รูปประโยคและอนุประโยค",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "She stopped ___ to her friend when the teacher came in.",
+   "choices": [
+    "talk",
+    "talking",
+    "talked",
+    "to talk"
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"stop + V-ing\" = no longer do it."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T04-01",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Grammar: ส่วนขยายและคำเชื่อม",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "This test is ___ than the last one.",
+   "choices": [
+    "more easy",
+    "easiest",
+    "easy",
+    "easier"
+   ],
+   "answer": 3,
+   "explanation": [
+    "Comparative of \"easy\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T04-02",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Grammar: ส่วนขยายและคำเชื่อม",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "The meeting is ___ Monday.",
+   "choices": [
+    "by",
+    "on",
+    "at",
+    "in"
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"on\" with days."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T04-03",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Grammar: ส่วนขยายและคำเชื่อม",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "He is tired, ___ he?",
+   "choices": [
+    "doesn't",
+    "is",
+    "isn't",
+    "wasn't"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Positive statement → negative tag."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T04-04",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Grammar: ส่วนขยายและคำเชื่อม",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "She was ill. ___, she went to school.",
+   "choices": [
+    "However",
+    "So",
+    "Unless",
+    "Because"
+   ],
+   "answer": 0,
+   "explanation": [
+    "\"However\" shows contrast between sentences."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T04-05",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Grammar: ส่วนขยายและคำเชื่อม",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "You haven't seen my keys, ___?",
+   "choices": [
+    "haven't you",
+    "have you",
+    "do you",
+    "did you"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Negative statement → positive tag."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T04-06",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Grammar: ส่วนขยายและคำเชื่อม",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "The more you practise, the ___ you become.",
+   "choices": [
+    "more good",
+    "good",
+    "better",
+    "best"
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"The + comparative ..., the + comparative ...\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T04-07",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Grammar: ส่วนขยายและคำเชื่อม",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "___ the bad weather, the match continued.",
+   "choices": [
+    "Despite",
+    "Because",
+    "Even",
+    "Although"
+   ],
+   "answer": 0,
+   "explanation": [
+    "\"Despite\" + noun phrase."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T04-08",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Grammar: ส่วนขยายและคำเชื่อม",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "He has been interested ___ robots since childhood.",
+   "choices": [
+    "with",
+    "at",
+    "on",
+    "in"
+   ],
+   "answer": 3,
+   "explanation": [
+    "\"interested in\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T05-01",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Error Identification",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Find the error: \"She (A) sings (B) beautiful (C) at the concert (D).\"",
+   "choices": [
+    "She (A)",
+    "sings (B)",
+    "at the concert (D)",
+    "beautiful (C)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "Adverb needed: beautifully."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T05-02",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Error Identification",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Find the error: \"The list of names (A) are (B) on (C) the board (D).\"",
+   "choices": [
+    "are (B)",
+    "The list (A)",
+    "on (C)",
+    "the board (D)"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Subject \"list\" is singular → is."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T05-03",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Error Identification",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Find the error: \"He (A) has went (B) to Chiang Mai (C) twice (D).\"",
+   "choices": [
+    "He (A)",
+    "to Chiang Mai (C)",
+    "has went (B)",
+    "twice (D)"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Present perfect needs V3: has gone/been."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T05-04",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Error Identification",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Find the error: \"I like reading, (A) to swim, (B) and cooking (C) on weekends (D).\"",
+   "choices": [
+    "reading (A)",
+    "to swim (B)",
+    "on weekends (D)",
+    "cooking (C)"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Parallel: swimming."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T05-05",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Error Identification",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Find the error: \"One of the (A) boy (B) in my class (C) is from Laos (D).\"",
+   "choices": [
+    "boy (B)",
+    "is from Laos (D)",
+    "One of the (A)",
+    "in my class (C)"
+   ],
+   "answer": 0,
+   "explanation": [
+    "\"One of the\" + plural noun: boys."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T05-06",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Error Identification",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Find the error: \"The information (A) you gave me (B) were (C) very useful (D).\"",
+   "choices": [
+    "very useful (D)",
+    "were (C)",
+    "The information (A)",
+    "you gave me (B)"
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"information\" is uncountable → was."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T05-07",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Error Identification",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Find the error: \"Last year she (A) has visited (B) three (C) countries (D).\"",
+   "choices": [
+    "Last year (A)",
+    "three (C)",
+    "has visited (B)",
+    "countries (D)"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Finished time \"last year\" → past simple: visited."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T05-08",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Error Identification",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Find the error: \"The teacher, along with (A) her students, (B) are going (C) to the museum (D).\"",
+   "choices": [
+    "to the museum (D)",
+    "along with (A)",
+    "her students (B)",
+    "are going (C)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "\"along with\" does not change the subject → is going."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T06-01",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Reading Comprehension",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "\"Bees are important. They help plants make seeds.\" In this text, \"They\" refers to ___.",
+   "choices": [
+    "seeds",
+    "plants",
+    "bees",
+    "people"
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"They\" refers back to the plural subject \"Bees\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T06-02",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Reading Comprehension",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Notice: \"Library hours: Mon–Fri 8:00–16:30. Closed on public holidays.\" When can you NOT visit?",
+   "choices": [
+    "On Wednesday at noon",
+    "On a public holiday",
+    "On Monday at 9:00",
+    "On Friday at 16:00"
+   ],
+   "answer": 1,
+   "explanation": [
+    "The notice says closed on public holidays."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T06-03",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Reading Comprehension",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "\"The old temple, which was built 700 years ago, attracts many tourists.\" What is the main information?",
+   "choices": [
+    "The temple was built last year.",
+    "Tourists build temples.",
+    "There are 700 tourists.",
+    "The temple is old and popular with tourists."
+   ],
+   "answer": 3,
+   "explanation": [
+    "The relative clause adds age; the main idea is it attracts tourists."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T06-04",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Reading Comprehension",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "\"The medicine alleviated his pain, and he slept well.\" \"alleviated\" probably means ___.",
+   "choices": [
+    "reduced",
+    "ignored",
+    "caused",
+    "increased"
+   ],
+   "answer": 0,
+   "explanation": [
+    "He slept well, so the pain was reduced."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T06-05",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Reading Comprehension",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "\"Unlike his sister, who loves crowds, Ken prefers quiet places.\" What can we say about Ken?",
+   "choices": [
+    "He is Ken's sister.",
+    "He dislikes quiet.",
+    "He likes calm places.",
+    "He loves crowds."
+   ],
+   "answer": 2,
+   "explanation": [
+    "\"Unlike\" shows contrast with his sister."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T06-06",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Reading Comprehension",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "A train timetable shows: Lampang 07:10 → Chiang Mai 09:25. How long is the trip?",
+   "choices": [
+    "3 hours 15 minutes",
+    "1 hours 15 minutes",
+    "2 hours 25 minutes",
+    "2 hours 15 minutes"
+   ],
+   "answer": 3,
+   "explanation": [
+    "09:25 − 07:10 = 2 h 15 min"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-EN-T06-07",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Reading Comprehension",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "\"Many farmers now use drones to spray crops. This saves time, but some worry about the cost.\" What is the writer's attitude?",
+   "choices": [
+    "balanced",
+    "angry",
+    "completely negative",
+    "completely positive"
+   ],
+   "answer": 0,
+   "explanation": [
+    "The writer gives a benefit and a concern."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T06-08",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Reading Comprehension",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "\"Despite years of effort, the project remained unfinished.\" Which is true?",
+   "choices": [
+    "No one tried.",
+    "The project was not completed.",
+    "The project was easy.",
+    "The project was finished quickly."
+   ],
+   "answer": 1,
+   "explanation": [
+    "\"Despite years of effort\" + \"unfinished\"."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T07-01",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 7,
+   "topic": "Conversation Skills",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "A: \"Nice to meet you.\" B: \"___\"",
+   "choices": [
+    "Goodbye.",
+    "Nice to meet you too.",
+    "You're welcome.",
+    "I'm fine."
+   ],
+   "answer": 1,
+   "explanation": [
+    "Standard reply to \"Nice to meet you.\""
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T07-02",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 7,
+   "topic": "Conversation Skills",
+   "course_code": "อ31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "A: \"Excuse me, where is the post office?\" B: \"___\"",
+   "choices": [
+    "I'm a student.",
+    "It's 3 o'clock.",
+    "Yes, I like it.",
+    "Go straight and turn left at the bank."
+   ],
+   "answer": 3,
+   "explanation": [
+    "B gives directions."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T07-03",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 7,
+   "topic": "Conversation Skills",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "A: \"Can we meet on Friday?\" B: \"Sorry, I'm busy. ___\"",
+   "choices": [
+    "I'm busy too.",
+    "Yes, Friday is fine.",
+    "How about Saturday?",
+    "Never mind."
+   ],
+   "answer": 2,
+   "explanation": [
+    "B suggests another day."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T07-04",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 7,
+   "topic": "Conversation Skills",
+   "course_code": "อ31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "At a restaurant: \"Could I have the bill, please?\" means the customer wants to ___.",
+   "choices": [
+    "pay",
+    "order",
+    "sit down",
+    "complain"
+   ],
+   "answer": 0,
+   "explanation": [
+    "The bill shows what you must pay."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T07-05",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 7,
+   "topic": "Conversation Skills",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "A: \"I'm sorry I'm late.\" B: \"___\"",
+   "choices": [
+    "That's all right. Let's start.",
+    "Congratulations!",
+    "You're welcome.",
+    "Me too."
+   ],
+   "answer": 0,
+   "explanation": [
+    "Polite acceptance of an apology."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T07-06",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 7,
+   "topic": "Conversation Skills",
+   "course_code": "อ31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "At a hotel: Guest: \"I'd like to check in. I have a reservation.\" Receptionist: \"___\"",
+   "choices": [
+    "Goodbye, have a nice trip.",
+    "The restaurant is closed.",
+    "Here is your bill.",
+    "May I have your name, please?"
+   ],
+   "answer": 3,
+   "explanation": [
+    "The receptionist needs the guest's name."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T07-07",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 7,
+   "topic": "Conversation Skills",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "A: \"Would you like me to carry that box?\" B: \"___ It's really heavy.\"",
+   "choices": [
+    "No, I wouldn't.",
+    "I don't mind if you don't.",
+    "That's very kind of you.",
+    "You're welcome."
+   ],
+   "answer": 2,
+   "explanation": [
+    "B accepts the offer with thanks."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-EN-T07-08",
+   "grade": "M4",
+   "subject": "EN",
+   "topic_no": 7,
+   "topic": "Conversation Skills",
+   "course_code": "อ31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Customer: \"This shirt has a hole in it.\" Shop assistant: \"___\"",
+   "choices": [
+    "Please buy another one.",
+    "I'm so sorry. Would you like a refund or an exchange?",
+    "That's not my problem.",
+    "Holes are fashionable."
+   ],
+   "answer": 1,
+   "explanation": [
+    "Apologise and offer a solution."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T01-01",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "ราชาศัพท์และระดับภาษาเพื่อการสื่อสาร",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "\"ตา\" ราชาศัพท์ของพระมหากษัตริย์คือข้อใด",
+   "choices": [
+    "พระนาสิก",
+    "พระเนตร",
+    "พระโอษฐ์",
+    "พระกรรณ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ตา = พระเนตร หู = พระกรรณ จมูก = พระนาสิก ปาก = พระโอษฐ์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T01-02",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "ราชาศัพท์และระดับภาษาเพื่อการสื่อสาร",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "\"นอน\" สำหรับพระสงฆ์ใช้คำใด",
+   "choices": [
+    "จำวัด",
+    "นิทรา",
+    "พักผ่อน",
+    "บรรทม"
+   ],
+   "answer": 0,
+   "explanation": [
+    "พระสงฆ์ใช้ \"จำวัด\" ส่วน \"บรรทม\" ใช้กับเจ้านาย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T01-03",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "ราชาศัพท์และระดับภาษาเพื่อการสื่อสาร",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ข้อใดใช้ \"ทรง\" นำหน้าคำนามทำให้เป็นกริยาได้ถูกต้อง",
+   "choices": [
+    "ทรงประทับ",
+    "ทรงเสด็จ",
+    "ทรงม้า",
+    "ทรงตรัส"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ทรง + นามสามัญ เป็นกริยาราชาศัพท์ เช่น ทรงม้า ทรงดนตรี"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T01-04",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "ราชาศัพท์และระดับภาษาเพื่อการสื่อสาร",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "\"ถวายพระพรชัยมงคล\" ใช้ในโอกาสใด",
+   "choices": [
+    "ทักทายเพื่อน",
+    "ขอบคุณพระสงฆ์",
+    "กล่าวลา",
+    "ถวายความปรารถนาดีแด่พระมหากษัตริย์"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เป็นคำถวายพรแด่พระมหากษัตริย์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T01-05",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "ราชาศัพท์และระดับภาษาเพื่อการสื่อสาร",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อใดใช้ราชาศัพท์ผิด",
+   "choices": [
+    "ทรงเสวย",
+    "ทรงพระสำราญ",
+    "เสวย",
+    "ทรงม้า"
+   ],
+   "answer": 0,
+   "explanation": [
+    "\"เสวย\" เป็นกริยาราชาศัพท์อยู่แล้ว จึงไม่ต้องมี \"ทรง\" นำหน้า"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T01-06",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "ราชาศัพท์และระดับภาษาเพื่อการสื่อสาร",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ภาษาระดับทางการเหมาะกับสถานการณ์ใด",
+   "choices": [
+    "การคุยกับเพื่อนสนิท",
+    "การเขียนหนังสือราชการ",
+    "การทักทายในตลาด",
+    "การส่งข้อความหาครอบครัว"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ภาษาทางการใช้ในเอกสารราชการและการประชุมทางการ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T01-07",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "ราชาศัพท์และระดับภาษาเพื่อการสื่อสาร",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "\"เจ้าอาวาสอาพาธ\" คำว่า \"อาพาธ\" หมายถึงข้อใด",
+   "choices": [
+    "เดินทาง",
+    "นอนหลับ",
+    "ป่วย",
+    "มรณภาพ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "อาพาธ = ป่วย (สำหรับพระสงฆ์)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T01-08",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 1,
+   "topic": "ราชาศัพท์และระดับภาษาเพื่อการสื่อสาร",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ข้อใดเรียงระดับภาษาจากทางการมากไปน้อยได้ถูกต้อง",
+   "choices": [
+    "กิน – รับประทาน – ทาน",
+    "ทาน – กิน – รับประทาน",
+    "กิน – ทาน – รับประทาน",
+    "รับประทาน – ทาน – กิน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "รับประทาน (ทางการ) ทาน (กึ่งทางการ) กิน (สนทนา)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ครูโปรดตรวจการจัดระดับภาษาตามที่สอน",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T02-01",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "วรรณคดีมรดกและบทกวีศักดิ์สิทธิ์ (ม.4)",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "บทนมัสการมาตาปิตุคุณแต่งด้วยฉันท์ชนิดใด",
+   "choices": [
+    "วสันตดิลกฉันท์ 14",
+    "อินทรวิเชียรฉันท์ 11",
+    "สัททุลวิกกีฬิตฉันท์ 19",
+    "อีทิสังฉันท์ 20"
+   ],
+   "answer": 1,
+   "explanation": [
+    "บทนมัสการคุณานุคุณแต่งด้วยอินทรวิเชียรฉันท์ 11"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T02-02",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "วรรณคดีมรดกและบทกวีศักดิ์สิทธิ์ (ม.4)",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "มงคลสูตรคำฉันท์กล่าวถึงมงคลกี่ประการ",
+   "choices": [
+    "28",
+    "10",
+    "38",
+    "8"
+   ],
+   "answer": 2,
+   "explanation": [
+    "มงคลสูตรมี 38 ประการ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-TH-T02-03",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "วรรณคดีมรดกและบทกวีศักดิ์สิทธิ์ (ม.4)",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ผู้ประพันธ์บทนมัสการคุณานุคุณคือใคร",
+   "choices": [
+    "สุนทรภู่",
+    "เจ้าพระยาพระคลัง (หน)",
+    "รัชกาลที่ 6",
+    "พระยาศรีสุนทรโวหาร (น้อย อาจารยางกูร)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เป็นผลงานพระยาศรีสุนทรโวหาร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T02-04",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "วรรณคดีมรดกและบทกวีศักดิ์สิทธิ์ (ม.4)",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ผู้ทรงพระราชนิพนธ์มงคลสูตรคำฉันท์คือใคร",
+   "choices": [
+    "พระบาทสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัว (รัชกาลที่ 6)",
+    "รัชกาลที่ 4",
+    "รัชกาลที่ 5",
+    "รัชกาลที่ 9"
+   ],
+   "answer": 0,
+   "explanation": [
+    "มงคลสูตรคำฉันท์เป็นพระราชนิพนธ์ในรัชกาลที่ 6"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T02-05",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "วรรณคดีมรดกและบทกวีศักดิ์สิทธิ์ (ม.4)",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "มงคลข้อแรกในมงคลสูตรคือข้อใด",
+   "choices": [
+    "การมีศิลปะ",
+    "การไม่คบคนพาล",
+    "การอยู่ในถิ่นที่เหมาะสม",
+    "การบูชาบุคคลที่ควรบูชา"
+   ],
+   "answer": 1,
+   "explanation": [
+    "มงคลข้อ 1 คือไม่คบคนพาล ข้อ 2 คบบัณฑิต ข้อ 3 บูชาผู้ควรบูชา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T02-06",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "วรรณคดีมรดกและบทกวีศักดิ์สิทธิ์ (ม.4)",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "บทนมัสการอาจริยคุณสอนให้ผู้อ่านตระหนักถึงสิ่งใด",
+   "choices": [
+    "พระคุณของครูผู้ให้ความรู้",
+    "ประวัติพระมหากษัตริย์",
+    "ความงามของธรรมชาติ",
+    "ความสำคัญของสงคราม"
+   ],
+   "answer": 0,
+   "explanation": [
+    "เป็นบทแสดงความกตัญญูต่อครู"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T02-07",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "วรรณคดีมรดกและบทกวีศักดิ์สิทธิ์ (ม.4)",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ฉันท์มีข้อบังคับพิเศษที่ต่างจากกลอนคือข้อใด",
+   "choices": [
+    "บังคับวรรณยุกต์เอก-โท",
+    "บังคับสัมผัสสระเท่านั้น",
+    "บังคับคำครุ-ลหุ",
+    "ไม่มีข้อบังคับ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ฉันท์บังคับครุ ลหุ ตามแบบของแต่ละชนิด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T02-08",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 2,
+   "topic": "วรรณคดีมรดกและบทกวีศักดิ์สิทธิ์ (ม.4)",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "คุณค่าเด่นของมงคลสูตรคำฉันท์ด้านการนำไปใช้คืออะไร",
+   "choices": [
+    "เป็นตำรายา",
+    "เป็นตำนานพื้นบ้าน",
+    "เป็นบันทึกสงคราม",
+    "เป็นหลักปฏิบัติตนเพื่อความเจริญในชีวิต"
+   ],
+   "answer": 3,
+   "explanation": [
+    "มงคล 38 เป็นหลักธรรมนำไปใช้ในชีวิตประจำวัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T03-01",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "วรรณคดีมหากาพย์และการศึก (ม.4)",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "อิเหนาแต่งด้วยคำประพันธ์ชนิดใด",
+   "choices": [
+    "ร่ายยาว",
+    "กลอนบทละคร",
+    "กาพย์ยานี",
+    "โคลงสี่สุภาพ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "อิเหนาเป็นกลอนบทละคร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T03-02",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "วรรณคดีมหากาพย์และการศึก (ม.4)",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ผู้ทรงพระราชนิพนธ์อิเหนาฉบับที่นำมาเรียนคือใคร",
+   "choices": [
+    "รัชกาลที่ 6",
+    "สุนทรภู่",
+    "รัชกาลที่ 1",
+    "พระบาทสมเด็จพระพุทธเลิศหล้านภาลัย (รัชกาลที่ 2)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "อิเหนาฉบับรัชกาลที่ 2 ได้รับยกย่องเป็นยอดของกลอนบทละคร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T03-03",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "วรรณคดีมหากาพย์และการศึก (ม.4)",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "สาเหตุของศึกกะหมังกุหนิงคืออะไร",
+   "choices": [
+    "การแย่งชิงช้างเผือก",
+    "อิเหนาต้องการยึดเมืองกะหมังกุหนิง",
+    "ท้าวกะหมังกุหนิงยกทัพมาชิงนางบุษบาให้วิหยาสะกำ",
+    "ท้าวดาหาท้ารบ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "วิหยาสะกำหลงรักนางบุษบาจากภาพวาด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T03-04",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "วรรณคดีมหากาพย์และการศึก (ม.4)",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ใครคือโอรสของท้าวกะหมังกุหนิง",
+   "choices": [
+    "วิหยาสะกำ",
+    "อิเหนา",
+    "สังคามาระตา",
+    "จรกา"
+   ],
+   "answer": 0,
+   "explanation": [
+    "วิหยาสะกำเป็นโอรสท้าวกะหมังกุหนิง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T03-05",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "วรรณคดีมหากาพย์และการศึก (ม.4)",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อคิดสำคัญจากศึกกะหมังกุหนิงคือข้อใด",
+   "choices": [
+    "การรบชนะทำให้มีความสุขเสมอ",
+    "ควรทำสงครามเพื่อความรัก",
+    "ความรักที่ขาดสติและความลุ่มหลงนำไปสู่ความสูญเสีย",
+    "ไม่ควรวาดรูป"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ท้าวกะหมังกุหนิงตามใจลูกจนเกิดสงครามและสูญเสีย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T03-06",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "วรรณคดีมหากาพย์และการศึก (ม.4)",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การพรรณนาความโศกเศร้าของท้าวกะหมังกุหนิงเมื่อโอรสสิ้นพระชนม์ เป็นรสวรรณคดีใด",
+   "choices": [
+    "สัลลาปังคพิสัย",
+    "นารีปราโมทย์",
+    "เสาวรจนี",
+    "พิโรธวาทัง"
+   ],
+   "answer": 0,
+   "explanation": [
+    "สัลลาปังคพิสัย = บทคร่ำครวญเศร้าโศก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T03-07",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "วรรณคดีมหากาพย์และการศึก (ม.4)",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "อิเหนาไปช่วยรบทั้งที่ไม่อยากไป เพราะเหตุใด",
+   "choices": [
+    "ต้องการแต่งงานกับจินตะหรา",
+    "อยากได้ทรัพย์สิน",
+    "ต้องการชิงเมืองกะหมังกุหนิง",
+    "ท้าวกุเรปันสั่งให้ไปช่วยเมืองดาหาตามหน้าที่ของวงศ์อสัญแดหวา"
+   ],
+   "answer": 3,
+   "explanation": [
+    "อิเหนาต้องทำตามพระบัณฑูรของพระบิดาเพื่อรักษาเกียรติวงศ์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ครูโปรดตรวจรายละเอียดเนื้อเรื่องตามฉบับที่สอน",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T03-08",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 3,
+   "topic": "วรรณคดีมหากาพย์และการศึก (ม.4)",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ค่านิยมราชสำนักใดปรากฏชัดในเรื่องอิเหนา",
+   "choices": [
+    "การศึกษาวิทยาศาสตร์",
+    "การรักษาเกียรติวงศ์และการเชื่อฟังผู้ใหญ่",
+    "ความเสมอภาคของทุกคน",
+    "การค้าขายกับต่างชาติ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ตัวละครให้ความสำคัญกับเกียรติของวงศ์ตระกูล"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T04-01",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "วรรณกรรมร้อยแก้วและเรื่องแปล (ม.4)",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "นิทานเวตาลเป็นวรรณกรรมที่มีต้นเค้ามาจากที่ใด",
+   "choices": [
+    "อินเดีย",
+    "เปอร์เซีย",
+    "จีน",
+    "ญี่ปุ่น"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ต้นเรื่องคือเวตาลปัญจวิงศติของอินเดีย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T04-02",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "วรรณกรรมร้อยแก้วและเรื่องแปล (ม.4)",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ผู้แปลและเรียบเรียงนิทานเวตาลฉบับที่เรียนคือใคร",
+   "choices": [
+    "ศรีบูรพา",
+    "น.ม.ส. (พระราชวรวงศ์เธอ กรมหมื่นพิทยาลงกรณ)",
+    "สุนทรภู่",
+    "รัชกาลที่ 6"
+   ],
+   "answer": 1,
+   "explanation": [
+    "นิทานเวตาลฉบับที่เรียนเป็นสำนวนของ น.ม.ส."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T04-03",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "วรรณกรรมร้อยแก้วและเรื่องแปล (ม.4)",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "นิทานเวตาลใช้กลวิธีการเล่าเรื่องแบบใด",
+   "choices": [
+    "จดหมาย",
+    "บันทึกประจำวัน",
+    "บทละครพูด",
+    "นิทานซ้อนนิทาน (โครงเรื่องซ้อน)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เวตาลเล่านิทานให้พระวิกรมาทิตย์ฟังทีละเรื่อง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T04-04",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "วรรณกรรมร้อยแก้วและเรื่องแปล (ม.4)",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เมื่อจบนิทานแต่ละเรื่อง เวตาลทำอะไร",
+   "choices": [
+    "ร้องเพลง",
+    "ขอข้าวกิน",
+    "ตั้งปัญหาให้พระวิกรมาทิตย์ตอบ",
+    "หลับไป"
+   ],
+   "answer": 2,
+   "explanation": [
+    "พระวิกรมาทิตย์ทนไม่ได้ต้องตอบ เวตาลจึงหนีกลับต้นอโศก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T04-05",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "วรรณกรรมร้อยแก้วและเรื่องแปล (ม.4)",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "เพราะเหตุใดพระวิกรมาทิตย์จึงต้องพาเวตาลไปให้โยคี",
+   "choices": [
+    "ต้องการขายเวตาล",
+    "อยากฟังนิทาน",
+    "ถูกเวตาลบังคับ",
+    "ทรงรับปากโยคีไว้"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เป็นเรื่องของการรักษาสัจจะ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T04-06",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "วรรณกรรมร้อยแก้วและเรื่องแปล (ม.4)",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ลักษณะเด่นของนิทานเวตาลด้านเนื้อหาคือข้อใด",
+   "choices": [
+    "มีแต่บทกลอน",
+    "ปัญหาท้ายเรื่องฝึกการใช้ปัญญาและวิจารณญาณ",
+    "เป็นนิทานตลกล้วน",
+    "เน้นฉากสงคราม"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ปัญหาท้ายเรื่องชวนคิดเชิงตรรกะและจริยธรรม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T04-07",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "วรรณกรรมร้อยแก้วและเรื่องแปล (ม.4)",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การที่พระวิกรมาทิตย์ทนไม่ได้ต้องตอบปัญหาทุกครั้ง สะท้อนลักษณะนิสัยใด",
+   "choices": [
+    "ทรงมีปัญญาและไม่อาจนิ่งเฉยต่อปัญหาที่ต้องใช้ความรู้",
+    "ทรงขี้ลืม",
+    "ทรงไม่สนใจนิทาน",
+    "ทรงกลัวเวตาล"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ตัวละครถูกสร้างให้เป็นผู้มีปัญญาและมีทิฐิในความรู้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "การตีความนิสัยตัวละคร ครูโปรดพิจารณาเฉลย",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T04-08",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 4,
+   "topic": "วรรณกรรมร้อยแก้วและเรื่องแปล (ม.4)",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เรื่องที่ 10 ของนิทานเวตาลมีประเด็นถกเถียงที่ต้องอาศัยหลักใดในการตอบ",
+   "choices": [
+    "การคำนวณดาราศาสตร์",
+    "การพยากรณ์อากาศ",
+    "การพิจารณาความสัมพันธ์ทางเครือญาติที่ซับซ้อน",
+    "การแพทย์"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ปัญหาเรื่องที่ 10 ถามถึงความเกี่ยวพันของญาติที่สลับซับซ้อน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ครูโปรดตรวจเนื้อเรื่องเรื่องที่ 10 ตามฉบับที่สอนก่อนใช้",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T05-01",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "วรรณคดีนิราศและกวีนิพนธ์เอก (ม.4)",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "นิราศนรินทร์แต่งด้วยคำประพันธ์ชนิดใด",
+   "choices": [
+    "กาพย์ยานี",
+    "โคลงสี่สุภาพ",
+    "กลอนสุภาพ",
+    "ฉันท์"
+   ],
+   "answer": 1,
+   "explanation": [
+    "นิราศนรินทร์คำโคลง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T05-02",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "วรรณคดีนิราศและกวีนิพนธ์เอก (ม.4)",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ผู้แต่งนิราศนรินทร์คือใคร",
+   "choices": [
+    "นายนรินทรธิเบศร์ (อิน)",
+    "พระยาตรัง",
+    "ศรีปราชญ์",
+    "สุนทรภู่"
+   ],
+   "answer": 0,
+   "explanation": [
+    "นายนรินทรธิเบศร์ (อิน) แต่งสมัยรัชกาลที่ 2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T05-03",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "วรรณคดีนิราศและกวีนิพนธ์เอก (ม.4)",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "นิราศคือวรรณคดีที่มีเนื้อหาหลักเกี่ยวกับสิ่งใด",
+   "choices": [
+    "การเกษตร",
+    "การรบ",
+    "การสอนศีลธรรม",
+    "การพลัดพรากจากคนรักระหว่างเดินทาง"
+   ],
+   "answer": 3,
+   "explanation": [
+    "นิราศพรรณนาการเดินทางพร้อมคร่ำครวญถึงคนรัก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T05-04",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "วรรณคดีนิราศและกวีนิพนธ์เอก (ม.4)",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "นิราศนรินทร์แต่งขึ้นในโอกาสใด",
+   "choices": [
+    "ไปค้าขายต่างประเทศ",
+    "ไปเที่ยวทะเล",
+    "ตามเสด็จกรมพระราชวังบวรฯ ไปทัพที่ถลาง/ทางใต้",
+    "ไปบวช"
+   ],
+   "answer": 2,
+   "explanation": [
+    "แต่งระหว่างตามเสด็จไปทัพ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ครูโปรดยืนยันรายละเอียดการเสด็จตามตำราที่ใช้",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T05-05",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "วรรณคดีนิราศและกวีนิพนธ์เอก (ม.4)",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "โคลงสี่สุภาพหนึ่งบทมีกี่บาท",
+   "choices": [
+    "2",
+    "5",
+    "4",
+    "3"
+   ],
+   "answer": 2,
+   "explanation": [
+    "โคลงสี่สุภาพ 1 บท มี 4 บาท"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T05-06",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "วรรณคดีนิราศและกวีนิพนธ์เอก (ม.4)",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การกล่าวว่าความรักยิ่งใหญ่กว่าสิ่งใดในโลก เป็นภาพพจน์ใด",
+   "choices": [
+    "อติพจน์",
+    "อุปมา",
+    "สัทพจน์",
+    "บุคคลวัต"
+   ],
+   "answer": 0,
+   "explanation": [
+    "เป็นการกล่าวเกินจริงเพื่อเน้นความรู้สึก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T05-07",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "วรรณคดีนิราศและกวีนิพนธ์เอก (ม.4)",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เหตุใดนิราศนรินทร์จึงได้รับยกย่องเป็นยอดโคลงนิราศ",
+   "choices": [
+    "มีภาพประกอบสวยงาม",
+    "ใช้ภาษาไพเราะ คมคาย และแสดงอารมณ์อาลัยได้ลึกซึ้ง",
+    "มีความยาวมากที่สุด",
+    "เขียนเป็นภาษาอังกฤษ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "คุณค่าด้านวรรณศิลป์และอารมณ์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T05-08",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 5,
+   "topic": "วรรณคดีนิราศและกวีนิพนธ์เอก (ม.4)",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "บริบทสงครามในสมัยต้นรัตนโกสินทร์ส่งผลต่อวรรณคดีนิราศอย่างไร",
+   "choices": [
+    "ไม่ส่งผลใด",
+    "ทำให้ไม่มีการแต่งวรรณคดี",
+    "ทำให้วรรณคดีเป็นภาษาต่างประเทศ",
+    "ผู้แต่งต้องเดินทางไปทัพจึงเกิดอารมณ์พลัดพรากที่สะท้อนในงานเขียน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "สงครามทำให้เกิดการเดินทางไกลและการจากพราก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T06-01",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณกรรมสะท้อนสังคมและบทความร่วมสมัย (ม.4)",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "\"หัวใจชายหนุ่ม\" เขียนในรูปแบบใด",
+   "choices": [
+    "จดหมาย",
+    "ข่าว",
+    "กลอน",
+    "บทละคร"
+   ],
+   "answer": 0,
+   "explanation": [
+    "เป็นนวนิยายในรูปจดหมาย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T06-02",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณกรรมสะท้อนสังคมและบทความร่วมสมัย (ม.4)",
+   "course_code": "ท31102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ผู้ทรงพระราชนิพนธ์ \"หัวใจชายหนุ่ม\" คือใคร",
+   "choices": [
+    "รัชกาลที่ 5",
+    "รัชกาลที่ 7",
+    "ม.ร.ว.คึกฤทธิ์ ปราโมช",
+    "พระบาทสมเด็จพระมงกุฎเกล้าเจ้าอยู่หัว (รัชกาลที่ 6)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ทรงใช้พระนามแฝง \"รามจิตติ\""
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T06-03",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณกรรมสะท้อนสังคมและบทความร่วมสมัย (ม.4)",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ตัวละครผู้เขียนจดหมายในเรื่องคือใคร",
+   "choices": [
+    "วิกรมาทิตย์",
+    "ประพันธ์ ประยูรสิริ",
+    "ขุนแผน",
+    "อิเหนา"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ประพันธ์เขียนจดหมายถึงเพื่อนที่อังกฤษ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T06-04",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณกรรมสะท้อนสังคมและบทความร่วมสมัย (ม.4)",
+   "course_code": "ท31102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เรื่องหัวใจชายหนุ่มสะท้อนประเด็นใดเป็นหลัก",
+   "choices": [
+    "การทำสงครามกับพม่า",
+    "การเกษตร",
+    "การปะทะกันระหว่างค่านิยมตะวันตกกับขนบไทย",
+    "ศาสนาพุทธ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ประพันธ์จบจากอังกฤษแล้วมองสังคมไทยด้วยมุมมองตะวันตก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T06-05",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณกรรมสะท้อนสังคมและบทความร่วมสมัย (ม.4)",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การเขียนแบบจดหมายช่วยให้ผู้อ่านรับรู้สิ่งใดได้ชัด",
+   "choices": [
+    "ลำดับเวลาของสงคราม",
+    "ความคิดและทัศนคติส่วนตัวของผู้เขียนจดหมาย",
+    "ความคิดของทุกตัวละครเท่ากัน",
+    "สูตรทางวิทยาศาสตร์"
+   ],
+   "answer": 1,
+   "explanation": [
+    "จดหมายเผยความรู้สึกผ่านมุมมองบุคคลที่หนึ่ง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T06-06",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณกรรมสะท้อนสังคมและบทความร่วมสมัย (ม.4)",
+   "course_code": "ท31102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อคิดที่ได้จากเรื่องหัวใจชายหนุ่มคือข้อใด",
+   "choices": [
+    "ควรปฏิเสธทุกอย่างจากตะวันตก",
+    "ไม่ควรเขียนจดหมาย",
+    "ควรรับวัฒนธรรมต่างชาติอย่างมีวิจารณญาณ",
+    "ควรรับทุกอย่างจากตะวันตก"
+   ],
+   "answer": 2,
+   "explanation": [
+    "เรื่องเสียดสีการรับค่านิยมตะวันตกแบบไม่ไตร่ตรอง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T06-07",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณกรรมสะท้อนสังคมและบทความร่วมสมัย (ม.4)",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "น้ำเสียงของผู้แต่งในเรื่องหัวใจชายหนุ่มเป็นแบบใดเป็นส่วนใหญ่",
+   "choices": [
+    "ยกย่องเชิดชู",
+    "โกรธแค้น",
+    "เศร้าโศก",
+    "เสียดสีและขบขัน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ใช้มุมมองของประพันธ์เพื่อเสียดสีสังคมอย่างแนบเนียน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-TH-T06-08",
+   "grade": "M4",
+   "subject": "TH",
+   "topic_no": 6,
+   "topic": "วรรณกรรมสะท้อนสังคมและบทความร่วมสมัย (ม.4)",
+   "course_code": "ท31102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "เหตุใดเรื่องนี้จึงยังมีคุณค่าต่อผู้อ่านปัจจุบัน",
+   "choices": [
+    "ประเด็นการรับวัฒนธรรมต่างชาติยังเกิดขึ้นในสังคมไทยปัจจุบัน",
+    "เพราะไม่มีเนื้อหา",
+    "เพราะเป็นเรื่องที่ยาวที่สุด",
+    "เพราะเป็นภาษาอังกฤษ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "กระแสโลกาภิวัตน์ทำให้ประเด็นยังร่วมสมัย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T01-01",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "รัฐและการเมืองไทย",
+   "course_code": "ส31103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "องค์ประกอบของรัฐมีกี่ประการ",
+   "choices": [
+    "4",
+    "2",
+    "5",
+    "3"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ประชากร ดินแดน รัฐบาล อำนาจอธิปไตย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-SO-T01-02",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "รัฐและการเมืองไทย",
+   "course_code": "ส31103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ประเทศไทยเป็นรัฐแบบใด",
+   "choices": [
+    "นครรัฐ",
+    "สมาพันธรัฐ",
+    "รัฐรวม",
+    "รัฐเดี่ยว"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ไทยมีรัฐบาลเดียวใช้อำนาจทั่วประเทศ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T01-03",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "รัฐและการเมืองไทย",
+   "course_code": "ส31103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "อำนาจอธิปไตยแบ่งเป็นกี่อำนาจ",
+   "choices": [
+    "5",
+    "2",
+    "3",
+    "4"
+   ],
+   "answer": 2,
+   "explanation": [
+    "นิติบัญญัติ บริหาร ตุลาการ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M4-SO-T01-04",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "รัฐและการเมืองไทย",
+   "course_code": "ส31103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ข้อใดเป็นรัฐรวม",
+   "choices": [
+    "ญี่ปุ่น",
+    "สหรัฐอเมริกา",
+    "ฝรั่งเศส",
+    "ไทย"
+   ],
+   "answer": 1,
+   "explanation": [
+    "สหรัฐฯ เป็นสหพันธรัฐ มีมลรัฐ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T01-05",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "รัฐและการเมืองไทย",
+   "course_code": "ส31103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การปกครองส่วนท้องถิ่นของไทยรูปแบบพิเศษคือข้อใด",
+   "choices": [
+    "องค์การบริหารส่วนตำบล",
+    "องค์การบริหารส่วนจังหวัด",
+    "เทศบาล",
+    "กรุงเทพมหานครและเมืองพัทยา"
+   ],
+   "answer": 3,
+   "explanation": [
+    "กทม. และพัทยาเป็นการปกครองท้องถิ่นรูปแบบพิเศษ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T01-06",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "รัฐและการเมืองไทย",
+   "course_code": "ส31103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ศาลรัฐธรรมนูญอยู่ในอำนาจใด",
+   "choices": [
+    "บริหาร",
+    "ตุลาการ",
+    "ท้องถิ่น",
+    "นิติบัญญัติ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ศาลทั้งหลายใช้อำนาจตุลาการ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T01-07",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "รัฐและการเมืองไทย",
+   "course_code": "ส31103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การกระจายอำนาจสู่ท้องถิ่นมีข้อดีอย่างไร",
+   "choices": [
+    "ประชาชนมีส่วนร่วมและแก้ปัญหาตรงกับความต้องการของพื้นที่",
+    "ยกเลิกจังหวัด",
+    "ทำให้ส่วนกลางมีอำนาจมากขึ้น",
+    "ลดการเลือกตั้ง"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ท้องถิ่นรู้ปัญหาของตนดีที่สุด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T01-08",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 1,
+   "topic": "รัฐและการเมืองไทย",
+   "course_code": "ส31103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การตรวจสอบถ่วงดุลอำนาจ ข้อใดเป็นการที่ฝ่ายนิติบัญญัติตรวจสอบฝ่ายบริหาร",
+   "choices": [
+    "นายกรัฐมนตรีออกนโยบาย",
+    "ประชาชนเสียภาษี",
+    "การอภิปรายไม่ไว้วางใจรัฐมนตรี",
+    "ศาลพิจารณาคดี"
+   ],
+   "answer": 2,
+   "explanation": [
+    "สภาผู้แทนราษฎรตรวจสอบรัฐบาลด้วยการอภิปรายและตั้งกระทู้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T02-01",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "สังคมวัฒนธรรม",
+   "course_code": "ส31103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "สถาบันใดเป็นสถาบันแรกที่ขัดเกลาทางสังคม",
+   "choices": [
+    "โรงเรียน",
+    "ครอบครัว",
+    "ศาสนา",
+    "เศรษฐกิจ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ครอบครัวเป็นที่แรกที่เด็กเรียนรู้บรรทัดฐาน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T02-02",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "สังคมวัฒนธรรม",
+   "course_code": "ส31103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ประเพณีลอยกระทงเป็นวัฒนธรรมประเภทใด",
+   "choices": [
+    "วัฒนธรรมทางวัตถุเท่านั้น",
+    "วิทยาศาสตร์",
+    "กฎหมาย",
+    "ขนบประเพณี"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เป็นแบบแผนการปฏิบัติที่สืบทอดกันมา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T02-03",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "สังคมวัฒนธรรม",
+   "course_code": "ส31103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "บรรทัดฐานทางสังคมที่มีบทลงโทษรุนแรงที่สุดคือข้อใด",
+   "choices": [
+    "ค่านิยม",
+    "วิถีประชา",
+    "กฎหมาย",
+    "จารีต"
+   ],
+   "answer": 2,
+   "explanation": [
+    "กฎหมายมีบทลงโทษชัดเจนโดยรัฐ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "จารีตก็มีการลงโทษทางสังคมรุนแรง ครูโปรดตรวจคำถาม",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T02-04",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "สังคมวัฒนธรรม",
+   "course_code": "ส31103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "การทักทายด้วยการไหว้เป็นบรรทัดฐานประเภทใด",
+   "choices": [
+    "วิถีประชา (วิถีชาวบ้าน)",
+    "กฎหมาย",
+    "จารีตที่ผิดแล้วติดคุก",
+    "ระเบียบราชการ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "เป็นแนวปฏิบัติทั่วไป ไม่ทำก็ไม่ผิดกฎหมาย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T02-05",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "สังคมวัฒนธรรม",
+   "course_code": "ส31103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ปัจจัยใดทำให้สังคมไทยเปลี่ยนแปลงเร็วที่สุดในปัจจุบัน",
+   "choices": [
+    "ภูมิอากาศ",
+    "การทำนา",
+    "การสร้างวัด",
+    "เทคโนโลยีและการสื่อสาร"
+   ],
+   "answer": 3,
+   "explanation": [
+    "อินเทอร์เน็ตทำให้วัฒนธรรมแพร่กระจายรวดเร็ว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T02-06",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "สังคมวัฒนธรรม",
+   "course_code": "ส31103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "สถานภาพที่ได้มาโดยกำเนิดคือข้อใด",
+   "choices": [
+    "เพศและเชื้อชาติ",
+    "นักกีฬา",
+    "แพทย์",
+    "ครู"
+   ],
+   "answer": 0,
+   "explanation": [
+    "สถานภาพโดยกำเนิดไม่ต้องพยายามได้มา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T02-07",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "สังคมวัฒนธรรม",
+   "course_code": "ส31103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การรับวัฒนธรรมต่างชาติอย่างเหมาะสมควรเป็นอย่างไร",
+   "choices": [
+    "ปฏิเสธทั้งหมด",
+    "รับทั้งหมดโดยไม่คิด",
+    "เลือกรับสิ่งที่เป็นประโยชน์และปรับให้เข้ากับบริบทไทย",
+    "เลิกใช้วัฒนธรรมไทย"
+   ],
+   "answer": 2,
+   "explanation": [
+    "การผสมผสานอย่างมีวิจารณญาณ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T02-08",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 2,
+   "topic": "สังคมวัฒนธรรม",
+   "course_code": "ส31103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "การที่คนรุ่นใหม่ใช้สติกเกอร์ไลน์ทักทายแทนการเขียนจดหมาย สะท้อนแนวคิดใด",
+   "choices": [
+    "วิถีประชาที่ไม่เปลี่ยน",
+    "การเปลี่ยนแปลงทางวัฒนธรรมตามเทคโนโลยี",
+    "ความเสื่อมของภาษาไทยทั้งหมด",
+    "การหายไปของครอบครัว"
+   ],
+   "answer": 1,
+   "explanation": [
+    "วัฒนธรรมปรับเปลี่ยนตามเครื่องมือสื่อสาร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T03-01",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "กฎหมาย",
+   "course_code": "ส31103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "บุคคลบรรลุนิติภาวะเมื่ออายุครบกี่ปีบริบูรณ์",
+   "choices": [
+    "18",
+    "20",
+    "25",
+    "15"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ตาม ป.พ.พ. บรรลุนิติภาวะเมื่ออายุ 20 ปีบริบูรณ์ หรือสมรสตามกฎหมาย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "กฎหมายอาจแก้ไข ครูโปรดตรวจสอบตัวบทปัจจุบัน",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T03-02",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "กฎหมาย",
+   "course_code": "ส31103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ผู้ที่ยังไม่บรรลุนิติภาวะเรียกว่าอะไร",
+   "choices": [
+    "ผู้เยาว์",
+    "ผู้เสมือนไร้ความสามารถ",
+    "ผู้ต้องหา",
+    "ผู้ไร้ความสามารถ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ผู้เยาว์ทำนิติกรรมต้องได้รับความยินยอมจากผู้แทนโดยชอบธรรม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T03-03",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "กฎหมาย",
+   "course_code": "ส31103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "การกู้ยืมเงินเกินกี่บาทต้องมีหลักฐานเป็นหนังสือจึงฟ้องร้องได้",
+   "choices": [
+    "50,000 บาท",
+    "10,000 บาท",
+    "2,000 บาท",
+    "500 บาท"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ป.พ.พ. กำหนดกู้ยืมเกิน 2,000 บาท ต้องมีหลักฐานเป็นหนังสือ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "ครูโปรดตรวจตัวเลขตามตัวบทปัจจุบัน",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T03-04",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "กฎหมาย",
+   "course_code": "ส31103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ผู้ที่ถูกกล่าวหาแต่ยังไม่ถูกฟ้องต่อศาลเรียกว่าอะไร",
+   "choices": [
+    "จำเลย",
+    "โจทก์",
+    "นักโทษ",
+    "ผู้ต้องหา"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เมื่อถูกฟ้องต่อศาลจึงเรียกว่าจำเลย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T03-05",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "กฎหมาย",
+   "course_code": "ส31103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "โทษทางอาญาข้อใดหนักที่สุด",
+   "choices": [
+    "ปรับ",
+    "ประหารชีวิต",
+    "กักขัง",
+    "จำคุก"
+   ],
+   "answer": 1,
+   "explanation": [
+    "โทษอาญาเรียงจากหนัก: ประหารชีวิต จำคุก กักขัง ปรับ ริบทรัพย์สิน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T03-06",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "กฎหมาย",
+   "course_code": "ส31103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การหมั้นจะสมบูรณ์เมื่อใด",
+   "choices": [
+    "เมื่อจดทะเบียนสมรส",
+    "เมื่อแจ้งเพื่อนบ้าน",
+    "เมื่อพ่อแม่เห็นด้วยเท่านั้น",
+    "ฝ่ายชายส่งมอบหรือโอนทรัพย์สินที่เป็นของหมั้นให้หญิง"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ของหมั้นเป็นเงื่อนไขความสมบูรณ์ของการหมั้น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T03-07",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "กฎหมาย",
+   "course_code": "ส31103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ทายาทโดยธรรมลำดับแรกตามกฎหมายแพ่งคือข้อใด",
+   "choices": [
+    "ลุงป้าน้าอา",
+    "ปู่ย่าตายาย",
+    "ผู้สืบสันดาน (บุตร)",
+    "พี่น้องร่วมบิดามารดา"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ลำดับ 1 คือผู้สืบสันดาน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "คู่สมรสเป็นทายาทโดยธรรมพิเศษ ครูโปรดตรวจ",
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T03-08",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 3,
+   "topic": "กฎหมาย",
+   "course_code": "ส31103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "กรณีใดเป็นความผิดอาญาที่ยอมความได้",
+   "choices": [
+    "หมิ่นประมาท",
+    "ปล้นทรัพย์",
+    "ฆ่าผู้อื่นโดยเจตนา",
+    "ค้ายาเสพติด"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ความผิดต่อส่วนตัว เช่น หมิ่นประมาท ยอมความได้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T04-01",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "สิทธิมนุษยชน",
+   "course_code": "ส31103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ปฏิญญาสากลว่าด้วยสิทธิมนุษยชน (UDHR) ประกาศโดยองค์การใด",
+   "choices": [
+    "อาเซียน",
+    "องค์การการค้าโลก",
+    "สหประชาชาติ",
+    "ธนาคารโลก"
+   ],
+   "answer": 2,
+   "explanation": [
+    "สมัชชาสหประชาชาติรับรองเมื่อ ค.ศ. 1948"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T04-02",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "สิทธิมนุษยชน",
+   "course_code": "ส31103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "หลักสำคัญของสิทธิมนุษยชนคือข้อใด",
+   "choices": [
+    "เฉพาะคนรวยมีสิทธิ",
+    "เฉพาะผู้ใหญ่มีสิทธิ",
+    "สิทธิขึ้นกับเชื้อชาติ",
+    "ทุกคนมีศักดิ์ศรีและสิทธิเท่าเทียมกันตั้งแต่เกิด"
+   ],
+   "answer": 3,
+   "explanation": [
+    "สิทธิมนุษยชนเป็นสากล ไม่อาจถ่ายโอนได้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T04-03",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "สิทธิมนุษยชน",
+   "course_code": "ส31103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "UDHR ประกาศในปี ค.ศ. ใด",
+   "choices": [
+    "1948",
+    "1945",
+    "1989",
+    "1919"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ประกาศ 10 ธันวาคม 1948 (วันสิทธิมนุษยชนสากล)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T04-04",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "สิทธิมนุษยชน",
+   "course_code": "ส31103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "องค์กรอิสระของไทยที่ดูแลเรื่องสิทธิมนุษยชนคือข้อใด",
+   "choices": [
+    "ป.ป.ช.",
+    "คณะกรรมการสิทธิมนุษยชนแห่งชาติ (กสม.)",
+    "กกต.",
+    "สตง."
+   ],
+   "answer": 1,
+   "explanation": [
+    "กสม. ตรวจสอบการละเมิดสิทธิมนุษยชน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T04-05",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "สิทธิมนุษยชน",
+   "course_code": "ส31103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การใช้แรงงานเด็กเป็นการละเมิดสิทธิในเรื่องใด",
+   "choices": [
+    "สิทธิเด็กในการศึกษาและการคุ้มครองจากการแสวงประโยชน์",
+    "สิทธิในการเลือกตั้ง",
+    "ไม่ละเมิดสิทธิใด",
+    "สิทธิในการถือครองที่ดิน"
+   ],
+   "answer": 0,
+   "explanation": [
+    "อนุสัญญาว่าด้วยสิทธิเด็กคุ้มครองเด็กจากการใช้แรงงาน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T04-06",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "สิทธิมนุษยชน",
+   "course_code": "ส31103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "การกลั่นแกล้งทางออนไลน์ (cyberbullying) กระทบสิทธิใด",
+   "choices": [
+    "สิทธิในการขับรถ",
+    "สิทธิเลือกตั้ง",
+    "ศักดิ์ศรีและความเป็นส่วนตัว",
+    "สิทธิทางภาษี"
+   ],
+   "answer": 2,
+   "explanation": [
+    "เป็นการละเมิดศักดิ์ศรีและความเป็นส่วนตัว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T04-07",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "สิทธิมนุษยชน",
+   "course_code": "ส31103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "นักเรียนพบเพื่อนถูกเลือกปฏิบัติเพราะสีผิว ควรทำอย่างไรเหมาะสมที่สุด",
+   "choices": [
+    "เพิกเฉย",
+    "โพสต์ประจานผู้กระทำทันที",
+    "ร่วมล้อเลียน",
+    "แจ้งครูหรือผู้รับผิดชอบและสนับสนุนเพื่อนอย่างปลอดภัย"
+   ],
+   "answer": 3,
+   "explanation": [
+    "แก้ปัญหาผ่านช่องทางที่เหมาะสมและปกป้องผู้ถูกกระทำ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T04-08",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 4,
+   "topic": "สิทธิมนุษยชน",
+   "course_code": "ส31103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ข้อใดเป็นการจำกัดสิทธิที่รัฐทำได้ตามหลักสิทธิมนุษยชน",
+   "choices": [
+    "จำกัดเฉพาะคนจน",
+    "จำกัดตามกฎหมายเท่าที่จำเป็นเพื่อความปลอดภัยของส่วนรวม",
+    "จำกัดเพราะความเชื่อทางศาสนา",
+    "จำกัดตามความพอใจของเจ้าหน้าที่"
+   ],
+   "answer": 1,
+   "explanation": [
+    "การจำกัดต้องมีกฎหมายรองรับและได้สัดส่วน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T05-01",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "ความสัมพันธ์ระหว่างประเทศ",
+   "course_code": "ส31103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "สำนักงานใหญ่ของสหประชาชาติตั้งอยู่ที่เมืองใด",
+   "choices": [
+    "กรุงเทพฯ",
+    "ปารีส",
+    "เจนีวา",
+    "นิวยอร์ก"
+   ],
+   "answer": 3,
+   "explanation": [
+    "สำนักงานใหญ่ UN อยู่ที่นิวยอร์ก สหรัฐอเมริกา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T05-02",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "ความสัมพันธ์ระหว่างประเทศ",
+   "course_code": "ส31103",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ประเทศไทยเป็นสมาชิกก่อตั้งของกลุ่มใด",
+   "choices": [
+    "สหภาพยุโรป",
+    "โอเปก",
+    "อาเซียน",
+    "นาโต้"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ไทยร่วมก่อตั้งอาเซียน ค.ศ. 1967 (ปฏิญญากรุงเทพฯ)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T05-03",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "ความสัมพันธ์ระหว่างประเทศ",
+   "course_code": "ส31103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "องค์กรหลักของ UN ที่มีสมาชิกถาวร 5 ประเทศคือข้อใด",
+   "choices": [
+    "ศาลยุติธรรมระหว่างประเทศ",
+    "คณะมนตรีความมั่นคง",
+    "สมัชชา",
+    "สำนักเลขาธิการ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "คณะมนตรีความมั่นคงมี 5 สมาชิกถาวรที่มีสิทธิวีโต้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T05-04",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "ความสัมพันธ์ระหว่างประเทศ",
+   "course_code": "ส31103",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "องค์การ UNESCO ดูแลด้านใด",
+   "choices": [
+    "การศึกษา วิทยาศาสตร์ และวัฒนธรรม",
+    "อาหารและเกษตร",
+    "สุขภาพ",
+    "แรงงาน"
+   ],
+   "answer": 0,
+   "explanation": [
+    "UNESCO = United Nations Educational, Scientific and Cultural Organization"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T05-05",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "ความสัมพันธ์ระหว่างประเทศ",
+   "course_code": "ส31103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "องค์การอนามัยโลก (WHO) มีบทบาทใด",
+   "choices": [
+    "จัดกีฬาโอลิมปิก",
+    "ประสานงานด้านสาธารณสุขระหว่างประเทศ",
+    "ดูแลการค้าโลก",
+    "ให้กู้เงินแก่ประเทศ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "WHO ดูแลด้านสุขภาพ เช่น โรคระบาด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T05-06",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "ความสัมพันธ์ระหว่างประเทศ",
+   "course_code": "ส31103",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ปัจจัยใดสำคัญที่สุดในการกำหนดนโยบายต่างประเทศของรัฐ",
+   "choices": [
+    "สภาพอากาศ",
+    "ความชอบส่วนตัวของผู้นำ",
+    "ผลประโยชน์แห่งชาติ",
+    "จำนวนนักท่องเที่ยว"
+   ],
+   "answer": 2,
+   "explanation": [
+    "รัฐกำหนดนโยบายเพื่อรักษาผลประโยชน์ของชาติ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T05-07",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "ความสัมพันธ์ระหว่างประเทศ",
+   "course_code": "ส31103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "องค์กรหลักของ UN ที่ยุติการทำงานแล้วในปัจจุบัน (ตั้งแต่ ค.ศ. 1994) คือข้อใด",
+   "choices": [
+    "คณะมนตรีเศรษฐกิจและสังคม",
+    "สมัชชา",
+    "สำนักเลขาธิการ",
+    "คณะมนตรีภาวะทรัสตี"
+   ],
+   "answer": 3,
+   "explanation": [
+    "คณะมนตรีภาวะทรัสตีระงับการปฏิบัติงานหลังดินแดนในภาวะทรัสตีแห่งสุดท้ายได้เอกราช"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M4-SO-T05-08",
+   "grade": "M4",
+   "subject": "SO",
+   "topic_no": 5,
+   "topic": "ความสัมพันธ์ระหว่างประเทศ",
+   "course_code": "ส31103",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "หลักการตัดสินใจของอาเซียนที่เป็นลักษณะเด่นคือข้อใด",
+   "choices": [
+    "ฉันทามติและการไม่แทรกแซงกิจการภายใน",
+    "ตัดสินโดยศาลระหว่างประเทศ",
+    "สมาชิกถาวรวีโต้",
+    "เสียงข้างมากธรรมดา"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ASEAN Way เน้นการปรึกษาหารือและฉันทามติ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  }
+ ]
+}
