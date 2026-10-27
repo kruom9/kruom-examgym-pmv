@@ -328,6 +328,9 @@
   }
 
   // ---------- events ----------
+  // any form: editing a field clears its error state (shared behaviour, no per-page code)
+  const clearErr = e => { const f = e.target.closest && e.target.closest(".eg-field--err"); if (f) { f.classList.remove("eg-field--err"); const m = f.querySelector(".eg-field__err"); if (m) m.textContent = ""; } };
+  document.addEventListener("input", clearErr); document.addEventListener("change", clearErr);
   document.addEventListener("click", async e => {
     const el = e.target.closest("[data-go],[data-act]"); if (!el || el.disabled) return;
     if (el.dataset.go) { e.preventDefault(); if (S.X && !S.X.done && location.hash.startsWith("#/x/") && !confirm("ออกจากห้องสอบ? เวลายังเดินต่อ")) return; return go(el.dataset.go); }
