@@ -1,0 +1,28 @@
+# local secrets / config (never commit)
+apps/*/config.js
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+supabase/.temp/
+supabase/.branches/
+supabase/signing_keys.json
+# local stack data, logs, keys
+.local/
+node_modules/
+# never commit these (school rules)
+*.gs
+*.xlsx
+*.xls
+*.csv
+roster*
+*roster*
+*.jpg
+*.jpeg
+*.heic
+photos/
+backend/
+# generated review output
+review/
+*.pdf

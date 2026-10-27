@@ -1,0 +1,3647 @@
+{
+ "grade": "M1",
+ "subjects": [
+  {
+   "code": "MA",
+   "courses": [
+    "ค21102"
+   ],
+   "course_name": "คณิตศาสตร์พื้นฐาน",
+   "name": "คณิตศาสตร์"
+  },
+  {
+   "code": "SC",
+   "courses": [
+    "ว21102"
+   ],
+   "course_name": "วิทยาศาสตร์พื้นฐาน",
+   "name": "วิทยาศาสตร์"
+  },
+  {
+   "code": "EN",
+   "courses": [
+    "อ21102"
+   ],
+   "course_name": "ภาษาอังกฤษพื้นฐาน",
+   "name": "ภาษาอังกฤษ"
+  }
+ ],
+ "topics": [
+  {
+   "subject": "MA",
+   "no": 1,
+   "title": "อัตราส่วน สัดส่วน และร้อยละ",
+   "subs": "อัตราส่วน; สัดส่วน; ร้อยละ; บทประยุกต์",
+   "flag": null,
+   "course": "ค21102"
+  },
+  {
+   "subject": "MA",
+   "no": 2,
+   "title": "กราฟและความสัมพันธ์เชิงเส้น",
+   "subs": "คู่อันดับและกราฟของคู่อันดับ; กราฟและการนำไปใช้; ความสัมพันธ์เชิงเส้น",
+   "flag": null,
+   "course": "ค21102"
+  },
+  {
+   "subject": "MA",
+   "no": 3,
+   "title": "สถิติ (1)",
+   "subs": "คำถามทางสถิติ; การเก็บรวบรวมข้อมูล; การนำเสนอข้อมูลและการแปลความหมายข้อมูล",
+   "flag": null,
+   "course": "ค21102"
+  },
+  {
+   "subject": "SC",
+   "no": 1,
+   "title": "ความร้อนกับการเปลี่ยนแปลงของสาร",
+   "subs": "แบบจำลองอนุภาคของสสารในแต่ละสถานะ; ความร้อนกับการเปลี่ยนอุณหภูมิ; การขยายหรือหดตัว; การเปลี่ยนสถานะ",
+   "flag": null,
+   "course": "ว21102"
+  },
+  {
+   "subject": "SC",
+   "no": 2,
+   "title": "การถ่ายโอนความร้อน",
+   "subs": "การนำความร้อน; การพาความร้อนและการแผ่รังสีความร้อน; สมดุลความร้อน",
+   "flag": null,
+   "course": "ว21102"
+  },
+  {
+   "subject": "SC",
+   "no": 3,
+   "title": "ลมฟ้าอากาศรอบตัว",
+   "subs": "บรรยากาศของเรา; อุณหภูมิอากาศ; ความกดอากาศและลม; ความชื้น; เมฆและฝน; การพยากรณ์อากาศ",
+   "flag": null,
+   "course": "ว21102"
+  },
+  {
+   "subject": "SC",
+   "no": 4,
+   "title": "มนุษย์และการเปลี่ยนแปลงลมฟ้าอากาศ",
+   "subs": "พายุ; การเปลี่ยนแปลงภูมิอากาศโลก",
+   "flag": null,
+   "course": "ว21102"
+  },
+  {
+   "subject": "EN",
+   "no": 1,
+   "title": "Grammar: ชนิดของคำและประโยคพื้นฐาน",
+   "subs": "",
+   "flag": null,
+   "course": "อ21102"
+  },
+  {
+   "subject": "EN",
+   "no": 2,
+   "title": "Grammar: ระบบกริยาและกาลเวลาพื้นฐาน",
+   "subs": "",
+   "flag": null,
+   "course": "อ21102"
+  },
+  {
+   "subject": "EN",
+   "no": 3,
+   "title": "Grammar: ส่วนขยายและบุพบท",
+   "subs": "",
+   "flag": null,
+   "course": "อ21102"
+  },
+  {
+   "subject": "EN",
+   "no": 4,
+   "title": "Error Identification: ระดับคำและประโยคเดี่ยว",
+   "subs": "",
+   "flag": null,
+   "course": "อ21102"
+  },
+  {
+   "subject": "EN",
+   "no": 5,
+   "title": "Reading: ป้ายประกาศและนิทานสั้น (50-120 คำ)",
+   "subs": "",
+   "flag": null,
+   "course": "อ21102"
+  },
+  {
+   "subject": "EN",
+   "no": 6,
+   "title": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "subs": "",
+   "flag": null,
+   "course": "อ21102"
+  }
+ ],
+ "items": [
+  {
+   "id": "M1-MA-T01-01",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "อัตราส่วน 12 : 18 เขียนเป็นอัตราส่วนอย่างต่ำได้ตามข้อใด",
+   "choices": [
+    "2 : 3",
+    "12 : 30",
+    "3 : 2",
+    "2 : 5"
+   ],
+   "answer": 0,
+   "explanation": [
+    "หาร 12 และ 18 ด้วย ห.ร.ม. คือ 6 ได้ 2 : 3"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T01-02",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "25% ของ 80 เท่ากับเท่าใด",
+   "choices": [
+    "40",
+    "25",
+    "20",
+    "55"
+   ],
+   "answer": 2,
+   "explanation": [
+    "25% = 25/100 → 80 × 25/100 = 20"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T01-03",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ส้ม 3 ผลราคา 24 บาท ส้ม 1 ผลราคากี่บาท",
+   "choices": [
+    "72 บาท",
+    "8 บาท",
+    "6 บาท",
+    "21 บาท"
+   ],
+   "answer": 1,
+   "explanation": [
+    "24 ÷ 3 = 8 บาท"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T01-04",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ถ้า x : 15 = 4 : 5 แล้ว x มีค่าเท่าใด",
+   "choices": [
+    "3",
+    "18.75",
+    "60",
+    "12"
+   ],
+   "answer": 3,
+   "explanation": [
+    "คูณไขว้ 5x = 60 จึงได้ x = 12"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T01-05",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เสื้อราคา 450 บาท ลดราคา 20% ต้องจ่ายกี่บาท",
+   "choices": [
+    "360 บาท",
+    "90 บาท",
+    "540 บาท",
+    "430 บาท"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ส่วนลด 450 × 20% = 90 บาท จ่าย 450 − 90 = 360 บาท"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T01-06",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ห้องเรียนมีนักเรียน 40 คน อัตราส่วนนักเรียนชายต่อนักเรียนหญิงเป็น 3 : 5 มีนักเรียนหญิงกี่คน",
+   "choices": [
+    "15 คน",
+    "25 คน",
+    "8 คน",
+    "24 คน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "หญิงคิดเป็น 5 ส่วนจาก 8 ส่วน → 40 × 5/8 = 25 คน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T01-07",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ซื้อของมา 250 บาท ขายไป 300 บาท ได้กำไรร้อยละเท่าใด",
+   "choices": [
+    "30%",
+    "50%",
+    "20%",
+    "16.7%"
+   ],
+   "answer": 2,
+   "explanation": [
+    "กำไร 50 บาท คิดจากทุน 250 บาท → 50/250 × 100 = 20%"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T01-08",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ถ้า a : b = 2 : 3 และ b : c = 4 : 5 แล้ว a : b : c เท่ากับข้อใด",
+   "choices": [
+    "2 : 3 : 5",
+    "8 : 12 : 5",
+    "2 : 12 : 15",
+    "8 : 12 : 15"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ทำ b ให้เท่ากันเป็น 12: a : b = 8 : 12 และ b : c = 12 : 15"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T01-09",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "รถคันหนึ่งวิ่ง 150 กิโลเมตร ใช้น้ำมัน 12 ลิตร ถ้าวิ่ง 400 กิโลเมตร ด้วยอัตราเดิม จะใช้น้ำมันกี่ลิตร",
+   "choices": [
+    "45 ลิตร",
+    "32 ลิตร",
+    "30 ลิตร",
+    "36 ลิตร"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ตั้งสัดส่วน 150 : 12 = 400 : x → x = 400 × 12 ÷ 150 = 32 ลิตร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T01-10",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "สินค้าราคา 1,000 บาท ลดราคา 20% แล้วลดซ้ำอีก 10% จากราคาที่ลดแล้ว ราคาสุดท้ายเป็นเท่าใด",
+   "choices": [
+    "730 บาท",
+    "800 บาท",
+    "700 บาท",
+    "720 บาท"
+   ],
+   "answer": 3,
+   "explanation": [
+    "1,000 × 0.8 = 800 แล้ว 800 × 0.9 = 720 บาท (ไม่ใช่ลด 30% รวด)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T02-01",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "จุด (3, −2) อยู่ในจตุภาคใด",
+   "choices": [
+    "จตุภาคที่ 4",
+    "จตุภาคที่ 1",
+    "จตุภาคที่ 2",
+    "จตุภาคที่ 3"
+   ],
+   "answer": 0,
+   "explanation": [
+    "x เป็นบวก y เป็นลบ จึงอยู่จตุภาคที่ 4"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-MA-T02-02",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ในคู่อันดับ (5, 7) จำนวนใดเป็นสมาชิกตัวหน้า",
+   "choices": [
+    "12",
+    "35",
+    "5",
+    "7"
+   ],
+   "answer": 2,
+   "explanation": [
+    "คู่อันดับ (a, b) มี a เป็นสมาชิกตัวหน้า b เป็นสมาชิกตัวหลัง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-MA-T02-03",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "จุดที่อยู่บนแกน Y มีพิกัด x เท่ากับเท่าใดเสมอ",
+   "choices": [
+    "1",
+    "เท่ากับพิกัด y",
+    "ไม่แน่นอน",
+    "0"
+   ],
+   "answer": 3,
+   "explanation": [
+    "จุดบนแกน Y มีรูป (0, y)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-MA-T02-04",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ถ้า y = 2x + 1 เมื่อ x = 3 แล้ว y มีค่าเท่าใด",
+   "choices": [
+    "9",
+    "7",
+    "6",
+    "5"
+   ],
+   "answer": 1,
+   "explanation": [
+    "แทน x = 3: y = 2(3) + 1 = 7"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T02-05",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "จุดใดอยู่บนกราฟของ y = 3x − 2",
+   "choices": [
+    "(2, 4)",
+    "(1, 3)",
+    "(0, 2)",
+    "(2, 5)"
+   ],
+   "answer": 0,
+   "explanation": [
+    "แทน x = 2: y = 3(2) − 2 = 4 จึงได้ (2, 4)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T02-06",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ค่าแท็กซี่เริ่มต้น 35 บาท และเพิ่มกิโลเมตรละ 6 บาท ความสัมพันธ์ระหว่างระยะทาง x กิโลเมตร กับค่าโดยสาร y บาท คือข้อใด",
+   "choices": [
+    "y = 41x",
+    "y = 35x + 6",
+    "y = 6x + 35",
+    "y = 6x − 35"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ค่าเริ่มต้นคงที่ 35 บวกเพิ่ม 6 ต่อกิโลเมตร → y = 6x + 35"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-MA-T02-07",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "กราฟของ y = 2x − 6 ตัดแกน X ที่จุดใด",
+   "choices": [
+    "(6, 0)",
+    "(−3, 0)",
+    "(0, −6)",
+    "(3, 0)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ตัดแกน X เมื่อ y = 0: 2x − 6 = 0 → x = 3"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T02-08",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "จากตาราง x = 1, 2, 3, 4 และ y = 5, 8, 11, 14 ความสัมพันธ์ใดถูกต้อง",
+   "choices": [
+    "y = 4x + 1",
+    "y = 3x + 2",
+    "y = x + 4",
+    "y = 2x + 3"
+   ],
+   "answer": 1,
+   "explanation": [
+    "y เพิ่มทีละ 3 เมื่อ x เพิ่ม 1 และเมื่อ x = 1 ได้ y = 5 = 3(1) + 2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T02-09",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "จากข้อความ \"ถังน้ำมีน้ำ 80 ลิตร ปล่อยน้ำออกนาทีละ 4 ลิตร\" น้ำจะหมดถังเมื่อเวลาผ่านไปกี่นาที",
+   "choices": [
+    "76 นาที",
+    "16 นาที",
+    "20 นาที",
+    "320 นาที"
+   ],
+   "answer": 2,
+   "explanation": [
+    "y = 80 − 4x น้ำหมดเมื่อ y = 0 → 4x = 80 → x = 20 นาที"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T02-10",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "จุด A(−2, 3) และ B(4, 3) ห่างกันกี่หน่วย",
+   "choices": [
+    "3 หน่วย",
+    "0 หน่วย",
+    "2 หน่วย",
+    "6 หน่วย"
+   ],
+   "answer": 3,
+   "explanation": [
+    "สองจุดอยู่บนเส้นตรง y = 3 เดียวกัน ระยะห่าง = 4 − (−2) = 6 หน่วย"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T03-01",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ข้อใดเป็นคำถามทางสถิติ",
+   "choices": [
+    "ครูประจำชั้น ม.1/1 ชื่ออะไร",
+    "วันนี้เป็นวันอะไร",
+    "นักเรียน ม.1/1 ใช้เวลาเดินทางมาโรงเรียนคนละกี่นาที",
+    "โรงเรียนเปิดเรียนกี่โมง"
+   ],
+   "answer": 2,
+   "explanation": [
+    "คำถามทางสถิติต้องคาดว่าคำตอบมีความหลากหลาย ต้องเก็บข้อมูลจากหลายคน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-MA-T03-02",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "แผนภูมิรูปวงกลมทั้งวงคิดเป็นร้อยละเท่าใด",
+   "choices": [
+    "100%",
+    "180%",
+    "360%",
+    "50%"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ทั้งวงแทนข้อมูลทั้งหมด = 100% (และเป็นมุม 360°)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-MA-T03-03",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "แผนภูมิรูปภาพกำหนด 1 รูป แทนนักเรียน 5 คน ถ้ามี 7 รูป แทนนักเรียนกี่คน",
+   "choices": [
+    "12 คน",
+    "35 คน",
+    "7 คน",
+    "75 คน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "7 × 5 = 35 คน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T03-04",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ข้อมูลใดเป็นข้อมูลเชิงคุณภาพ",
+   "choices": [
+    "ส่วนสูงของนักเรียน",
+    "น้ำหนักของนักเรียน",
+    "คะแนนสอบของนักเรียน",
+    "สีที่นักเรียนชอบ"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ข้อมูลเชิงคุณภาพบอกลักษณะหรือประเภท ไม่ได้วัดเป็นตัวเลข"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-MA-T03-05",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ข้อมูลแบบใดเหมาะกับการนำเสนอด้วยกราฟเส้นมากที่สุด",
+   "choices": [
+    "อุณหภูมิอากาศในแต่ละชั่วโมงของวัน",
+    "สีที่นักเรียนในห้องชอบ",
+    "จำนวนนักเรียนชายและหญิง",
+    "ประเภทกีฬาที่นักเรียนชอบ"
+   ],
+   "answer": 0,
+   "explanation": [
+    "กราฟเส้นเหมาะกับข้อมูลที่เปลี่ยนแปลงตามเวลา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-MA-T03-06",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "แผนภูมิรูปวงกลมแสดงว่านักเรียนชอบฟุตบอล 25% ส่วนนี้มีขนาดมุมที่จุดศูนย์กลางกี่องศา",
+   "choices": [
+    "100°",
+    "180°",
+    "25°",
+    "90°"
+   ],
+   "answer": 3,
+   "explanation": [
+    "360° × 25/100 = 90°"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T03-07",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "นักเรียน 240 คน ชอบผลไม้ส้ม 30% มีนักเรียนที่ชอบส้มกี่คน",
+   "choices": [
+    "30 คน",
+    "168 คน",
+    "72 คน",
+    "80 คน"
+   ],
+   "answer": 2,
+   "explanation": [
+    "240 × 30/100 = 72 คน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T03-08",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ยอดขายร้าน ม.ค. 120 ก.พ. 150 มี.ค. 135 เม.ย. 180 ชิ้น เดือนใดยอดขายเพิ่มขึ้นจากเดือนก่อนมากที่สุด",
+   "choices": [
+    "มีนาคม",
+    "เมษายน",
+    "กุมภาพันธ์",
+    "มกราคม"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ก.พ. เพิ่ม 30 · มี.ค. ลด 15 · เม.ย. เพิ่ม 45 จึงเป็นเมษายน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-MA-T03-09",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ต้องการทราบว่านักเรียนทั้งโรงเรียนชอบเมนูอาหารกลางวันใด วิธีเก็บข้อมูลใดเหมาะสมที่สุด",
+   "choices": [
+    "สุ่มถามนักเรียนจากทุกระดับชั้น",
+    "ถามเฉพาะเพื่อนสนิทของตนเอง",
+    "ถามเฉพาะนักเรียนห้อง ม.1/1",
+    "ถามเฉพาะคนที่ต่อแถวร้านก๋วยเตี๋ยว"
+   ],
+   "answer": 0,
+   "explanation": [
+    "กลุ่มตัวอย่างต้องเป็นตัวแทนของทั้งโรงเรียน ไม่เอนเอียงไปกลุ่มใด"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-MA-T03-10",
+   "grade": "M1",
+   "subject": "MA",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "กราฟแท่งเปรียบเทียบคะแนน 2 ห้อง (91 กับ 95 คะแนน) แต่แกนตั้งเริ่มที่ 90 แทน 0 ผู้อ่านอาจเข้าใจผิดอย่างไร",
+   "choices": [
+    "เห็นว่าห้องที่ได้ 91 ชนะ",
+    "เห็นว่าคะแนนต่างกันมากเกินจริง",
+    "เห็นว่าคะแนนเท่ากัน",
+    "อ่านค่าคะแนนไม่ได้เลย"
+   ],
+   "answer": 1,
+   "explanation": [
+    "การตัดแกนทำให้แท่งสูงต่างกันมาก ทั้งที่จริงต่างกันเพียง 4 คะแนน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T01-01",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ตามแบบจำลองอนุภาค สถานะใดอนุภาคอยู่ชิดกันมากที่สุดและเรียงตัวเป็นระเบียบ",
+   "choices": [
+    "ของเหลว",
+    "ของแข็ง",
+    "แก๊ส",
+    "ทุกสถานะเท่ากัน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ของแข็งมีอนุภาคอยู่ชิดกัน เรียงตัวเป็นระเบียบ สั่นอยู่กับที่"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T01-02",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "เมื่อให้ความร้อนแก่น้ำ (ยังไม่เดือด) อุณหภูมิของน้ำจะเป็นอย่างไร",
+   "choices": [
+    "ลดลงแล้วจึงสูงขึ้น",
+    "ลดลง",
+    "คงที่เสมอ",
+    "สูงขึ้น"
+   ],
+   "answer": 3,
+   "explanation": [
+    "สารได้รับความร้อน อนุภาคเคลื่อนที่เร็วขึ้น อุณหภูมิจึงสูงขึ้น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T01-03",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "การเปลี่ยนสถานะจากของแข็งเป็นของเหลวเรียกว่าอะไร",
+   "choices": [
+    "การแข็งตัว",
+    "การกลายเป็นไอ",
+    "การหลอมเหลว",
+    "การควบแน่น"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ของแข็ง → ของเหลว = หลอมเหลว (เช่น น้ำแข็งละลาย)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T01-04",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ทำไมรางรถไฟจึงต้องเว้นช่องว่างระหว่างรอยต่อ",
+   "choices": [
+    "เพื่อให้เหล็กขยายตัวได้เมื่อร้อน",
+    "เพื่อลดน้ำหนักราง",
+    "เพื่อประหยัดเหล็ก",
+    "เพื่อให้น้ำฝนไหลผ่าน"
+   ],
+   "answer": 0,
+   "explanation": [
+    "เหล็กได้รับความร้อนจะขยายตัว ถ้าไม่เว้นช่อง รางอาจโก่งงอ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T01-05",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ขณะน้ำกำลังเดือดที่ความดันปกติ อุณหภูมิของน้ำเป็นอย่างไร แม้ยังให้ความร้อนต่อ",
+   "choices": [
+    "ขึ้นลงสลับกัน",
+    "สูงขึ้นเรื่อย ๆ",
+    "ลดลงช้า ๆ",
+    "คงที่ประมาณ 100 °C"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ความร้อนที่ให้ถูกใช้เปลี่ยนสถานะ (ความร้อนแฝง) อุณหภูมิจึงคงที่"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T01-06",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ลูกโป่งที่วางไว้กลางแดดพองขึ้นเล็กน้อย เพราะเหตุใด",
+   "choices": [
+    "แก๊สในลูกโป่งหดตัว",
+    "ยางลูกโป่งดูดอากาศเข้าไปเพิ่ม",
+    "แก๊สในลูกโป่งได้รับความร้อนแล้วขยายตัว",
+    "แสงแดดทำให้ยางหนาขึ้น"
+   ],
+   "answer": 2,
+   "explanation": [
+    "อนุภาคแก๊สเคลื่อนที่เร็วขึ้นเมื่อร้อน จึงอยู่ห่างกันมากขึ้น ปริมาตรเพิ่ม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T01-07",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ไอน้ำในอากาศกลายเป็นหยดน้ำเกาะข้างแก้วน้ำเย็น เป็นการเปลี่ยนสถานะแบบใด",
+   "choices": [
+    "การหลอมเหลว",
+    "การควบแน่น",
+    "การระเหิด",
+    "การระเหย"
+   ],
+   "answer": 1,
+   "explanation": [
+    "แก๊ส (ไอน้ำ) คายความร้อนให้แก้วเย็น จึงกลายเป็นของเหลว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T01-08",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "น้ำ 2 kg ต้องได้รับความร้อนเท่าใดเพื่อให้อุณหภูมิเพิ่มขึ้น 10 °C (ความจุความร้อนจำเพาะของน้ำ 4,200 J/kg·°C)",
+   "choices": [
+    "84,000 J",
+    "8,400 J",
+    "42,000 J",
+    "21,000 J"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Q = mcΔT = 2 × 4,200 × 10 = 84,000 J"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": "สูตร Q = mcΔT อาจลึกกว่าหนังสือ ม.1 บางเล่ม ครูโปรดตรวจระดับ",
+   "verified": "computed"
+  },
+  {
+   "id": "M1-SC-T01-09",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "เหตุใดการเปลี่ยนสถานะจากของเหลวเป็นแก๊สจึงต้องได้รับความร้อน",
+   "choices": [
+    "ต้องใช้พลังงานเอาชนะแรงยึดเหนี่ยวระหว่างอนุภาค",
+    "เพื่อเพิ่มจำนวนอนุภาค",
+    "เพื่อให้อนุภาคหยุดเคลื่อนที่",
+    "เพื่อให้อนุภาคมีขนาดใหญ่ขึ้น"
+   ],
+   "answer": 0,
+   "explanation": [
+    "อนุภาคไม่ได้ใหญ่ขึ้น แต่ได้พลังงานไปเอาชนะแรงยึดเหนี่ยวและอยู่ห่างกันมาก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T01-10",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "นำน้ำแข็ง −10 °C ไปให้ความร้อนสม่ำเสมอจนเป็นไอน้ำ กราฟอุณหภูมิกับเวลาจะมีช่วงที่เป็นเส้นราบกี่ช่วง",
+   "choices": [
+    "3 ช่วง",
+    "2 ช่วง",
+    "1 ช่วง",
+    "ไม่มีเส้นราบ"
+   ],
+   "answer": 1,
+   "explanation": [
+    "เส้นราบเกิดขณะเปลี่ยนสถานะ: หลอมเหลวที่ 0 °C และเดือดที่ 100 °C"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T02-01",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "การที่ด้ามช้อนโลหะร้อนขึ้นเมื่อจุ่มปลายช้อนในน้ำร้อน เป็นการถ่ายโอนความร้อนแบบใด",
+   "choices": [
+    "การสะท้อนความร้อน",
+    "การแผ่รังสีความร้อน",
+    "การพาความร้อน",
+    "การนำความร้อน"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ความร้อนส่งผ่านเนื้อโลหะต่อกันไปโดยเนื้อสารไม่เคลื่อนที่"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T02-02",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "เรารู้สึกอุ่นเมื่อยืนกลางแดด ความร้อนจากดวงอาทิตย์มาถึงโลกด้วยวิธีใด",
+   "choices": [
+    "การแผ่รังสีความร้อน",
+    "การพาความร้อน",
+    "การนำความร้อน",
+    "การควบแน่น"
+   ],
+   "answer": 0,
+   "explanation": [
+    "อวกาศไม่มีตัวกลาง ความร้อนจึงมาด้วยการแผ่รังสี"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T02-03",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ความร้อนถ่ายโอนจากที่ใดไปที่ใด",
+   "choices": [
+    "จากวัตถุที่อุณหภูมิต่ำไปสูง",
+    "จากวัตถุใหญ่ไปเล็กเสมอ",
+    "จากวัตถุที่อุณหภูมิสูงไปอุณหภูมิต่ำ",
+    "จากของเหลวไปของแข็งเสมอ"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ความร้อนถ่ายโอนจากที่ร้อนกว่าไปเย็นกว่าจนอุณหภูมิเท่ากัน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T02-04",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "การต้มน้ำในหม้อ น้ำส่วนล่างร้อนแล้วลอยขึ้น น้ำเย็นด้านบนจมลง เป็นการถ่ายโอนความร้อนแบบใด",
+   "choices": [
+    "การนำความร้อน",
+    "การพาความร้อน",
+    "สมดุลความร้อน",
+    "การแผ่รังสีความร้อน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ของไหลที่ร้อนลอยขึ้นพาความร้อนไปด้วย เกิดการหมุนวน"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T02-05",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ด้ามกระทะมักทำจากพลาสติกหรือไม้ เพราะเหตุใด",
+   "choices": [
+    "เป็นฉนวนความร้อน นำความร้อนได้ไม่ดี",
+    "ช่วยแผ่รังสีความร้อนออกไป",
+    "ทำให้กระทะร้อนเร็วขึ้น",
+    "นำความร้อนได้ดี"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ฉนวนความร้อนช่วยไม่ให้มือร้อนขณะจับ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T02-06",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ใส่น้ำร้อน 60 °C ลงในน้ำเย็น 20 °C ทิ้งไว้ระยะหนึ่ง อุณหภูมิสุดท้ายของน้ำผสมน่าจะเป็นข้อใด",
+   "choices": [
+    "ต่ำกว่า 20 °C",
+    "เท่ากับ 80 °C",
+    "สูงกว่า 60 °C",
+    "อยู่ระหว่าง 20 °C ถึง 60 °C"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เกิดสมดุลความร้อน น้ำร้อนคายความร้อน น้ำเย็นรับความร้อน อุณหภูมิสุดท้ายอยู่ระหว่างสองค่า"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T02-07",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เสื้อผ้าสีดำตากแดดร้อนกว่าสีขาว เพราะสีดำทำอะไรได้ดีกว่า",
+   "choices": [
+    "พาความร้อน",
+    "ดูดกลืนรังสีความร้อน",
+    "สะท้อนรังสีความร้อน",
+    "นำความร้อน"
+   ],
+   "answer": 1,
+   "explanation": [
+    "วัตถุสีดำดูดกลืนรังสีได้ดี สีขาวสะท้อนได้ดี"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T02-08",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ผสมน้ำ 1 kg ที่ 80 °C กับน้ำ 1 kg ที่ 20 °C (ไม่มีความร้อนสูญหาย) อุณหภูมิสุดท้ายเป็นเท่าใด",
+   "choices": [
+    "100 °C",
+    "60 °C",
+    "50 °C",
+    "40 °C"
+   ],
+   "answer": 2,
+   "explanation": [
+    "มวลเท่ากัน ความร้อนที่ให้ = ที่รับ → อุณหภูมิสุดท้าย = (80 + 20) ÷ 2 = 50 °C"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-SC-T02-09",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "กระติกน้ำร้อนแบบสุญญากาศเก็บความร้อนได้นาน เพราะช่องสุญญากาศช่วยลดการถ่ายโอนความร้อนแบบใด",
+   "choices": [
+    "การนำและการพาความร้อน",
+    "การแผ่รังสีเท่านั้น",
+    "ไม่ได้ลดการถ่ายโอนความร้อน",
+    "การพาความร้อนเท่านั้น"
+   ],
+   "answer": 0,
+   "explanation": [
+    "สุญญากาศไม่มีอนุภาค จึงนำและพาความร้อนไม่ได้ ส่วนผิวเงาช่วยลดการแผ่รังสี"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T02-10",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ผสมน้ำ 2 kg ที่ 70 °C กับน้ำ 3 kg ที่ 20 °C (ไม่มีความร้อนสูญหาย) อุณหภูมิสุดท้ายเป็นเท่าใด",
+   "choices": [
+    "35 °C",
+    "45 °C",
+    "40 °C",
+    "50 °C"
+   ],
+   "answer": 2,
+   "explanation": [
+    "2(70 − T) = 3(T − 20) → 140 − 2T = 3T − 60 → T = 40 °C"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "computed"
+  },
+  {
+   "id": "M1-SC-T03-01",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ชั้นบรรยากาศที่อยู่ใกล้ผิวโลกที่สุดและเกิดปรากฏการณ์ลมฟ้าอากาศคือชั้นใด",
+   "choices": [
+    "สตราโทสเฟียร์",
+    "เทอร์โมสเฟียร์",
+    "มีโซสเฟียร์",
+    "โทรโพสเฟียร์"
+   ],
+   "answer": 3,
+   "explanation": [
+    "โทรโพสเฟียร์อยู่ติดผิวโลก มีไอน้ำมาก จึงเกิดเมฆ ฝน พายุ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T03-02",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "แก๊สที่มีมากที่สุดในอากาศแห้งคือแก๊สใด",
+   "choices": [
+    "ออกซิเจน",
+    "ไนโตรเจน",
+    "อาร์กอน",
+    "คาร์บอนไดออกไซด์"
+   ],
+   "answer": 1,
+   "explanation": [
+    "อากาศแห้งมีไนโตรเจนประมาณ 78% ออกซิเจนประมาณ 21%"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T03-03",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "เครื่องมือที่ใช้วัดความกดอากาศคือข้อใด",
+   "choices": [
+    "ไฮกรอมิเตอร์",
+    "เทอร์โมมิเตอร์",
+    "บารอมิเตอร์",
+    "แอนิโมมิเตอร์"
+   ],
+   "answer": 2,
+   "explanation": [
+    "บารอมิเตอร์วัดความกดอากาศ ไฮกรอมิเตอร์วัดความชื้น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T03-04",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ลมพัดจากบริเวณใดไปบริเวณใด",
+   "choices": [
+    "ความกดอากาศสูงไปความกดอากาศต่ำ",
+    "ความกดอากาศต่ำไปความกดอากาศสูง",
+    "จากทะเลเข้าฝั่งตลอดเวลา",
+    "ที่ร้อนไปที่ร้อนกว่า"
+   ],
+   "answer": 0,
+   "explanation": [
+    "อากาศเคลื่อนจากที่ความกดสูงไปที่ความกดต่ำ เกิดเป็นลม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T03-05",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เมื่อขึ้นไปบนยอดดอยสูง ความกดอากาศจะเป็นอย่างไร",
+   "choices": [
+    "เท่าเดิม",
+    "ลดลง",
+    "เพิ่มขึ้น",
+    "เพิ่มขึ้นแล้วลดลงทันที"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ยิ่งสูง อากาศด้านบนที่กดทับยิ่งน้อย ความกดอากาศจึงลดลง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T03-06",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ชั้นบรรยากาศใดมีแก๊สโอโซนช่วยดูดกลืนรังสีอัลตราไวโอเลต",
+   "choices": [
+    "มีโซสเฟียร์",
+    "โทรโพสเฟียร์",
+    "เอกโซสเฟียร์",
+    "สตราโทสเฟียร์"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ชั้นโอโซนอยู่ในสตราโทสเฟียร์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T03-07",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "เมฆเกิดขึ้นได้อย่างไร",
+   "choices": [
+    "ไอน้ำในอากาศเย็นตัวลงและควบแน่นเป็นละอองน้ำ",
+    "อากาศร้อนขึ้นจนกลายเป็นไอ",
+    "ฝุ่นละอองรวมตัวเป็นก้อน",
+    "แสงอาทิตย์สะท้อนบนท้องฟ้า"
+   ],
+   "answer": 0,
+   "explanation": [
+    "อากาศที่ลอยสูงขึ้นเย็นลง ไอน้ำควบแน่นเกาะอนุภาคเล็ก ๆ เป็นเมฆ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T03-08",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ลมบกเกิดในช่วงเวลาใด และพัดจากที่ใดไปที่ใด",
+   "choices": [
+    "กลางคืน พัดจากทะเลเข้าฝั่ง",
+    "กลางวัน พัดจากทะเลเข้าฝั่ง",
+    "กลางคืน พัดจากฝั่งไปทะเล",
+    "กลางวัน พัดจากฝั่งไปทะเล"
+   ],
+   "answer": 2,
+   "explanation": [
+    "กลางคืนพื้นดินเย็นเร็วกว่าน้ำ ความกดอากาศบนบกสูงกว่า ลมจึงพัดจากฝั่งออกทะเล"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T03-09",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "วันที่ความชื้นสัมพัทธ์สูงมาก ผ้าที่ตากไว้จะแห้งอย่างไร",
+   "choices": [
+    "ไม่เกี่ยวกับความชื้น",
+    "แห้งช้า เพราะอากาศรับไอน้ำได้อีกน้อย",
+    "แห้งเท่าเดิม",
+    "แห้งเร็วขึ้น"
+   ],
+   "answer": 1,
+   "explanation": [
+    "อากาศที่ใกล้อิ่มตัวด้วยไอน้ำทำให้น้ำระเหยได้ช้า"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T03-10",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "ข้อมูลพยากรณ์ “ความกดอากาศลดลงต่อเนื่อง ความชื้นสัมพัทธ์สูง มีเมฆคิวมูโลนิมบัสก่อตัว” ควรคาดว่าจะเกิดสภาพอากาศแบบใด",
+   "choices": [
+    "อากาศหนาวเย็นและแห้งแล้ง",
+    "ท้องฟ้าแจ่มใส อากาศแห้ง",
+    "หมอกหนาในตอนเช้าเท่านั้น",
+    "ฝนฟ้าคะนอง"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ความกดต่ำ ความชื้นสูง และเมฆคิวมูโลนิมบัส เป็นสัญญาณของฝนฟ้าคะนอง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T04-01",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "แก๊สใดเป็นแก๊สเรือนกระจกที่เพิ่มขึ้นจากการเผาเชื้อเพลิงมากที่สุด",
+   "choices": [
+    "ฮีเลียม",
+    "ออกซิเจน",
+    "คาร์บอนไดออกไซด์",
+    "ไนโตรเจน"
+   ],
+   "answer": 2,
+   "explanation": [
+    "การเผาถ่านหิน น้ำมัน แก๊สธรรมชาติ ปล่อย CO₂ ซึ่งเป็นแก๊สเรือนกระจก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T04-02",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "พายุที่มีความเร็วลมสูงสุดมากกว่าพายุดีเปรสชันและพายุโซนร้อนคือข้อใด",
+   "choices": [
+    "พายุฟ้าคะนอง",
+    "พายุไต้ฝุ่น",
+    "ลมบก",
+    "ลมทะเล"
+   ],
+   "answer": 1,
+   "explanation": [
+    "พายุหมุนเขตร้อนเรียงจากอ่อนไปแรง: ดีเปรสชัน → โซนร้อน → ไต้ฝุ่น (เอเชียตะวันออก)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T04-03",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "ข้อใดเป็นผลจากการเปลี่ยนแปลงภูมิอากาศโลก",
+   "choices": [
+    "ดวงจันทร์ใหญ่ขึ้น",
+    "จำนวนวันในหนึ่งปีเพิ่มขึ้น",
+    "โลกหมุนรอบตัวเองช้าลงทันที",
+    "น้ำแข็งขั้วโลกละลาย ระดับน้ำทะเลสูงขึ้น"
+   ],
+   "answer": 3,
+   "explanation": [
+    "อุณหภูมิเฉลี่ยโลกสูงขึ้น ทำให้น้ำแข็งละลายและน้ำทะเลขยายตัว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T04-04",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ข้อใดช่วยลดการปล่อยแก๊สเรือนกระจกได้",
+   "choices": [
+    "ปั่นจักรยานหรือเดินแทนการใช้รถในระยะใกล้",
+    "เปิดแอร์ทิ้งไว้ตลอดวัน",
+    "ตัดไม้ทำลายป่า",
+    "เผาขยะในที่โล่ง"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ลดการใช้เชื้อเพลิงจึงลด CO₂"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T04-05",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ปรากฏการณ์เรือนกระจกตามธรรมชาติมีประโยชน์ต่อโลกอย่างไร",
+   "choices": [
+    "ทำให้ไม่มีฝนตก",
+    "ช่วยเก็บความร้อนให้โลกอบอุ่นพอเหมาะต่อสิ่งมีชีวิต",
+    "ทำให้ไม่มีลม",
+    "ทำให้โลกเย็นจัด"
+   ],
+   "answer": 1,
+   "explanation": [
+    "หากไม่มีแก๊สเรือนกระจกเลย โลกจะหนาวเย็นมาก ปัญหาคือแก๊สที่เพิ่มขึ้นมากเกินไป"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T04-06",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "ก่อนพายุเข้า ควรเตรียมตัวอย่างไรเหมาะสมที่สุด",
+   "choices": [
+    "ติดตามประกาศกรมอุตุนิยมวิทยาและเตรียมของจำเป็น",
+    "ปีนต้นไม้สูงเพื่อดูพายุ",
+    "ไม่ต้องทำอะไรเพราะพายุผ่านไปเร็ว",
+    "ออกไปเล่นน้ำทะเล"
+   ],
+   "answer": 0,
+   "explanation": [
+    "ติดตามข่าว เก็บของที่ปลิวได้ เตรียมไฟฉาย น้ำ และอาหาร"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T04-07",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "การเผาเศษวัสดุทางการเกษตรในที่โล่งช่วงหน้าแล้งทางภาคเหนือ ก่อปัญหาใดชัดเจนที่สุด",
+   "choices": [
+    "น้ำท่วมฉับพลัน",
+    "แผ่นดินไหว",
+    "หมอกควันและฝุ่น PM2.5",
+    "ทะเลหนุน"
+   ],
+   "answer": 2,
+   "explanation": [
+    "การเผาในที่โล่งปล่อยควันและฝุ่นละอองขนาดเล็ก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T04-08",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "พายุหมุนเขตร้อนมักเกิดเหนือมหาสมุทรที่มีลักษณะใด",
+   "choices": [
+    "เหนือทะเลทราย",
+    "เหนือขั้วโลก",
+    "น้ำทะเลเย็นจัด",
+    "น้ำทะเลอุ่น มีไอน้ำมาก"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ผิวน้ำอุ่นให้ไอน้ำและพลังงานแก่พายุ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T04-09",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "ข้อใดเป็นข้อมูลที่ใช้สนับสนุนว่าภูมิอากาศโลกกำลังเปลี่ยนแปลง",
+   "choices": [
+    "ฤดูหนาวปีนี้หนาวกว่าเมื่อวาน",
+    "วันนี้ฝนตกหนักหนึ่งวัน",
+    "อุณหภูมิเฉลี่ยของโลกที่บันทึกต่อเนื่องหลายสิบปีสูงขึ้น",
+    "มีพายุหนึ่งลูกในเดือนนี้"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ภูมิอากาศคือค่าเฉลี่ยระยะยาว ต้องดูข้อมูลหลายสิบปี ไม่ใช่สภาพอากาศวันเดียว"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-SC-T04-10",
+   "grade": "M1",
+   "subject": "SC",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "นักเรียนต้องการทดลองว่าแก๊สเรือนกระจกทำให้อุณหภูมิสูงขึ้นหรือไม่ การออกแบบใดถูกต้องที่สุด",
+   "choices": [
+    "ขวด 1 ใบตากแดดแล้ววัดครั้งเดียว",
+    "ขวดปิด 2 ใบ ใบหนึ่งมี CO₂ มาก อีกใบอากาศปกติ ตากแดดพร้อมกันแล้ววัดอุณหภูมิ",
+    "ขวด 2 ใบใส่ CO₂ เท่ากัน ตากแดดคนละวัน",
+    "ขวด 2 ใบ ใบหนึ่งตากแดด อีกใบไว้ในร่ม"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ต้องเปลี่ยนตัวแปรต้นเพียงตัวเดียว (ปริมาณ CO₂) และควบคุมตัวแปรอื่น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T01-01",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Choose the correct word: I have ___ umbrella.",
+   "choices": [
+    "the two",
+    "an",
+    "a",
+    "some of"
+   ],
+   "answer": 1,
+   "explanation": [
+    "umbrella ขึ้นต้นด้วยเสียงสระ จึงใช้ an"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T01-02",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Which word is a NOUN? \"The happy dog runs quickly.\"",
+   "choices": [
+    "quickly",
+    "runs",
+    "dog",
+    "happy"
+   ],
+   "answer": 2,
+   "explanation": [
+    "dog เป็นคำนาม (สิ่งมีชีวิต) happy = adj., runs = verb, quickly = adv."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T01-03",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Choose the correct plural: one box, two ___",
+   "choices": [
+    "boxes",
+    "boxies",
+    "box",
+    "boxs"
+   ],
+   "answer": 0,
+   "explanation": [
+    "คำที่ลงท้าย -x, -s, -sh, -ch เติม -es"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T01-04",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "This is Mina's bag. It is ___.",
+   "choices": [
+    "she",
+    "her",
+    "herself",
+    "hers"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ตำแหน่งท้ายประโยคแทน \"her bag\" ใช้ possessive pronoun = hers"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T01-05",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Please give ___ the ball. (ผู้พูดหมายถึงตัวเอง)",
+   "choices": [
+    "my",
+    "me",
+    "mine",
+    "I"
+   ],
+   "answer": 1,
+   "explanation": [
+    "หลังกริยา give ต้องใช้สรรพนามรูปกรรม me"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T01-06",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Which noun is UNCOUNTABLE?",
+   "choices": [
+    "water",
+    "student",
+    "apple",
+    "chair"
+   ],
+   "answer": 0,
+   "explanation": [
+    "water นับเป็นชิ้นไม่ได้ ต้องใช้หน่วย เช่น a glass of water"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T01-07",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Choose the correct sentence.",
+   "choices": [
+    "There is a milk in the fridge.",
+    "There are some milks in the fridge.",
+    "There are milk in the fridge.",
+    "There is some milk in the fridge."
+   ],
+   "answer": 3,
+   "explanation": [
+    "milk นับไม่ได้ ใช้ is และ some ไม่เติม s"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T01-08",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "___ sun rises in ___ east.",
+   "choices": [
+    "The / an",
+    "A / the",
+    "The / the",
+    "A / an"
+   ],
+   "answer": 2,
+   "explanation": [
+    "สิ่งที่มีหนึ่งเดียวและทิศ ใช้ the"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T01-09",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Which word is used as an ADJECTIVE in \"She is a fast runner, and she runs fast.\"?",
+   "choices": [
+    "runs",
+    "runner",
+    "the second \"fast\"",
+    "the first \"fast\""
+   ],
+   "answer": 3,
+   "explanation": [
+    "fast ตัวแรกขยายคำนาม runner จึงเป็น adj. ตัวที่สองขยายกริยา runs เป็น adv."
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T01-10",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 1,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Tom and I are brothers. ___ house is near the school.",
+   "choices": [
+    "Our",
+    "We",
+    "Their",
+    "Ours"
+   ],
+   "answer": 0,
+   "explanation": [
+    "Tom and I = we → ความเป็นเจ้าของหน้าคำนามใช้ Our"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T02-01",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "My sister ___ to school every day.",
+   "choices": [
+    "are walk",
+    "walking",
+    "walk",
+    "walks"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ประธานเอกพจน์บุรุษที่ 3 + Present Simple ต้องเติม -s"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T02-02",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Look! The children ___ in the garden now.",
+   "choices": [
+    "are playing",
+    "played",
+    "plays",
+    "play"
+   ],
+   "answer": 0,
+   "explanation": [
+    "มีคำว่า Look! และ now = กำลังทำอยู่ ใช้ Present Continuous"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T02-03",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Yesterday we ___ a movie.",
+   "choices": [
+    "will watch",
+    "watches",
+    "watched",
+    "watch"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Yesterday บอกอดีต ใช้ Past Simple (V.2)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T02-04",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "I think it ___ rain tomorrow.",
+   "choices": [
+    "was",
+    "will",
+    "is",
+    "did"
+   ],
+   "answer": 1,
+   "explanation": [
+    "tomorrow บอกอนาคต ใช้ will + V.1"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T02-05",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "You ___ wear a helmet when you ride a motorcycle. It is the law.",
+   "choices": [
+    "must",
+    "may",
+    "could",
+    "can"
+   ],
+   "answer": 0,
+   "explanation": [
+    "เป็นกฎที่ต้องทำ ใช้ must"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T02-06",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Everyone in my class ___ a smartphone.",
+   "choices": [
+    "having",
+    "has",
+    "have",
+    "are having"
+   ],
+   "answer": 1,
+   "explanation": [
+    "Everyone เป็นเอกพจน์ ใช้ has"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T02-07",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "She ___ her homework last night, so she is free now.",
+   "choices": [
+    "finishes",
+    "is finishing",
+    "finished",
+    "will finish"
+   ],
+   "answer": 2,
+   "explanation": [
+    "last night = อดีต ใช้ V.2"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T02-08",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Look at those dark clouds! It ___ rain.",
+   "choices": [
+    "went to",
+    "goes to",
+    "was going",
+    "is going to"
+   ],
+   "answer": 3,
+   "explanation": [
+    "มีหลักฐานตรงหน้า ใช้ be going to"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T02-09",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Choose the correct sentence.",
+   "choices": [
+    "Water boils at 100 °C.",
+    "Water boiled at 100 °C every time.",
+    "Water boil at 100 °C.",
+    "Water is boiling at 100 °C every time."
+   ],
+   "answer": 0,
+   "explanation": [
+    "ข้อเท็จจริงทางวิทยาศาสตร์ใช้ Present Simple และ water เอกพจน์ → boils"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T02-10",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 2,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "___ I open the window? It's very hot. (ขออนุญาตอย่างสุภาพ)",
+   "choices": [
+    "Must",
+    "May",
+    "Did",
+    "Will"
+   ],
+   "answer": 1,
+   "explanation": [
+    "May ใช้ขออนุญาตอย่างสุภาพ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T03-01",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "My birthday is ___ May.",
+   "choices": [
+    "at",
+    "on",
+    "of",
+    "in"
+   ],
+   "answer": 3,
+   "explanation": [
+    "เดือนใช้ in"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T03-02",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "The class starts ___ 8 o'clock.",
+   "choices": [
+    "at",
+    "by the",
+    "on",
+    "in"
+   ],
+   "answer": 0,
+   "explanation": [
+    "เวลาที่เป็นจุด (นาฬิกา) ใช้ at"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T03-03",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "We have no school ___ Sunday.",
+   "choices": [
+    "to",
+    "on",
+    "at",
+    "in"
+   ],
+   "answer": 1,
+   "explanation": [
+    "วันใช้ on"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T03-04",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "An elephant is ___ than a horse.",
+   "choices": [
+    "biggest",
+    "more big",
+    "bigger",
+    "big"
+   ],
+   "answer": 2,
+   "explanation": [
+    "เปรียบเทียบสองสิ่งใช้ขั้นกว่า big → bigger (ซ้อนตัวสะกด)"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T03-05",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "She speaks English very ___.",
+   "choices": [
+    "goodly",
+    "best",
+    "well",
+    "good"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ขยายกริยา speaks ต้องใช้ adverb = well"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T03-06",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "The cat is sleeping ___ the table. (อยู่ใต้โต๊ะ)",
+   "choices": [
+    "in",
+    "under",
+    "on",
+    "at"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ใต้ = under"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T03-07",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Doi Inthanon is the ___ mountain in Thailand.",
+   "choices": [
+    "highest",
+    "most high",
+    "high",
+    "higher"
+   ],
+   "answer": 0,
+   "explanation": [
+    "เปรียบเทียบกับทั้งหมด ใช้ขั้นสุด the highest"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T03-08",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "This book is ___ than that one.",
+   "choices": [
+    "interesting more",
+    "interestinger",
+    "most interesting",
+    "more interesting"
+   ],
+   "answer": 3,
+   "explanation": [
+    "คำคุณศัพท์หลายพยางค์ใช้ more ... than"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T03-09",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Choose the correct sentence.",
+   "choices": [
+    "She drives careful.",
+    "She careful drives.",
+    "She drives more careful.",
+    "She drives carefully."
+   ],
+   "answer": 3,
+   "explanation": [
+    "carefully (adv.) ขยายกริยา drives และวางหลังกริยา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T03-10",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 3,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "I was born ___ the morning of 5 June 2014.",
+   "choices": [
+    "in",
+    "by",
+    "on",
+    "at"
+   ],
+   "answer": 2,
+   "explanation": [
+    "เมื่อระบุ morning ของวันที่ใดวันหนึ่งเจาะจง ใช้ on"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T04-01",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Find the error: \"There are three (A) childs (B) in (C) the room (D).\"",
+   "choices": [
+    "the room (D)",
+    "in (C)",
+    "childs (B)",
+    "There are (A)"
+   ],
+   "answer": 2,
+   "explanation": [
+    "child เป็นพหูพจน์ไม่ปกติ → children"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T04-02",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Find the error: \"He (A) go (B) to (C) school by bus (D).\"",
+   "choices": [
+    "to (C)",
+    "go (B)",
+    "by bus (D)",
+    "He (A)"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ประธาน He ต้องใช้ goes"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T04-03",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Find the error: \"Me (A) and my friend (B) like (C) pizza (D).\"",
+   "choices": [
+    "my friend (B)",
+    "pizza (D)",
+    "like (C)",
+    "Me (A)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ตำแหน่งประธานต้องใช้ I → My friend and I"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T04-04",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Find the error: \"She (A) visited (B) her grandmother (C) tomorrow (D).\"",
+   "choices": [
+    "tomorrow (D)",
+    "She (A)",
+    "visited (B)",
+    "her grandmother (C)"
+   ],
+   "answer": 0,
+   "explanation": [
+    "visited เป็นอดีต แต่ tomorrow เป็นอนาคต → yesterday หรือ will visit"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T04-05",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Find the error: \"My brother (A) don't (B) like (C) vegetables (D).\"",
+   "choices": [
+    "vegetables (D)",
+    "My brother (A)",
+    "don't (B)",
+    "like (C)"
+   ],
+   "answer": 2,
+   "explanation": [
+    "ประธานเอกพจน์ใช้ doesn't"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T04-06",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Find the error: \"I have two (A) new (B) pencil (C) for school (D).\"",
+   "choices": [
+    "for school (D)",
+    "new (B)",
+    "two (A)",
+    "pencil (C)"
+   ],
+   "answer": 3,
+   "explanation": [
+    "two ต้องตามด้วยพหูพจน์ pencils"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T04-07",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Find the error: \"They (A) is (B) playing football (C) now (D).\"",
+   "choices": [
+    "playing football (C)",
+    "is (B)",
+    "They (A)",
+    "now (D)"
+   ],
+   "answer": 1,
+   "explanation": [
+    "They ใช้ are"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T04-08",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Find the error: \"Every students (A) in this class (B) has (C) a book (D).\"",
+   "choices": [
+    "Every students (A)",
+    "in this class (B)",
+    "a book (D)",
+    "has (C)"
+   ],
+   "answer": 0,
+   "explanation": [
+    "every ตามด้วยนามเอกพจน์ → every student"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T04-09",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Find the error: \"Last week, (A) we (B) are (C) at the beach (D).\"",
+   "choices": [
+    "at the beach (D)",
+    "we (B)",
+    "are (C)",
+    "Last week (A)"
+   ],
+   "answer": 2,
+   "explanation": [
+    "Last week = อดีต → were"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T04-10",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 4,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Find the error: \"This is my (A) friend's bag, (B) and that bag is my (C) too (D).\"",
+   "choices": [
+    "my (A)",
+    "my (C)",
+    "too (D)",
+    "friend's bag (B)"
+   ],
+   "answer": 1,
+   "explanation": [
+    "ท้ายประโยคไม่มีคำนามตาม ต้องใช้ mine"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T05-01",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Sign: \"NO SWIMMING\". What does it mean?",
+   "choices": [
+    "The pool is free.",
+    "You can swim later.",
+    "You must not swim here.",
+    "You must swim here."
+   ],
+   "answer": 2,
+   "explanation": [
+    "NO + V-ing = ห้ามทำสิ่งนั้น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T05-02",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Sign: \"WET FLOOR\". What should you do?",
+   "choices": [
+    "Walk carefully.",
+    "Sit on the floor.",
+    "Clean your shoes.",
+    "Run quickly."
+   ],
+   "answer": 0,
+   "explanation": [
+    "พื้นเปียก ควรเดินระวังลื่น"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T05-03",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "Label on a bottle: \"Shake well before use.\" What should you do first?",
+   "choices": [
+    "Throw it away.",
+    "Shake the bottle.",
+    "Keep it in the sun.",
+    "Drink it quickly."
+   ],
+   "answer": 1,
+   "explanation": [
+    "Shake well before use = เขย่าก่อนใช้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T05-04",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Notice: \"Library open 8:00–16:00, Mon–Fri.\" When can you NOT use the library?",
+   "choices": [
+    "Monday at 9:00",
+    "Friday at 8:30",
+    "Wednesday at 15:00",
+    "Saturday at 10:00"
+   ],
+   "answer": 3,
+   "explanation": [
+    "ห้องสมุดเปิดเฉพาะจันทร์–ศุกร์"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T05-05",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "\"Ben has a small dog. It is brown and very friendly.\" What does \"It\" refer to?",
+   "choices": [
+    "the colour",
+    "Ben",
+    "the dog",
+    "the house"
+   ],
+   "answer": 2,
+   "explanation": [
+    "It แทนสิ่งที่กล่าวก่อนหน้า = a small dog"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T05-06",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "Sign at a museum: \"Please do not touch the paintings.\" Which is correct?",
+   "choices": [
+    "You can touch the paintings.",
+    "You must paint here.",
+    "You can take the paintings home.",
+    "You can look at the paintings."
+   ],
+   "answer": 3,
+   "explanation": [
+    "ห้ามจับ แต่ดูได้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T05-07",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "Read: \"A crow was thirsty. It found a pot with a little water. It dropped stones into the pot until the water came up, and then it drank.\" Who is the main character?",
+   "choices": [
+    "the stones",
+    "the crow",
+    "the pot",
+    "the water"
+   ],
+   "answer": 1,
+   "explanation": [
+    "เรื่องเล่าถึงอีกา (crow) ที่แก้ปัญหา"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T05-08",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "From the crow story above, what is the main idea?",
+   "choices": [
+    "Thinking hard can solve a problem.",
+    "Pots are always empty.",
+    "Water is dangerous.",
+    "Crows like stones."
+   ],
+   "answer": 0,
+   "explanation": [
+    "อีกาใช้ความคิดแก้ปัญหาจนได้ดื่มน้ำ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T05-09",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "Read: \"Nok and her brother planted a tree. Every morning she watered it, but he forgot. After a month, the tree grew tall, and he said thank you to her.\" Who said thank you?",
+   "choices": [
+    "Nok",
+    "Nok's brother",
+    "the tree",
+    "their mother"
+   ],
+   "answer": 1,
+   "explanation": [
+    "he หมายถึงน้องชาย/พี่ชายของนก ส่วน her หมายถึงนก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T05-10",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 5,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "In the story above, what can we learn?",
+   "choices": [
+    "Taking care every day brings results.",
+    "Trees never need water.",
+    "Planting is dangerous.",
+    "Brothers are always lazy."
+   ],
+   "answer": 0,
+   "explanation": [
+    "การดูแลสม่ำเสมอทำให้ต้นไม้เติบโต"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T06-01",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "A: \"Nice to meet you.\" B: \"___\"",
+   "choices": [
+    "You're welcome.",
+    "Goodbye.",
+    "Nice to meet you, too.",
+    "I'm fine, thanks."
+   ],
+   "answer": 2,
+   "explanation": [
+    "ตอบการทักทายเมื่อพบกันครั้งแรก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T06-02",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "A: \"How are you?\" B: \"___\"",
+   "choices": [
+    "I'm from Phayao.",
+    "I'm fine, thank you.",
+    "I'm thirteen.",
+    "I like football."
+   ],
+   "answer": 1,
+   "explanation": [
+    "How are you? ถามสุขภาพ/ความเป็นอยู่"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T06-03",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 0,
+   "levelName": "ตั้งไข่",
+   "question": "A: \"Thank you for your help.\" B: \"___\"",
+   "choices": [
+    "Yes, please.",
+    "Sorry.",
+    "See you.",
+    "You're welcome."
+   ],
+   "answer": 3,
+   "explanation": [
+    "ตอบรับคำขอบคุณ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T06-04",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "A: \"What do you do in your free time?\" B: \"___\"",
+   "choices": [
+    "I usually play badminton.",
+    "I'm a student at 8 o'clock.",
+    "Yes, I do.",
+    "It's in my bag."
+   ],
+   "answer": 0,
+   "explanation": [
+    "ถามงานอดิเรก ตอบเป็นกิจกรรม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T06-05",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "A: \"Excuse me, where is the post office?\" B: \"___\"",
+   "choices": [
+    "It's sunny today.",
+    "Go straight and turn left. It's next to the bank.",
+    "It's 10 baht.",
+    "I'm going home."
+   ],
+   "answer": 1,
+   "explanation": [
+    "ถามทาง ตอบบอกทิศทาง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T06-06",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 1,
+   "levelName": "ง่าย",
+   "question": "A: \"Can I borrow your pen?\" B: \"___\"",
+   "choices": [
+    "No, I can't swim.",
+    "I'm sorry to hear that.",
+    "Sure. Here you are.",
+    "Yes, it's my birthday."
+   ],
+   "answer": 2,
+   "explanation": [
+    "ตอบรับคำขอยืม"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T06-07",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "A: \"This is my friend, Ploy.\" B: \"___\"",
+   "choices": [
+    "Hi, I'm fine.",
+    "Yes, she is.",
+    "Goodbye, Ploy.",
+    "Hi, Ploy. Nice to meet you."
+   ],
+   "answer": 3,
+   "explanation": [
+    "เมื่อมีคนแนะนำเพื่อนให้ ควรทักทายและยินดีที่ได้รู้จัก"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T06-08",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 2,
+   "levelName": "กลาง",
+   "question": "A: \"I failed my test.\" B: \"___\"",
+   "choices": [
+    "Don't worry. You can try again.",
+    "Great job!",
+    "Congratulations!",
+    "That's a good idea."
+   ],
+   "answer": 0,
+   "explanation": [
+    "ให้กำลังใจเมื่อเพื่อนพบเรื่องผิดหวัง"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T06-09",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "A: \"Could you help me carry these books?\" B: \"___\" A: \"Thanks a lot.\"",
+   "choices": [
+    "It doesn't matter.",
+    "No, thanks. I'm full.",
+    "Here's your change.",
+    "Of course. Let me take some."
+   ],
+   "answer": 3,
+   "explanation": [
+    "ตอบรับคำขอความช่วยเหลือ ทำให้ A ขอบคุณต่อได้"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  },
+  {
+   "id": "M1-EN-T06-10",
+   "grade": "M1",
+   "subject": "EN",
+   "topic_no": 6,
+   "topic": "Conversation: การสื่อสารในชีวิตประจำวัน",
+   "course_code": "อ21102",
+   "level": 3,
+   "levelName": "ยาก",
+   "question": "A: \"I'm sorry I'm late.\" B: \"___\"",
+   "choices": [
+    "Nice to meet you.",
+    "You're welcome.",
+    "That's OK. Please sit down.",
+    "Me too."
+   ],
+   "answer": 2,
+   "explanation": [
+    "ตอบรับคำขอโทษอย่างสุภาพ"
+   ],
+   "hint": null,
+   "no_shuffle": false,
+   "status": "draft",
+   "source": "Helix topic, draft",
+   "review_flag": null,
+   "verified": "manual-review"
+  }
+ ]
+}
