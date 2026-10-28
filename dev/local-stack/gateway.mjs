@@ -32,8 +32,9 @@ const MIME = { ".html": "text/html; charset=utf-8", ".js": "text/javascript; cha
 http.createServer((req, res) => {
   let p = decodeURIComponent(new URL(req.url, "http://x").pathname);
   if (p.endsWith("/")) p += "index.html";
-  const f = path.join(ROOT, p);
-  if (!f.startsWith(ROOT)) { res.writeHead(403); return res.end(); }
+  // local stack: /web/config.js is served from .local/config.js (the committed config.js points at production)
+  const f = (p === "/web/config.js" && process.env.LOCAL_CONFIG && fs.existsSync(process.env.LOCAL_CONFIG)) ? process.env.LOCAL_CONFIG : path.join(ROOT, p);
+  if (!f.startsWith(ROOT) && f !== process.env.LOCAL_CONFIG) { res.writeHead(403); return res.end(); }
   fs.readFile(f, (err, buf) => {
     if (err) { res.writeHead(404); return res.end("not found"); }
     res.writeHead(200, { "content-type": MIME[path.extname(f)] || "application/octet-stream", "cache-control": "no-store" }); res.end(buf);

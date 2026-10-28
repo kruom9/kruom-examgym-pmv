@@ -5,7 +5,8 @@
   const ABBR = { MA: "คณ", SC: "วท", EN: "En", TH: "ทย", SO: "สค", PH: "ฟส", CH: "คม", BI: "ชว", TG1: "T1", TG2: "T2", TG3: "T3" };
   const S = { user: null, prof: null, cat: null, grade: null, items: null, sets: null, P: null, QS: null, X: null, last: null, tick: null };
   const SCHOOL_OTHER = "__other__";
-  const isTeacher = () => S.prof && (S.prof.role === "teacher" || S.prof.role === "admin");
+  const isTeacher = () => S.prof && ["teacher", "director", "admin"].includes(S.prof.role);
+  const SECTION = window.EG_SECTION || "mattayom", BASE = U.BASE || "";
 
   // ---------- helpers ----------
   const gradeOf = code => S.cat.grades.find(g => g.code === code);
@@ -26,6 +27,8 @@
 
   async function boot() {
     S.cat = await D.catalogue();
+    // this block shows only its own section's grades (grades.section_code is derived from the code: M* → mattayom)
+    S.cat.grades = S.cat.grades.filter(g => (g.section_code || (g.code[0] === "P" ? "prathom" : "mattayom")) === SECTION);
     S.user = await D.user();
     S.prof = S.user ? await D.profile() : null;
     window.addEventListener("hashchange", route);
@@ -67,17 +70,19 @@
   // ---------- landing (before login) ----------
   function scrLanding() {
     const grades = S.cat.grades.map(g => gradeTile(g, false)).join("");
-    render(U.topbar({ title: "Exam Gym ปิยมิตรมัธยม", sub: "โรงเรียนปิยมิตรวิทยา ฝ่ายมัธยม", actions: U.btn("ครู", { kind: "text", go: "#/teacher", test: "teacher-link" }) })
+    render(U.topbar({ title: "Exam Gym ปิยมิตรมัธยม", sub: "โรงเรียนปิยมิตรวิทยา ฝ่ายมัธยม", actions: U.btn("เลือกฝ่าย", { kind: "text", sm: true, href: BASE || "../", test: "to-portal" }) + U.btn("ครู", { kind: "text", go: "#/teacher", test: "teacher-link" }) })
       + U.page(
-        U.hero({ title: "Exam Gym ปิยมิตรมัธยม", sub: "ฝึกข้อสอบ ม.1–ม.6 ตามบทเรียนเทอม 2 · ตรวจให้ทันที · ใช้ฟรี", mood: "hello",
+        U.hero({ title: "Exam Gym ปิยมิตรมัธยม", sub: "ฝึกข้อสอบ ม.1–ม.5 ตามบทเรียนเทอม 2 · ตรวจให้ทันที · ใช้ฟรี", mood: "hello",
           extra: U.btns(U.btn("เริ่มลงทะเบียน", { kind: "light", go: "#/register", test: "start" })) })
+        + U.card(U.h2("เริ่มใช้ใน 3 ขั้น") + `<div class="eg-steps"><div class="eg-step"><b>1</b>กรอกชื่อ โรงเรียน และ LINE ID (ไม่ต้องตั้งรหัสผ่าน)</div><div class="eg-step"><b>2</b>เลือกชั้นและห้องของตัวเอง</div><div class="eg-step"><b>3</b>เลือกวิชา ฝึกทีละบท แล้วเข้าห้องสอบ</div></div>`
+          + U.note("ระบบจำเครื่องนี้ไว้ เปิดครั้งต่อไปจะเข้าหน้าชั้นของน้องทันที (ถ้าล้างข้อมูลเบราว์เซอร์ ต้องลงทะเบียนใหม่)"))
         + U.card(U.h2("นักเรียน ม.6") + U.p("ม.6 ใช้ Exam Gym ม.6 เดิมไปก่อน (เข้าสู่ระบบด้วยบัญชีเดิม) ระหว่างย้ายเข้าระบบใหม่")
           + U.btns(U.btn("ไป Exam Gym ม.6 (ระบบเดิม) ↗", { kind: "ghost", href: D.M6_URL, test: "m6-login" })))
         + U.h2("ชั้นที่เปิดให้ฝึก") + U.grid(grades, 3) + U.foot()));
   }
   function gradeTile(g, interactive) {
     const n = gradeCount(g.code);
-    if (g.status === "external") return U.gradeCard({ icon: g.name_th.slice(-1), title: `Exam Gym ${g.name_th}`, sub: `ระบบ ม.6 เดิม · ${n} ข้อในคลัง`, end: U.badge("ระบบเดิม ↗", "pink"), href: D.M6_URL, test: "grade-" + g.code });
+    if (g.status === "external") return U.gradeCard({ icon: g.name_th.slice(-1), title: `Exam Gym ${g.name_th}`, sub: `ระบบ ม.6 เดิม · ${n} ข้อในคลัง`, end: U.badge("ระบบเดิม ↗", "pink"), href: g.external_url || D.M6_URL, test: "grade-" + g.code });
     if (g.status !== "live" || !n) return U.gradeCard({ icon: g.name_th.slice(-1), title: `Exam Gym ${g.name_th}`, sub: "กำลังเตรียมข้อสอบ", end: U.soon(), muted: true, test: "grade-" + g.code });
     const subs = subjectsOf(g.code).filter(s => subjCount(s.id)).length;
     return U.gradeCard({ icon: g.name_th.slice(-1), title: `Exam Gym ${g.name_th}`, sub: `${subs} วิชา · ${n} ข้อ (ร่าง รอครูตรวจ)`, end: U.badge("เปิดแล้ว", "ok", "✓"),
@@ -301,16 +306,31 @@
   }
 
   // ---------- teacher dashboard (same design system) ----------
-  async function scrTeacher(gsel) {
+  function teacherLoginForm(err, email) {
+    err = err || {};
+    return U.card(`<form id="tlogin" class="eg-stack eg-login" novalidate>${U.h2("เข้าสู่ระบบครู / ผู้บริหาร")}`
+      + U.field({ id: "t_email", label: "อีเมลของโรงเรียน", type: "email", auto: "username", value: email, err: err.email, ph: "name@piyamit.ac.th" })
+      + U.field({ id: "t_pw", label: "รหัสผ่าน", type: "password", auto: "current-password", err: err.pw, reveal: true, help: "บัญชีครูสร้างโดยผู้ดูแลระบบเท่านั้น นักเรียนไม่ต้องใช้หน้านี้" })
+      + U.btn("เข้าสู่ระบบ", { kind: "primary", type: "submit", test: "tlogin" }) + `</form>`);
+  }
+  async function scrTeacher(gsel, err, email) {
     if (!S.prof || !isTeacher()) {
       render(U.topbar({ title: "สำหรับครู", sub: "Exam Gym ปิยมิตรมัธยม", back: "#/" }) + U.page(U.split(
-        U.card(`<form id="tlogin" class="eg-stack">${U.h2("เข้าสู่ระบบครู")}${U.field({ id: "t_email", label: "อีเมล", type: "email", auto: "username" })}${U.field({ id: "t_pw", label: "รหัสผ่าน", type: "password", auto: "current-password" })}${U.btn("เข้าสู่ระบบ", { kind: "primary", type: "submit", test: "tlogin" })}</form>`),
-        U.hero({ title: "แดชบอร์ดครู", sub: "ดูความก้าวหน้ารายห้อง รายบท รายคน และตรวจข้อสอบร่าง", mood: "grammar" }))));
+        teacherLoginForm(err, email),
+        U.hero({ title: "แดชบอร์ดครู", sub: "ดูความก้าวหน้ารายห้อง รายบท รายคน และตรวจข้อสอบร่าง", mood: "grammar" })
+        + U.card(U.h2("ผู้บริหาร") + U.p("รายงานภาพรวมทุกชั้น (ค่าเฉลี่ย มัธยฐาน ผ่าน/ไม่ผ่าน การใช้งาน) อยู่ที่หน้ารายงานผู้บริหาร")
+          + U.btns(U.btn("ไปหน้ารายงานผู้บริหาร ›", { kind: "ghost", href: BASE + "dashboard/", test: "to-dashboard" }))))));
       document.getElementById("tlogin").addEventListener("submit", async e => { e.preventDefault();
-        try { S.prof = await D.teacherLogin(document.getElementById("t_email").value.trim(), document.getElementById("t_pw").value); S.user = await D.user(); if (!isTeacher()) { U.toast("บัญชีนี้ไม่ใช่บัญชีครู"); await D.signOut(); S.prof = null; return; } scrTeacher(); } catch (x) { fail(x); } });
+        const em = document.getElementById("t_email").value.trim(), pw = document.getElementById("t_pw").value;
+        const E = {}; if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(em)) E.email = "กรุณากรอกอีเมลให้ถูกต้อง"; if (!pw) E.pw = "กรุณากรอกรหัสผ่าน";
+        if (Object.keys(E).length) return scrTeacher(gsel, E, em);
+        const btn = e.target.querySelector("[data-test=tlogin]"); btn.disabled = true; btn.textContent = "กำลังเข้าสู่ระบบ…";
+        try { S.prof = await D.teacherLogin(em, pw); S.user = await D.user(); if (!isTeacher()) { await D.signOut(); S.prof = null; S.user = null; return scrTeacher(gsel, { pw: "บัญชีนี้ไม่ใช่บัญชีครู" }, em); } scrTeacher(); }
+        catch (x) { console.warn(x); scrTeacher(gsel, { pw: /invalid/i.test(x.message || "") ? "อีเมลหรือรหัสผ่านไม่ถูกต้อง" : "เข้าสู่ระบบไม่สำเร็จ: " + (x.message || x) }, em); } });
       return;
     }
-    const grades = await D.teacherGrades(); const g = gsel && grades.includes(gsel) ? gsel : grades[0];
+    const grades = (await D.teacherGrades(S.cat.grades)).filter(x => gradeOf(x)); const g = gsel && grades.includes(gsel) ? gsel : grades[0];
+    if (!g) { render(U.topbar({ title: "แดชบอร์ดครู", sub: S.prof.full_name, actions: U.btn("ออก", { kind: "text", act: "signout" }) }) + U.page(U.empty("ยังไม่มีชั้นที่ดูแล", "ให้ผู้ดูแลระบบกำหนดชั้นหรือฝ่ายที่ดูแล", "wait", U.btns(U.btn("ไปหน้ารายงานผู้บริหาร ›", { kind: "ghost", href: BASE + "dashboard/" }))))); return; }
     const [prog, rooms, strands, items] = await Promise.all([D.view("v_student_progress", g), D.view("v_room_summary", g), D.view("v_strand_summary", g), D.view("v_item_stats", g)]);
     const active = rooms.reduce((a, r) => a + Number(r.n_active_7d || 0), 0), studs = prog.length;
     const ans = strands.reduce((a, r) => a + Number(r.n_answers), 0), cor = strands.reduce((a, r) => a + Number(r.n_correct), 0);
@@ -332,6 +352,8 @@
   const clearErr = e => { const f = e.target.closest && e.target.closest(".eg-field--err"); if (f) { f.classList.remove("eg-field--err"); const m = f.querySelector(".eg-field__err"); if (m) m.textContent = ""; } };
   document.addEventListener("input", clearErr); document.addEventListener("change", clearErr);
   document.addEventListener("click", async e => {
+    const rv = e.target.closest("[data-reveal]");
+    if (rv) { const i = document.getElementById(rv.dataset.reveal); const show = i.type === "password"; i.type = show ? "text" : "password"; rv.textContent = show ? "ซ่อน" : "แสดง"; rv.setAttribute("aria-label", show ? "ซ่อนรหัสผ่าน" : "แสดงรหัสผ่าน"); return; }
     const el = e.target.closest("[data-go],[data-act]"); if (!el || el.disabled) return;
     if (el.dataset.go) { e.preventDefault(); if (S.X && !S.X.done && location.hash.startsWith("#/x/") && !confirm("ออกจากห้องสอบ? เวลายังเดินต่อ")) return; return go(el.dataset.go); }
     const a = el.dataset.act, arg = el.dataset.arg;

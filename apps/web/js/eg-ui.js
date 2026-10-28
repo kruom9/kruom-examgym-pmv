@@ -2,10 +2,11 @@
 (function () {
   const esc = s => String(s == null ? "" : s).replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
   const attrs = o => Object.entries(o || {}).filter(([, v]) => v != null && v !== false).map(([k, v]) => v === true ? ` ${k}` : ` ${k}="${esc(v)}"`).join("");
-  const ART = "assets/art/";
+  const BASE = window.EG_BASE || "", ART = BASE + "assets/art/";
+  const SECTION_TXT = { mattayom: "ฝ่ายมัธยม", prathom: "ฝ่ายประถม" };
   const KEYS = ["ก", "ข", "ค", "ง", "จ"];
   const UI = {
-    esc, attrs, KEYS,
+    esc, attrs, KEYS, BASE,
     topbar({ title, sub, back, actions }) {
       return `<header class="eg-top"><div class="eg-top__in">${back ? `<button class="eg-top__back" data-go="${esc(back)}" aria-label="ย้อนกลับ">‹</button>` : ""}`
         + `<img class="eg-top__logo" src="${ART}piyamit-logo-256.png" alt="โรงเรียนปิยมิตรวิทยา">`
@@ -66,11 +67,12 @@
     },
     empty(title, sub, mood, extra) { return `<div class="eg-empty">${UI.mascot(mood || "wait", "eg-empty__art")}<b>${esc(title)}</b>${sub ? `<span class="eg-sm">${esc(sub)}</span>` : ""}${extra || ""}</div>`; },
     seg(items, cur, act) { return `<div class="eg-seg" role="tablist">${items.map(([k, t]) => `<button role="tab" class="${k === cur ? "is-on" : ""}" data-act="${esc(act)}" data-arg="${esc(k)}">${esc(t)}</button>`).join("")}</div>`; },
-    field({ id, label, type, ph, value, err, max, options, auto }) {
+    field({ id, label, type, ph, value, err, max, options, auto, help, reveal }) {
       const ctl = options
         ? `<select id="${esc(id)}" name="${esc(id)}">${options}</select>`
         : `<input id="${esc(id)}" name="${esc(id)}"${attrs({ type: type || "text", placeholder: ph, value: value || "", maxlength: max, autocomplete: auto || "off" })}>`;
-      return `<div class="eg-field${err ? " eg-field--err" : ""}"><label for="${esc(id)}">${esc(label)}</label>${ctl}<div class="eg-field__err">${esc(err || "")}</div></div>`;
+      const eye = reveal ? `<button type="button" class="eg-btn eg-btn--text eg-btn--sm eg-field__eye" data-reveal="${esc(id)}" aria-label="แสดงรหัสผ่าน">แสดง</button>` : "";
+      return `<div class="eg-field${err ? " eg-field--err" : ""}"><label for="${esc(id)}">${esc(label)}</label>${eye ? `<div class="eg-field__ctl">${ctl}${eye}</div>` : ctl}${help ? `<div class="eg-field__help">${esc(help)}</div>` : ""}<div class="eg-field__err" role="alert">${esc(err || "")}</div></div>`;
     },
     check: (id, html, checked) => `<label class="eg-check"><input type="checkbox" id="${esc(id)}"${checked ? " checked" : ""}><span>${html}</span></label>`,
     // question + choices. state: {sel, reveal, order:[orig idx...], keys:[...]}
@@ -90,7 +92,11 @@
       const kind = ok == null ? "warn" : ok ? "ok" : "no";
       return `<div class="eg-explain eg-explain--${kind}"><b>${esc(title || (ok ? "✓ ถูกต้อง" : ok == null ? "△ ทบทวน" : "✗ ยังไม่ถูก"))}</b>${(lines || []).filter(Boolean).map(l => `<span>${esc(l)}</span>`).join("")}</div>`;
     },
-    foot: () => `<footer class="eg-foot"><img src="${ART}icon-64.png" alt="">โรงเรียนปิยมิตรวิทยา ฝ่ายมัธยม · อ.เชียงคำ จ.พะเยา</footer>`,
+    foot: () => `<footer class="eg-foot"><img src="${ART}icon-64.png" alt="">โรงเรียนปิยมิตรวิทยา${window.EG_SECTION ? " " + SECTION_TXT[window.EG_SECTION] : ""} · อ.เชียงคำ จ.พะเยา</footer>`,
+    // section / portal card (big choice)
+    sectionCard({ title, sub, lines, href, cta, art, test, muted }) {
+      return `<a class="eg-card eg-sect${muted ? " eg-sect--muted" : ""}"${attrs({ href, "data-test": test })}><img class="eg-sect__art" src="${ART}${art || "mascot-hello.svg"}" alt=""><div class="eg-stack eg-grow"><b class="eg-h1">${esc(title)}</b>${sub ? `<span class="eg-mut">${esc(sub)}</span>` : ""}${lines ? `<ul class="eg-list eg-sm eg-mut">${lines.map(l => `<li>${esc(l)}</li>`).join("")}</ul>` : ""}<span class="eg-btn eg-btn--primary eg-sect__cta">${esc(cta || "เข้าใช้งาน")} ›</span></div></a>`;
+    },
     toast(msg) { const d = document.createElement("div"); d.className = "eg-toast"; d.setAttribute("role", "status"); d.textContent = msg; document.body.appendChild(d); setTimeout(() => d.remove(), 2600); },
     // apply data-driven widths (progress, score ring) after each render
     hydrate(root) {

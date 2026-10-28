@@ -35,15 +35,17 @@ export GOTRUE_RATE_LIMIT_ANONYMOUS_USERS=300 GOTRUE_LOG_LEVEL=info GOTRUE_DB_MIG
 
 # our project: migrations then seed (same order as `supabase db reset`)
 python3 "$HERE/apply_sql.py" "$DB" "$REPO"/supabase/migrations/*.sql "$REPO/supabase/seed.sql"
+# ประถม catalogue (outline only) — LOCAL schema test; the ประถม project (kruom-examgym-p6) is owned/reviewed by Peter
+python3 "$HERE/apply_sql.py" "$DB" "$REPO/supabase/prathom/seed_prathom.sql"
 
 # PostgREST (authenticator → anon/authenticated by JWT role claim)
 export PGRST_DB_URI="postgresql://authenticator:local-dev-only@127.0.0.1:54322/postgres" PGRST_DB_SCHEMAS=public PGRST_DB_ANON_ROLE=anon
 export PGRST_JWT_SECRET="$JWT_SECRET" PGRST_SERVER_PORT=54331 PGRST_SERVER_HOST=127.0.0.1 PGRST_DB_EXTRA_SEARCH_PATH=extensions
 nohup "$PGRST" >"$LOG/postgrest.log" 2>&1 & echo $! > "$LOCAL/postgrest.pid"
 
-SB_API_KEYS="$ANON_KEY,$SERVICE_ROLE_KEY" nohup node "$HERE/gateway.mjs" "$REPO/apps" >"$LOG/gateway.log" 2>&1 & echo $! > "$LOCAL/gateway.pid"
+LOCAL_CONFIG="$LOCAL/config.js" SB_API_KEYS="$ANON_KEY,$SERVICE_ROLE_KEY" nohup node "$HERE/gateway.mjs" "$REPO/apps" >"$LOG/gateway.log" 2>&1 & echo $! > "$LOCAL/gateway.pid"
 
-# app config for the local test (git-ignored)
-printf 'window.EXAMGYM_CONFIG = {\n  SUPABASE_URL: "http://127.0.0.1:54321",\n  SUPABASE_ANON_KEY: "%s",\n  M6_URL: "https://kruom9.github.io/kruom-cefr/examgym/m6-ios/"\n};\n' "$ANON_KEY" > "$REPO/apps/web/config.js"
+# app config for the local test (.local/, git-ignored; gateway serves it as /web/config.js)
+printf 'window.EXAMGYM_CONFIG = {\n  SUPABASE_URL: "http://127.0.0.1:54321",\n  SUPABASE_ANON_KEY: "%s",\n  M6_URL: "https://kruom9.github.io/kruom-cefr/examgym/m6-ios/",\n  PRATHOM: { P6_URL: "https://kruom9.github.io/kruom-xexamgym-p6/", SUPABASE_URL: null }\n};\n' "$ANON_KEY" > "$LOCAL/config.js"
 for i in $(seq 1 40); do curl -sf http://127.0.0.1:54321/auth/v1/health -H "apikey: $ANON_KEY" >/dev/null && curl -sf "http://127.0.0.1:54321/rest/v1/grades?select=code" -H "apikey: $ANON_KEY" >/dev/null && break; sleep 0.5; done
 echo "ExamGym local stack up: API http://127.0.0.1:54321  apps http://127.0.0.1:8080/web/  keys in .local/keys.env"

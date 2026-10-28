@@ -6,7 +6,7 @@ import json, os, re, sys, time, urllib.request
 from playwright.sync_api import sync_playwright
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 KEYS = dict(l.strip().split("=", 1) for l in open(os.path.join(ROOT, ".local/keys.env")) if "=" in l)
-APP = "http://127.0.0.1:8080/web/"
+APP = "http://127.0.0.1:8080/web/mattayom/"
 SHOTS = sys.argv[sys.argv.index("--shots") + 1] if "--shots" in sys.argv else None
 def rest(path):
     r = urllib.request.Request("http://127.0.0.1:54321/rest/v1/" + path, headers={"apikey": KEYS["SERVICE_ROLE_KEY"], "Authorization": "Bearer " + KEYS["SERVICE_ROLE_KEY"]})

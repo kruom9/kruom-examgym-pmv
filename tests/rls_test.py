@@ -50,7 +50,7 @@ st, j, _ = rest("POST", "attempts", body={"grade_code": "M1", "kind": "practice"
 st, j, _ = rpc("record_attempt", {"p": {"grade_code": "M1", "kind": "practice", "answers": [{"item_id": "x", "position": 1}]}}); check("anon cannot call record_attempt", denied(st), f"HTTP {st}")
 st, j, _ = rest("PATCH", "items?id=not.is.null", body={"answer_index": 0}); check("anon cannot update items", denied(st), f"HTTP {st}")
 st, j, _ = rpc("bank_counts", {}); check("anon can call bank_counts (public counts only)", st == 200 and isinstance(j, list) and len(j) > 0, f"HTTP {st}, {len(j) if isinstance(j, list) else j} rows")
-st, j, _ = rest("GET", "grades?select=code,status"); check("anon can read grades (picker)", st == 200 and len(j) == 6, f"{len(j) if isinstance(j, list) else j}")
+st, j, _ = rest("GET", "grades?select=code,status"); check("anon can read grades (picker)", st == 200 and len([g for g in j if g["code"].startswith("M")]) == 6, f"{len(j) if isinstance(j, list) else j}")
 
 # ---- two students, two grades ----
 A, a_id = student("นักเรียนทดสอบ เอ (สมมติ)", "M1", "ม.1/1")

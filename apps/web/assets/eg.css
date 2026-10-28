@@ -238,3 +238,29 @@ h1, h2, h3, p { margin: 0; }
 .eg-list { margin: 0; padding-left: 1.2em; display: flex; flex-direction: column; gap: 2px; }
 .eg-sticky-bottom { position: sticky; bottom: 0; padding: var(--eg-s3) 0 calc(var(--eg-s3) + env(safe-area-inset-bottom)); background: linear-gradient(to top, var(--eg-bg) 70%, transparent); }
 .eg-card--hero .eg-progline { color: rgba(255,255,255,.92); }
+
+/* ---------- 12. Portal sections, login polish, dashboard filters (same tokens) ---------- */
+.eg-sect { display: flex; gap: var(--eg-s4); align-items: center; text-decoration: none; color: inherit; }
+.eg-sect:hover { border-color: var(--eg-primary); }
+.eg-sect:focus-visible { outline: 3px solid var(--eg-primary); outline-offset: 2px; }
+.eg-sect__art { width: 96px; height: 96px; flex: 0 0 auto; }
+.eg-sect__cta { align-self: flex-start; margin-top: var(--eg-s2); }
+.eg-sect--muted { opacity: .8; }
+@media (max-width: 560px) { .eg-sect { flex-direction: column; align-items: flex-start; } .eg-sect__art { width: 72px; height: 72px; } }
+.eg-field__ctl { position: relative; display: flex; align-items: center; }
+.eg-field__ctl input { padding-right: 76px; }
+.eg-field__eye { position: absolute; right: 6px; min-height: 36px; }
+.eg-field__help { font-size: var(--eg-t-sm); color: var(--eg-ink-2); }
+.eg-login { max-width: 460px; width: 100%; margin: 0 auto; }
+.eg-login .eg-btn--primary { width: 100%; }
+.eg-steps { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--eg-s3); }
+.eg-step { display: flex; flex-direction: column; gap: var(--eg-s1); padding: var(--eg-s3); border-radius: var(--eg-r-sm); background: var(--eg-surface-2); font-size: var(--eg-t-sm); }
+.eg-step b { color: var(--eg-primary); font-size: var(--eg-t-md); }
+@media (max-width: 560px) { .eg-steps { grid-template-columns: 1fr; } }
+.eg-filters { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: var(--eg-s3); align-items: end; }
+.eg-filters .eg-field__err { display: none; }
+.eg-filters input[type=number] { max-width: 100%; }
+.eg-kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: var(--eg-s3); }
+.eg-demo { border: 2px dashed var(--eg-warn); }
+/* section cards stack on phones (portal) */
+@media (max-width: 599px) { .eg-grid--2:has(> .eg-sect) { grid-template-columns: 1fr; } }

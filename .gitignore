@@ -1,5 +1,8 @@
 # local secrets / config (never commit)
 apps/*/config.js
+# the PUBLIC web config (URL + publishable key only) is committed for GitHub Pages
+!apps/web/config.js
+.secrets/
 .env
 .env.*
 !.env.example
@@ -26,3 +29,4 @@ backend/
 # generated review output
 review/
 *.pdf
+__pycache__/

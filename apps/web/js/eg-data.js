@@ -1,4 +1,4 @@
-/* Exam Gym · data layer (supabase-js → local stack now, the piyamit-academic Supabase project later; same code) */
+/* Exam Gym · data layer (supabase-js → local stack in tests, kruom-examgym-ms in production; same code) */
 (function () {
   const CFG = window.EXAMGYM_CONFIG || {};
   const sb = window.supabase.createClient(CFG.SUPABASE_URL, CFG.SUPABASE_ANON_KEY, { auth: { persistSession: true, autoRefreshToken: true, storageKey: "examgym-auth" } });
@@ -31,7 +31,13 @@
     async attempt(id) { return must(await sb.from("attempts").select("*, answers(item_id,position,choice_index,is_correct,time_ms)").eq("id", id).maybeSingle()); },
     async teacherLogin(email, password) { must(await sb.auth.signInWithPassword({ email, password })); return D.profile(); },
     async view(name, g) { return must(await sb.from(name).select("*").eq("grade_code", g).range(0, 999)); },
-    async teacherGrades() { const p = await D.profile(); const s = must(await sb.from("teacher_scopes").select("grade_code")); return [...new Set([p.grade_code, ...s.map(x => x.grade_code)].filter(Boolean))].sort(); },
+    async teacherGrades(allGrades) {
+      const p = await D.profile(); const s = must(await sb.from("teacher_scopes").select("grade_code"));
+      const sec = must(await sb.from("teacher_section_scopes").select("section_code")).map(x => x.section_code);
+      const fromSec = (allGrades || []).filter(g => p.role === "admin" || sec.includes(g.section_code)).map(g => g.code);
+      return [...new Set([p.grade_code, ...s.map(x => x.grade_code), ...fromSec].filter(Boolean))].sort();
+    },
+    async rpc(name, args) { return must(await sb.rpc(name, args || {})); },
     async signOut() { await sb.auth.signOut(); }
   };
   window.EGData = D;
